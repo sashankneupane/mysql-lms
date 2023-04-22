@@ -20,7 +20,7 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 # Create brightspace database
-mycursor.execute("CREATE DATABASE IF NOT EXISTS brightspace")
+mycursor.execute("CREATE DATABASE IF NOT EXISTS lms")
 
 # Commit the changes
 mydb.commit()

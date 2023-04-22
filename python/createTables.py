@@ -13,7 +13,7 @@ mydb = mysql.connector.connect(
   host="localhost",
   user=username,
   password=password,
-  database="brightspace"
+  database="lms"
 )
 
 # Create a cursor object
@@ -153,6 +153,19 @@ CREATE TABLE IF NOT EXISTS grades (
 '''
 mycursor.execute(create_grades_table)
 
+
+
+create_announcements_table = '''
+CREATE TABLE IF NOT EXISTS announcements (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    course_id INT NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    description TEXT NOT NULL,
+    date DATETIME NOT NULL,
+    FOREIGN KEY (course_id) REFERENCES courses(id)
+);
+'''
+mycursor.execute(create_announcements_table)
 
 
 # Commit the changes
