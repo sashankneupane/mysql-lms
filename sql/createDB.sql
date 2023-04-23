@@ -1,3 +1,5 @@
+-- ONLY CREATES TABLES AND DATABASE IF THEY DON'T EXIST
+
 -- Create the database if it doesn't exist
 CREATE 
 DATABASE IF NOT EXISTS 
@@ -5,7 +7,7 @@ lms;
 
 USE lms;
 
--- Create the tables in the database
+-- Create Users table
 CREATE TABLE IF NOT EXISTS users (
     user_id INT PRIMARY KEY,
     firstname VARCHAR(255) NOT NULL,
@@ -17,6 +19,7 @@ CREATE TABLE IF NOT EXISTS users (
 
 
 
+-- Create Departments table
 CREATE TABLE IF NOT EXISTS departments (
     dept_id INT PRIMARY KEY,
     dept_name VARCHAR(255) NOT NULL
@@ -24,6 +27,7 @@ CREATE TABLE IF NOT EXISTS departments (
 
 
 
+-- Create Majors table
 CREATE TABLE IF NOT EXISTS majors (
     major_id INT PRIMARY KEY,
     dept_id INT NOT NULL, 
@@ -32,7 +36,7 @@ CREATE TABLE IF NOT EXISTS majors (
 );
 
 
-
+-- Create Students table
 CREATE TABLE IF NOT EXISTS students (
     user_id INT PRIMARY KEY,
     major_id INT NOT NULL,
@@ -41,6 +45,8 @@ CREATE TABLE IF NOT EXISTS students (
 );
 
 
+
+-- Create Professors table
 CREATE TABLE IF NOT EXISTS professors (
     user_id INT PRIMARY KEY,
     dept_id INT NOT NULL,
@@ -50,6 +56,7 @@ CREATE TABLE IF NOT EXISTS professors (
 
 
 
+-- Create Admins table
 CREATE TABLE IF NOT EXISTS admins (
     user_id INT PRIMARY KEY,
     FOREIGN KEY (user_id) REFERENCES users(user_id)
@@ -57,19 +64,22 @@ CREATE TABLE IF NOT EXISTS admins (
 
 
 
+--  Create Courses table
 CREATE TABLE IF NOT EXISTS courses (
     course_id INT PRIMARY KEY,
-    code VARCHAR(255) NOT NULL,
+    course_code VARCHAR(255) NOT NULL,
     course_name VARCHAR(255) NOT NULL,
-    course_description TEXT,
-    credit_hours INT NOT NULL,
     professor_id INT NOT NULL,
     dept_id INT NOT NULL,
+    credit_hours INT NOT NULL,
+    course_description TEXT,
     FOREIGN KEY (professor_id) REFERENCES professors(user_id),
     FOREIGN KEY (dept_id) REFERENCES departments(dept_id)
 );
 
 
+
+-- Create Assignments table
 CREATE TABLE IF NOT EXISTS assignments (
     assignment_id INT PRIMARY KEY,
     course_id INT,
@@ -80,8 +90,10 @@ CREATE TABLE IF NOT EXISTS assignments (
 );
 
 
+
+-- Create Enrollments table
 CREATE TABLE IF NOT EXISTS enrollments (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    enroll_id INT AUTO_INCREMENT PRIMARY KEY,
     student_id INT,
     course_id INT,
     status ENUM('enrolled', 'dropped'),
@@ -90,6 +102,8 @@ CREATE TABLE IF NOT EXISTS enrollments (
 );
 
 
+
+-- Create Grades table
 CREATE TABLE IF NOT EXISTS grades (
     grade_id INT PRIMARY KEY,
     student_id INT NOT NULL,
@@ -100,10 +114,3 @@ CREATE TABLE IF NOT EXISTS grades (
     FOREIGN KEY (course_id) REFERENCES courses(course_id),
     FOREIGN KEY (assignment_id) REFERENCES assignments(assignment_id)
 );
-
-SOURCE ./sql/users.sql;
-SOURCE ./sql/departments.sql;
-SOURCE ./sql/majors.sql;
-SOURCE ./sql/students.sql;
-SOURCE ./sql/professors.sql;
-SOURCE ./sql/admins.sql;

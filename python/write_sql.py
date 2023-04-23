@@ -70,5 +70,25 @@ with open("./sql/admins.sql", mode="w") as populatesql:
             query = f'INSERT INTO admins (user_id)\nVALUES ("{row["user_id"]}");'
             populatesql.write(query + "\n\n")
 
+# write courses to courses.sql
+with open("./sql/courses.sql", mode="w") as populatesql:
+    # write courses to populate sql file
+    with open("./data/courses.csv", mode="r") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            query = f'INSERT INTO courses (course_id, course_code, course_name, professor_id, dept_id, credit_hours, course_description)\nVALUES ("{row["course_id"]}", "{row["course_code"]}", "{row["course_name"]}"  ,"{row["professor_id"]}", "{row["dept_id"]}", "{row["credit_hours"]}", "{row["course_description"]}");'
+            populatesql.write(query + "\n\n")
+
+
+# write course_enrollments to course_enrollments.sql
+with open("./sql/enrollments.sql", mode="w") as populatesql:
+    # write course_enrollments to populate sql file
+    with open("./data/enrollments.csv", mode="r") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            query = f'INSERT INTO enrollments (student_id, course_id, status)\nVALUES ("{row["student_id"]}", "{row["course_id"]}", "{row["status"]}");'
+            populatesql.write(query + "\n\n")
+
+mydb.commit()
 
 

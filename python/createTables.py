@@ -96,15 +96,16 @@ mycursor.execute(create_admins_table)
 create_courses_table = '''
 CREATE TABLE IF NOT EXISTS courses (
     course_id INT PRIMARY KEY,
-    code VARCHAR(255) NOT NULL,
+    course_code VARCHAR(255) NOT NULL,
     course_name VARCHAR(255) NOT NULL,
-    course_description TEXT,
-    credit_hours INT NOT NULL,
     professor_id INT NOT NULL,
     dept_id INT NOT NULL,
+    credit_hours INT NOT NULL,
+    course_description TEXT,
     FOREIGN KEY (professor_id) REFERENCES professors(user_id),
     FOREIGN KEY (dept_id) REFERENCES departments(dept_id)
 );
+
 '''
 mycursor.execute(create_courses_table)
 

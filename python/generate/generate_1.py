@@ -4,6 +4,7 @@ from faker import Faker
 import random
 import json
 
+
 # Create a Faker object
 fake = Faker()
 
@@ -122,5 +123,3 @@ with open("./data/users.csv", mode="w", newline="") as file:
     studentfile.close()
     professorfile.close()
     adminfile.close()
-
-# ----------------------------------------------------------------------------------------

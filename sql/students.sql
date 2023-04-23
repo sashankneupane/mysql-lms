@@ -1,13677 +1,13683 @@
 INSERT INTO students (user_id, major_id)
-VALUES ("0", "38");
+VALUES ("0", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1", "71");
+VALUES ("1", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2", "43");
+VALUES ("2", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3", "27");
+VALUES ("3", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("5", "67");
+VALUES ("4", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("6", "15");
+VALUES ("5", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("7", "78");
+VALUES ("6", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("8", "55");
+VALUES ("7", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("9", "59");
+VALUES ("8", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("10", "50");
+VALUES ("9", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("11", "12");
+VALUES ("10", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("13", "32");
+VALUES ("12", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("14", "20");
+VALUES ("13", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("15", "74");
+VALUES ("14", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("16", "31");
+VALUES ("15", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("17", "24");
+VALUES ("16", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("18", "43");
+VALUES ("17", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("19", "36");
+VALUES ("18", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("20", "49");
+VALUES ("19", "29");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("20", "59");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("21", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("22", "26");
+VALUES ("22", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("23", "0");
+VALUES ("23", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("25", "4");
+VALUES ("24", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("27", "22");
+VALUES ("25", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("28", "56");
+VALUES ("26", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("30", "70");
+VALUES ("27", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("31", "47");
+VALUES ("28", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("32", "46");
+VALUES ("29", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("33", "75");
+VALUES ("30", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("34", "39");
+VALUES ("31", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("35", "78");
+VALUES ("32", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("37", "13");
+VALUES ("33", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("38", "34");
+VALUES ("34", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("39", "26");
+VALUES ("35", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("40", "7");
+VALUES ("36", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("41", "56");
+VALUES ("37", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("42", "9");
+VALUES ("38", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("43", "10");
+VALUES ("39", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("44", "37");
+VALUES ("40", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("45", "68");
+VALUES ("41", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("46", "24");
+VALUES ("42", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("47", "52");
+VALUES ("43", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("48", "38");
+VALUES ("44", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("49", "64");
+VALUES ("45", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("51", "21");
+VALUES ("46", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("52", "1");
+VALUES ("47", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("53", "17");
+VALUES ("48", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("54", "2");
+VALUES ("49", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("55", "60");
+VALUES ("52", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("56", "79");
+VALUES ("53", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("58", "13");
+VALUES ("54", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("59", "41");
+VALUES ("55", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("60", "3");
+VALUES ("56", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("61", "10");
+VALUES ("57", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("62", "48");
+VALUES ("58", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("63", "26");
+VALUES ("61", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("64", "8");
+VALUES ("62", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("65", "76");
+VALUES ("63", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("66", "6");
+VALUES ("64", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("68", "56");
+VALUES ("65", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("70", "50");
+VALUES ("66", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("71", "64");
+VALUES ("67", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("72", "69");
+VALUES ("68", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("73", "8");
+VALUES ("69", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("74", "52");
+VALUES ("70", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("75", "8");
+VALUES ("71", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("76", "31");
+VALUES ("72", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("79", "58");
+VALUES ("73", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("80", "31");
+VALUES ("74", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("81", "68");
+VALUES ("75", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("82", "70");
+VALUES ("77", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("83", "70");
+VALUES ("78", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("84", "76");
+VALUES ("79", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("85", "58");
+VALUES ("80", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("87", "64");
+VALUES ("81", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("88", "51");
+VALUES ("82", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("89", "21");
+VALUES ("83", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("90", "67");
+VALUES ("85", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("91", "5");
+VALUES ("87", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("92", "6");
+VALUES ("89", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("93", "46");
+VALUES ("90", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("94", "64");
+VALUES ("91", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("95", "53");
+VALUES ("92", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("96", "17");
+VALUES ("93", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("98", "16");
+VALUES ("94", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("99", "77");
+VALUES ("95", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("100", "19");
+VALUES ("96", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("104", "61");
+VALUES ("97", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("105", "1");
+VALUES ("98", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("106", "29");
+VALUES ("99", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("107", "73");
+VALUES ("100", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("108", "13");
+VALUES ("101", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("109", "34");
+VALUES ("102", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("110", "28");
+VALUES ("103", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("111", "72");
+VALUES ("104", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("113", "3");
+VALUES ("105", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("114", "8");
+VALUES ("106", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("115", "41");
+VALUES ("107", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("116", "2");
+VALUES ("108", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("117", "45");
+VALUES ("109", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("118", "33");
+VALUES ("110", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("119", "53");
+VALUES ("111", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("121", "31");
+VALUES ("112", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("123", "5");
+VALUES ("113", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("124", "3");
+VALUES ("115", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("126", "49");
+VALUES ("116", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("128", "48");
+VALUES ("117", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("129", "18");
+VALUES ("118", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("130", "42");
+VALUES ("119", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("131", "70");
+VALUES ("120", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("132", "41");
+VALUES ("121", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("133", "30");
+VALUES ("122", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("134", "36");
+VALUES ("123", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("135", "0");
+VALUES ("124", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("136", "51");
+VALUES ("125", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("137", "37");
+VALUES ("126", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("138", "18");
+VALUES ("127", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("139", "7");
+VALUES ("129", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("140", "61");
+VALUES ("130", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("141", "46");
+VALUES ("131", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("142", "24");
+VALUES ("132", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("143", "18");
+VALUES ("134", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("144", "37");
+VALUES ("135", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("145", "11");
+VALUES ("136", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("146", "33");
+VALUES ("137", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("147", "61");
+VALUES ("138", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("148", "49");
+VALUES ("139", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("149", "1");
+VALUES ("140", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("150", "44");
+VALUES ("141", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("151", "60");
+VALUES ("142", "80");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("143", "60");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("144", "71");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("145", "25");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("146", "70");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("147", "13");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("148", "13");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("149", "61");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("150", "79");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("151", "54");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("152", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("153", "10");
+VALUES ("153", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("154", "18");
+VALUES ("154", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("155", "16");
+VALUES ("157", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("156", "1");
+VALUES ("158", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("157", "57");
+VALUES ("159", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("158", "11");
+VALUES ("160", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("159", "46");
+VALUES ("161", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("160", "20");
+VALUES ("162", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("162", "14");
+VALUES ("163", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("163", "38");
+VALUES ("164", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("164", "3");
+VALUES ("165", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("165", "26");
+VALUES ("166", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("166", "64");
+VALUES ("167", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("167", "64");
+VALUES ("168", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("168", "52");
+VALUES ("169", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("169", "11");
+VALUES ("170", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("170", "12");
+VALUES ("171", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("171", "31");
+VALUES ("172", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("172", "44");
+VALUES ("173", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("173", "78");
+VALUES ("174", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("174", "25");
+VALUES ("175", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("175", "16");
+VALUES ("176", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("176", "8");
+VALUES ("177", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("177", "76");
+VALUES ("178", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("178", "39");
+VALUES ("179", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("179", "66");
+VALUES ("180", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("180", "50");
+VALUES ("182", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("181", "55");
+VALUES ("183", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("182", "50");
+VALUES ("184", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("183", "65");
+VALUES ("185", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("184", "54");
+VALUES ("186", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("185", "45");
+VALUES ("187", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("186", "60");
+VALUES ("188", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("187", "60");
+VALUES ("189", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("188", "40");
+VALUES ("190", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("189", "69");
+VALUES ("191", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("190", "22");
+VALUES ("192", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("191", "18");
+VALUES ("193", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("193", "54");
+VALUES ("194", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("194", "51");
+VALUES ("195", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("196", "16");
+VALUES ("196", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("197", "1");
+VALUES ("197", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("198", "65");
+VALUES ("198", "18");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("199", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("200", "9");
+VALUES ("200", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("201", "38");
+VALUES ("201", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("202", "22");
+VALUES ("202", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("203", "3");
+VALUES ("203", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("204", "59");
+VALUES ("204", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("205", "7");
+VALUES ("205", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("207", "77");
+VALUES ("206", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("208", "65");
+VALUES ("207", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("209", "14");
+VALUES ("208", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("210", "33");
+VALUES ("209", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("211", "37");
+VALUES ("211", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("212", "1");
+VALUES ("212", "53");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("213", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("214", "6");
+VALUES ("214", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("215", "18");
+VALUES ("215", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("216", "15");
+VALUES ("216", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("217", "78");
+VALUES ("217", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("218", "53");
+VALUES ("218", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("220", "8");
+VALUES ("219", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("221", "35");
+VALUES ("220", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("222", "47");
+VALUES ("221", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("224", "44");
+VALUES ("222", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("225", "13");
+VALUES ("223", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("226", "18");
+VALUES ("224", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("227", "45");
+VALUES ("225", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("229", "0");
+VALUES ("226", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("230", "58");
+VALUES ("227", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("231", "65");
+VALUES ("228", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("232", "80");
+VALUES ("229", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("233", "22");
+VALUES ("230", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("234", "8");
+VALUES ("231", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("235", "68");
+VALUES ("232", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("236", "73");
+VALUES ("233", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("237", "51");
+VALUES ("234", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("238", "9");
+VALUES ("235", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("239", "7");
+VALUES ("236", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("240", "26");
+VALUES ("237", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("241", "7");
+VALUES ("238", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("242", "17");
+VALUES ("239", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("243", "56");
+VALUES ("240", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("244", "28");
+VALUES ("241", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("245", "0");
+VALUES ("242", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("246", "0");
+VALUES ("244", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("247", "66");
+VALUES ("245", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("248", "6");
+VALUES ("247", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("249", "32");
+VALUES ("248", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("250", "50");
+VALUES ("250", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("251", "22");
+VALUES ("252", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("252", "19");
+VALUES ("253", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("253", "16");
+VALUES ("255", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("254", "33");
+VALUES ("256", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("255", "22");
+VALUES ("257", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("256", "18");
+VALUES ("258", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("257", "6");
+VALUES ("259", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("258", "41");
+VALUES ("260", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("259", "28");
+VALUES ("261", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("260", "45");
+VALUES ("262", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("261", "25");
+VALUES ("263", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("262", "5");
+VALUES ("264", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("263", "11");
+VALUES ("266", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("264", "7");
+VALUES ("267", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("265", "11");
+VALUES ("268", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("266", "17");
+VALUES ("269", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("267", "9");
+VALUES ("270", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("268", "54");
+VALUES ("271", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("269", "27");
+VALUES ("272", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("270", "69");
+VALUES ("273", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("271", "50");
+VALUES ("274", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("273", "69");
+VALUES ("275", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("274", "72");
+VALUES ("276", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("275", "79");
+VALUES ("277", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("276", "13");
+VALUES ("278", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("277", "63");
+VALUES ("279", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("278", "51");
+VALUES ("280", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("280", "58");
+VALUES ("281", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("281", "55");
+VALUES ("282", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("282", "59");
+VALUES ("283", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("283", "56");
+VALUES ("284", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("284", "77");
+VALUES ("285", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("285", "49");
+VALUES ("286", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("286", "75");
+VALUES ("287", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("287", "14");
+VALUES ("288", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("288", "75");
+VALUES ("289", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("289", "41");
+VALUES ("290", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("290", "28");
+VALUES ("291", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("291", "16");
+VALUES ("292", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("292", "71");
+VALUES ("293", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("293", "33");
+VALUES ("294", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("294", "60");
+VALUES ("296", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("295", "32");
+VALUES ("297", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("297", "74");
+VALUES ("298", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("298", "48");
+VALUES ("299", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("300", "61");
+VALUES ("300", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("302", "56");
+VALUES ("301", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("303", "10");
+VALUES ("303", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("305", "37");
+VALUES ("306", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("306", "21");
+VALUES ("307", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("307", "72");
+VALUES ("308", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("308", "17");
+VALUES ("309", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("309", "55");
+VALUES ("310", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("310", "3");
+VALUES ("311", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("311", "73");
+VALUES ("312", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("312", "21");
+VALUES ("313", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("313", "50");
+VALUES ("314", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("314", "34");
+VALUES ("315", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("315", "70");
+VALUES ("316", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("316", "21");
+VALUES ("318", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("317", "70");
+VALUES ("319", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("318", "59");
+VALUES ("320", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("319", "6");
+VALUES ("321", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("320", "24");
+VALUES ("322", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("322", "57");
+VALUES ("323", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("323", "48");
+VALUES ("324", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("324", "59");
+VALUES ("325", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("326", "32");
+VALUES ("326", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("327", "10");
+VALUES ("327", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("328", "53");
+VALUES ("328", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("329", "49");
+VALUES ("329", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("330", "35");
+VALUES ("331", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("331", "23");
+VALUES ("332", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("332", "49");
+VALUES ("333", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("333", "5");
+VALUES ("334", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("334", "6");
+VALUES ("335", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("335", "9");
+VALUES ("336", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("336", "35");
+VALUES ("337", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("337", "21");
+VALUES ("339", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("338", "19");
+VALUES ("340", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("339", "16");
+VALUES ("341", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("340", "10");
+VALUES ("342", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("341", "77");
+VALUES ("344", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("342", "31");
+VALUES ("345", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("343", "6");
+VALUES ("346", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("344", "36");
+VALUES ("347", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("345", "17");
+VALUES ("348", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("346", "46");
+VALUES ("349", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("347", "54");
+VALUES ("350", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("348", "73");
+VALUES ("351", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("349", "43");
+VALUES ("352", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("350", "2");
+VALUES ("353", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("351", "48");
+VALUES ("354", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("352", "14");
+VALUES ("355", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("353", "25");
+VALUES ("357", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("354", "64");
+VALUES ("358", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("355", "46");
+VALUES ("359", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("357", "51");
+VALUES ("360", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("358", "41");
+VALUES ("361", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("359", "5");
+VALUES ("363", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("360", "5");
+VALUES ("364", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("361", "5");
+VALUES ("365", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("362", "11");
+VALUES ("366", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("363", "10");
+VALUES ("367", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("364", "62");
+VALUES ("368", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("365", "64");
+VALUES ("369", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("367", "14");
+VALUES ("370", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("368", "33");
+VALUES ("371", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("369", "26");
+VALUES ("372", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("370", "25");
+VALUES ("373", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("371", "37");
+VALUES ("374", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("372", "45");
+VALUES ("375", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("373", "69");
+VALUES ("376", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("374", "41");
+VALUES ("377", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("375", "37");
+VALUES ("378", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("376", "60");
+VALUES ("379", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("377", "18");
+VALUES ("380", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("378", "70");
+VALUES ("381", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("379", "31");
+VALUES ("382", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("380", "47");
+VALUES ("383", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("381", "62");
+VALUES ("384", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("382", "18");
+VALUES ("385", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("383", "62");
+VALUES ("386", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("384", "11");
+VALUES ("387", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("385", "15");
+VALUES ("389", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("386", "67");
+VALUES ("391", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("387", "42");
+VALUES ("392", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("389", "32");
+VALUES ("393", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("390", "75");
+VALUES ("394", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("391", "25");
+VALUES ("395", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("393", "15");
+VALUES ("396", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("394", "8");
+VALUES ("397", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("396", "71");
+VALUES ("398", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("397", "63");
+VALUES ("400", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("398", "60");
+VALUES ("401", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("399", "54");
+VALUES ("402", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("400", "20");
+VALUES ("403", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("401", "7");
+VALUES ("404", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("402", "37");
+VALUES ("405", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("404", "7");
+VALUES ("406", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("405", "64");
+VALUES ("407", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("406", "47");
+VALUES ("408", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("407", "52");
+VALUES ("409", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("408", "1");
+VALUES ("410", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("409", "30");
+VALUES ("411", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("410", "36");
+VALUES ("412", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("411", "50");
+VALUES ("413", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("412", "15");
+VALUES ("414", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("413", "39");
+VALUES ("415", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("414", "43");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("415", "67");
+VALUES ("416", "36");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("417", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("418", "66");
+VALUES ("418", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("419", "24");
+VALUES ("419", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("420", "9");
+VALUES ("420", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("421", "64");
+VALUES ("421", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("422", "24");
+VALUES ("422", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("423", "18");
+VALUES ("423", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("424", "40");
+VALUES ("424", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("425", "40");
+VALUES ("425", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("426", "64");
+VALUES ("427", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("427", "15");
+VALUES ("428", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("428", "60");
+VALUES ("429", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("429", "18");
+VALUES ("430", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("430", "13");
+VALUES ("431", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("431", "45");
+VALUES ("432", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("432", "33");
+VALUES ("433", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("433", "39");
+VALUES ("435", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("434", "46");
+VALUES ("436", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("435", "30");
+VALUES ("437", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("436", "37");
+VALUES ("438", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("437", "0");
+VALUES ("439", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("438", "10");
+VALUES ("440", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("439", "15");
+VALUES ("441", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("440", "60");
+VALUES ("442", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("441", "3");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("442", "37");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("443", "29");
+VALUES ("443", "53");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("444", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("445", "67");
+VALUES ("445", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("446", "2");
+VALUES ("446", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("447", "48");
+VALUES ("447", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("448", "56");
+VALUES ("448", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("449", "16");
+VALUES ("450", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("450", "60");
+VALUES ("451", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("451", "57");
+VALUES ("452", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("452", "48");
+VALUES ("453", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("453", "69");
+VALUES ("454", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("454", "4");
+VALUES ("455", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("455", "11");
+VALUES ("456", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("456", "44");
+VALUES ("457", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("457", "36");
+VALUES ("458", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("458", "80");
+VALUES ("459", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("459", "40");
+VALUES ("460", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("460", "64");
+VALUES ("461", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("461", "16");
+VALUES ("462", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("462", "58");
+VALUES ("463", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("463", "61");
+VALUES ("464", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("464", "19");
+VALUES ("465", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("465", "63");
+VALUES ("466", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("466", "44");
+VALUES ("467", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("468", "50");
+VALUES ("468", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("469", "18");
+VALUES ("469", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("471", "66");
+VALUES ("470", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("472", "76");
+VALUES ("471", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("473", "66");
+VALUES ("472", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("474", "14");
+VALUES ("473", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("475", "4");
+VALUES ("474", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("477", "59");
+VALUES ("475", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("478", "40");
+VALUES ("476", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("479", "40");
+VALUES ("477", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("480", "55");
+VALUES ("478", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("481", "37");
+VALUES ("479", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("482", "51");
+VALUES ("480", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("483", "3");
+VALUES ("481", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("484", "47");
+VALUES ("482", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("485", "80");
+VALUES ("483", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("487", "42");
+VALUES ("484", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("488", "58");
+VALUES ("485", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("490", "46");
+VALUES ("486", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("491", "34");
+VALUES ("487", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("492", "22");
+VALUES ("488", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("493", "50");
+VALUES ("489", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("494", "58");
+VALUES ("490", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("496", "1");
+VALUES ("491", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("497", "75");
+VALUES ("493", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("498", "43");
+VALUES ("495", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("499", "49");
+VALUES ("496", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("500", "66");
+VALUES ("497", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("501", "26");
+VALUES ("498", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("506", "0");
+VALUES ("499", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("507", "39");
+VALUES ("500", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("508", "39");
+VALUES ("501", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("509", "75");
+VALUES ("503", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("510", "13");
+VALUES ("504", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("512", "63");
+VALUES ("505", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("513", "79");
+VALUES ("507", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("514", "36");
+VALUES ("508", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("516", "30");
+VALUES ("509", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("517", "8");
+VALUES ("511", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("518", "40");
+VALUES ("512", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("519", "32");
+VALUES ("513", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("520", "72");
+VALUES ("514", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("522", "11");
+VALUES ("515", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("523", "23");
+VALUES ("516", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("524", "75");
+VALUES ("517", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("525", "16");
+VALUES ("518", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("526", "43");
+VALUES ("519", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("527", "59");
+VALUES ("520", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("528", "4");
+VALUES ("521", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("529", "52");
+VALUES ("522", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("530", "26");
+VALUES ("523", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("531", "58");
+VALUES ("524", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("532", "41");
+VALUES ("525", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("533", "36");
+VALUES ("526", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("534", "49");
+VALUES ("527", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("535", "36");
+VALUES ("528", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("536", "6");
+VALUES ("529", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("537", "2");
+VALUES ("530", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("539", "55");
+VALUES ("531", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("540", "20");
+VALUES ("532", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("541", "64");
+VALUES ("533", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("542", "68");
+VALUES ("534", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("543", "68");
+VALUES ("535", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("544", "51");
+VALUES ("536", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("545", "1");
+VALUES ("537", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("546", "28");
+VALUES ("538", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("547", "74");
+VALUES ("539", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("549", "9");
+VALUES ("540", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("550", "20");
+VALUES ("541", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("551", "22");
+VALUES ("542", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("552", "13");
+VALUES ("543", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("553", "17");
+VALUES ("544", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("554", "1");
+VALUES ("545", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("555", "77");
+VALUES ("546", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("556", "8");
+VALUES ("547", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("557", "64");
+VALUES ("548", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("558", "17");
+VALUES ("549", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("559", "40");
+VALUES ("550", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("560", "66");
+VALUES ("551", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("561", "23");
+VALUES ("552", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("562", "64");
+VALUES ("554", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("565", "39");
+VALUES ("555", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("566", "50");
+VALUES ("557", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("567", "44");
+VALUES ("558", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("568", "37");
+VALUES ("559", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("569", "49");
+VALUES ("560", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("570", "27");
+VALUES ("561", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("571", "36");
+VALUES ("563", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("572", "15");
+VALUES ("564", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("573", "48");
+VALUES ("565", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("574", "12");
+VALUES ("566", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("575", "19");
+VALUES ("567", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("576", "20");
+VALUES ("568", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("577", "1");
+VALUES ("569", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("578", "41");
+VALUES ("570", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("579", "58");
+VALUES ("571", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("580", "69");
+VALUES ("572", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("581", "13");
+VALUES ("573", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("582", "54");
+VALUES ("574", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("583", "60");
+VALUES ("575", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("584", "2");
+VALUES ("576", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("585", "69");
+VALUES ("577", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("586", "74");
+VALUES ("578", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("587", "32");
+VALUES ("579", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("588", "14");
+VALUES ("580", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("589", "80");
+VALUES ("582", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("590", "76");
+VALUES ("584", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("591", "9");
+VALUES ("585", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("592", "25");
+VALUES ("586", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("593", "39");
+VALUES ("587", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("594", "10");
+VALUES ("588", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("595", "50");
+VALUES ("589", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("596", "47");
+VALUES ("590", "77");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("591", "53");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("592", "5");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("593", "9");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("594", "72");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("595", "76");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("596", "69");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("597", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("598", "0");
+VALUES ("598", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("599", "13");
+VALUES ("599", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("601", "25");
+VALUES ("600", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("602", "6");
+VALUES ("601", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("604", "9");
+VALUES ("602", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("605", "69");
+VALUES ("603", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("606", "70");
+VALUES ("604", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("607", "58");
+VALUES ("605", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("608", "34");
+VALUES ("606", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("609", "4");
+VALUES ("607", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("610", "59");
+VALUES ("608", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("611", "63");
+VALUES ("609", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("612", "10");
+VALUES ("610", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("613", "6");
+VALUES ("611", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("614", "57");
+VALUES ("612", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("616", "17");
+VALUES ("613", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("617", "1");
+VALUES ("614", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("619", "33");
+VALUES ("616", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("620", "21");
+VALUES ("617", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("621", "35");
+VALUES ("618", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("622", "15");
+VALUES ("619", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("624", "46");
+VALUES ("620", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("625", "77");
+VALUES ("621", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("626", "5");
+VALUES ("622", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("627", "40");
+VALUES ("623", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("629", "32");
+VALUES ("625", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("630", "20");
+VALUES ("626", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("631", "34");
+VALUES ("628", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("632", "48");
+VALUES ("629", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("633", "7");
+VALUES ("630", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("634", "57");
+VALUES ("631", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("635", "68");
+VALUES ("632", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("636", "7");
+VALUES ("633", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("637", "24");
+VALUES ("634", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("638", "58");
+VALUES ("636", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("639", "43");
+VALUES ("637", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("640", "9");
+VALUES ("638", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("641", "25");
+VALUES ("639", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("643", "44");
+VALUES ("641", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("644", "34");
+VALUES ("642", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("645", "34");
+VALUES ("643", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("646", "9");
+VALUES ("644", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("647", "20");
+VALUES ("646", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("649", "21");
+VALUES ("647", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("650", "18");
+VALUES ("648", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("651", "41");
+VALUES ("649", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("652", "25");
+VALUES ("650", "76");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("651", "22");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("653", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("654", "41");
+VALUES ("654", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("655", "39");
+VALUES ("655", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("656", "72");
+VALUES ("656", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("657", "0");
+VALUES ("657", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("659", "27");
+VALUES ("658", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("660", "73");
+VALUES ("659", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("661", "28");
+VALUES ("660", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("662", "58");
+VALUES ("661", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("663", "41");
+VALUES ("662", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("664", "2");
+VALUES ("663", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("666", "34");
+VALUES ("664", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("667", "48");
+VALUES ("665", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("668", "63");
+VALUES ("666", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("669", "44");
+VALUES ("667", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("670", "38");
+VALUES ("669", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("671", "11");
+VALUES ("670", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("672", "56");
+VALUES ("671", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("673", "41");
+VALUES ("672", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("674", "25");
+VALUES ("673", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("675", "6");
+VALUES ("674", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("676", "39");
+VALUES ("675", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("677", "1");
+VALUES ("676", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("679", "11");
+VALUES ("677", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("680", "4");
+VALUES ("678", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("681", "32");
+VALUES ("679", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("682", "78");
+VALUES ("680", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("684", "28");
+VALUES ("681", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("685", "63");
+VALUES ("682", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("686", "68");
+VALUES ("683", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("687", "77");
+VALUES ("684", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("688", "0");
+VALUES ("685", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("689", "79");
+VALUES ("686", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("691", "60");
+VALUES ("687", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("692", "68");
+VALUES ("688", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("693", "52");
+VALUES ("689", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("695", "55");
+VALUES ("690", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("696", "36");
+VALUES ("691", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("697", "36");
+VALUES ("692", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("698", "32");
+VALUES ("693", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("699", "13");
+VALUES ("694", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("700", "70");
+VALUES ("695", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("702", "7");
+VALUES ("696", "18");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("697", "58");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("698", "16");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("699", "62");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("700", "57");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("701", "32");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("702", "26");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("703", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("704", "28");
+VALUES ("704", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("705", "47");
+VALUES ("706", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("706", "71");
+VALUES ("707", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("707", "46");
+VALUES ("708", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("708", "67");
+VALUES ("709", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("709", "60");
+VALUES ("710", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("710", "22");
+VALUES ("711", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("711", "54");
+VALUES ("712", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("712", "6");
+VALUES ("713", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("713", "15");
+VALUES ("714", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("714", "53");
+VALUES ("715", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("715", "9");
+VALUES ("716", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("716", "24");
+VALUES ("717", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("717", "78");
+VALUES ("718", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("718", "32");
+VALUES ("719", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("719", "51");
+VALUES ("720", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("720", "31");
+VALUES ("721", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("721", "30");
+VALUES ("722", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("722", "18");
+VALUES ("723", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("723", "73");
+VALUES ("724", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("724", "59");
+VALUES ("725", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("725", "4");
+VALUES ("727", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("726", "5");
+VALUES ("728", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("727", "26");
+VALUES ("729", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("728", "61");
+VALUES ("730", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("729", "34");
+VALUES ("731", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("730", "17");
+VALUES ("734", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("732", "24");
+VALUES ("735", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("733", "40");
+VALUES ("736", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("734", "22");
+VALUES ("737", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("735", "45");
+VALUES ("738", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("736", "62");
+VALUES ("739", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("738", "77");
+VALUES ("741", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("739", "77");
+VALUES ("742", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("740", "35");
+VALUES ("743", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("741", "77");
+VALUES ("744", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("742", "46");
+VALUES ("745", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("743", "18");
+VALUES ("746", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("744", "59");
+VALUES ("747", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("745", "57");
+VALUES ("748", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("746", "45");
+VALUES ("749", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("747", "56");
+VALUES ("750", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("748", "52");
+VALUES ("751", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("749", "11");
+VALUES ("752", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("751", "49");
+VALUES ("753", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("752", "71");
+VALUES ("754", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("753", "60");
+VALUES ("755", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("754", "3");
+VALUES ("756", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("755", "18");
+VALUES ("758", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("756", "70");
+VALUES ("760", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("757", "38");
+VALUES ("761", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("758", "64");
+VALUES ("762", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("759", "28");
+VALUES ("763", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("761", "32");
+VALUES ("764", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("762", "77");
+VALUES ("765", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("764", "48");
+VALUES ("766", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("765", "19");
+VALUES ("767", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("766", "71");
+VALUES ("768", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("767", "0");
+VALUES ("769", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("768", "12");
+VALUES ("771", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("769", "15");
+VALUES ("772", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("770", "75");
+VALUES ("773", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("771", "11");
+VALUES ("774", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("772", "5");
+VALUES ("775", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("774", "80");
+VALUES ("776", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("775", "18");
+VALUES ("777", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("776", "6");
+VALUES ("778", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("777", "0");
+VALUES ("779", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("778", "35");
+VALUES ("780", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("779", "47");
+VALUES ("782", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("780", "34");
+VALUES ("783", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("781", "38");
+VALUES ("785", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("782", "23");
+VALUES ("786", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("783", "69");
+VALUES ("788", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("785", "7");
+VALUES ("789", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("786", "68");
+VALUES ("790", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("787", "18");
+VALUES ("791", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("788", "13");
+VALUES ("792", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("789", "32");
+VALUES ("793", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("790", "10");
+VALUES ("794", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("791", "80");
+VALUES ("796", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("792", "65");
+VALUES ("797", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("793", "74");
+VALUES ("798", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("794", "59");
+VALUES ("799", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("795", "12");
+VALUES ("800", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("796", "52");
+VALUES ("801", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("797", "16");
+VALUES ("802", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("798", "16");
+VALUES ("803", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("799", "41");
+VALUES ("804", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("800", "1");
+VALUES ("805", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("801", "9");
+VALUES ("806", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("802", "68");
+VALUES ("807", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("803", "33");
+VALUES ("808", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("804", "35");
+VALUES ("810", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("805", "40");
+VALUES ("811", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("806", "73");
+VALUES ("812", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("807", "35");
+VALUES ("813", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("808", "73");
+VALUES ("814", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("809", "12");
+VALUES ("815", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("810", "13");
+VALUES ("816", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("811", "4");
+VALUES ("817", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("812", "74");
+VALUES ("820", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("813", "53");
+VALUES ("821", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("814", "78");
+VALUES ("822", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("815", "61");
+VALUES ("823", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("818", "18");
+VALUES ("824", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("819", "79");
+VALUES ("825", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("820", "79");
+VALUES ("826", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("821", "52");
+VALUES ("827", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("822", "7");
+VALUES ("828", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("823", "43");
+VALUES ("830", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("824", "24");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("825", "74");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("826", "27");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("827", "20");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("828", "32");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("829", "71");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("830", "0");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("831", "24");
+VALUES ("831", "69");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("832", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("833", "75");
+VALUES ("833", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("834", "64");
+VALUES ("834", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("835", "8");
+VALUES ("835", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("836", "4");
+VALUES ("836", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("837", "75");
+VALUES ("837", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("838", "80");
+VALUES ("838", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("839", "57");
+VALUES ("839", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("840", "67");
+VALUES ("840", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("841", "69");
+VALUES ("841", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("842", "54");
+VALUES ("842", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("843", "0");
+VALUES ("843", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("845", "58");
+VALUES ("844", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("846", "10");
+VALUES ("845", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("847", "1");
+VALUES ("846", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("848", "53");
+VALUES ("847", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("849", "2");
+VALUES ("848", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("850", "74");
+VALUES ("849", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("851", "29");
+VALUES ("850", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("852", "55");
+VALUES ("851", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("853", "64");
+VALUES ("852", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("854", "1");
+VALUES ("853", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("855", "48");
+VALUES ("854", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("856", "61");
+VALUES ("855", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("857", "21");
+VALUES ("856", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("858", "57");
+VALUES ("857", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("859", "71");
+VALUES ("858", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("860", "50");
+VALUES ("859", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("861", "61");
+VALUES ("860", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("862", "11");
+VALUES ("861", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("863", "29");
+VALUES ("862", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("864", "63");
+VALUES ("863", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("865", "52");
+VALUES ("864", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("866", "15");
+VALUES ("865", "38");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("866", "29");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("867", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("868", "58");
+VALUES ("868", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("869", "64");
+VALUES ("869", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("870", "56");
+VALUES ("870", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("871", "59");
+VALUES ("871", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("872", "26");
+VALUES ("872", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("874", "73");
+VALUES ("873", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("875", "80");
+VALUES ("875", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("876", "43");
+VALUES ("876", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("877", "69");
+VALUES ("877", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("878", "6");
+VALUES ("878", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("880", "56");
+VALUES ("879", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("881", "10");
+VALUES ("880", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("882", "25");
+VALUES ("881", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("883", "18");
+VALUES ("883", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("884", "47");
+VALUES ("884", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("885", "38");
+VALUES ("885", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("886", "47");
+VALUES ("886", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("887", "25");
+VALUES ("887", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("888", "29");
+VALUES ("888", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("890", "10");
+VALUES ("889", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("891", "78");
+VALUES ("890", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("892", "43");
+VALUES ("891", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("893", "21");
+VALUES ("892", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("894", "79");
+VALUES ("894", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("895", "8");
+VALUES ("895", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("896", "1");
+VALUES ("896", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("897", "5");
+VALUES ("897", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("898", "63");
+VALUES ("898", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("899", "78");
+VALUES ("899", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("900", "60");
+VALUES ("900", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("901", "3");
+VALUES ("901", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("902", "42");
+VALUES ("902", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("903", "32");
+VALUES ("903", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("905", "21");
+VALUES ("904", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("906", "21");
+VALUES ("905", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("907", "63");
+VALUES ("907", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("908", "61");
+VALUES ("908", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("909", "69");
+VALUES ("909", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("910", "17");
+VALUES ("910", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("911", "49");
+VALUES ("911", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("912", "35");
+VALUES ("912", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("913", "23");
+VALUES ("913", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("915", "32");
+VALUES ("914", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("916", "48");
+VALUES ("915", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("917", "19");
+VALUES ("916", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("918", "56");
+VALUES ("917", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("919", "67");
+VALUES ("919", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("920", "65");
+VALUES ("920", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("921", "61");
+VALUES ("922", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("922", "16");
+VALUES ("923", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("923", "61");
+VALUES ("924", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("924", "12");
+VALUES ("925", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("925", "2");
+VALUES ("926", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("926", "11");
+VALUES ("927", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("927", "21");
+VALUES ("928", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("928", "46");
+VALUES ("929", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("929", "74");
+VALUES ("930", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("930", "64");
+VALUES ("931", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("931", "69");
+VALUES ("932", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("932", "55");
+VALUES ("933", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("933", "0");
+VALUES ("934", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("934", "74");
+VALUES ("935", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("935", "15");
+VALUES ("936", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("936", "78");
+VALUES ("937", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("938", "49");
+VALUES ("938", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("939", "49");
+VALUES ("939", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("941", "68");
+VALUES ("940", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("942", "14");
+VALUES ("941", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("943", "42");
+VALUES ("942", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("944", "27");
+VALUES ("943", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("945", "77");
+VALUES ("944", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("946", "61");
+VALUES ("945", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("947", "6");
+VALUES ("946", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("948", "22");
+VALUES ("947", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("949", "35");
+VALUES ("948", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("950", "14");
+VALUES ("949", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("951", "45");
+VALUES ("950", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("952", "19");
+VALUES ("952", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("953", "36");
+VALUES ("953", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("954", "6");
+VALUES ("954", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("956", "31");
+VALUES ("955", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("957", "57");
+VALUES ("956", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("958", "43");
+VALUES ("957", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("959", "51");
+VALUES ("958", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("960", "41");
+VALUES ("959", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("961", "23");
+VALUES ("960", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("962", "22");
+VALUES ("961", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("963", "27");
+VALUES ("962", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("964", "60");
+VALUES ("963", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("965", "71");
+VALUES ("964", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("966", "19");
+VALUES ("965", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("968", "17");
+VALUES ("966", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("969", "58");
+VALUES ("967", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("970", "54");
+VALUES ("968", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("971", "75");
+VALUES ("969", "65");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("970", "67");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("971", "16");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("972", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("973", "30");
+VALUES ("973", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("974", "21");
+VALUES ("974", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("975", "73");
+VALUES ("975", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("977", "80");
+VALUES ("976", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("978", "77");
+VALUES ("977", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("979", "13");
+VALUES ("978", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("980", "59");
+VALUES ("980", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("981", "43");
+VALUES ("981", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("982", "69");
+VALUES ("982", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("983", "29");
+VALUES ("983", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("984", "42");
+VALUES ("984", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("986", "46");
+VALUES ("986", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("987", "64");
+VALUES ("987", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("988", "44");
+VALUES ("988", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("989", "34");
+VALUES ("989", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("990", "29");
+VALUES ("990", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("991", "10");
+VALUES ("991", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("992", "42");
+VALUES ("992", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("993", "26");
+VALUES ("993", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("994", "41");
+VALUES ("994", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("995", "60");
+VALUES ("995", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("996", "57");
+VALUES ("996", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("997", "2");
+VALUES ("997", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("998", "46");
+VALUES ("998", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("999", "9");
+VALUES ("999", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1000", "35");
+VALUES ("1000", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1001", "11");
+VALUES ("1001", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1002", "7");
+VALUES ("1002", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1003", "20");
+VALUES ("1004", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1004", "42");
+VALUES ("1005", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1005", "52");
+VALUES ("1006", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1006", "43");
+VALUES ("1008", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1007", "71");
+VALUES ("1010", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1008", "42");
+VALUES ("1011", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1009", "20");
+VALUES ("1012", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1011", "30");
+VALUES ("1013", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1012", "52");
+VALUES ("1014", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1013", "76");
+VALUES ("1016", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1014", "3");
+VALUES ("1017", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1015", "34");
+VALUES ("1018", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1016", "52");
+VALUES ("1019", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1017", "25");
+VALUES ("1020", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1018", "26");
+VALUES ("1021", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1019", "62");
+VALUES ("1023", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1020", "4");
+VALUES ("1024", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1021", "60");
+VALUES ("1025", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1022", "77");
+VALUES ("1026", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1023", "58");
+VALUES ("1027", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1025", "31");
+VALUES ("1028", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1026", "63");
+VALUES ("1029", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1027", "8");
+VALUES ("1030", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1028", "76");
+VALUES ("1031", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1029", "56");
+VALUES ("1034", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1030", "29");
+VALUES ("1035", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1031", "49");
+VALUES ("1036", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1033", "0");
+VALUES ("1037", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1034", "67");
+VALUES ("1038", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1035", "11");
+VALUES ("1039", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1036", "14");
+VALUES ("1040", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1037", "45");
+VALUES ("1041", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1038", "10");
+VALUES ("1042", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1039", "14");
+VALUES ("1044", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1040", "80");
+VALUES ("1045", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1041", "33");
+VALUES ("1046", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1042", "4");
+VALUES ("1047", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1043", "54");
+VALUES ("1048", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1044", "37");
+VALUES ("1049", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1045", "47");
+VALUES ("1050", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1046", "80");
+VALUES ("1051", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1047", "49");
+VALUES ("1052", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1048", "16");
+VALUES ("1053", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1049", "37");
+VALUES ("1054", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1050", "33");
+VALUES ("1056", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1051", "62");
+VALUES ("1057", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1052", "20");
+VALUES ("1059", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1053", "7");
+VALUES ("1060", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1055", "36");
+VALUES ("1061", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1056", "52");
+VALUES ("1062", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1057", "68");
+VALUES ("1063", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1058", "50");
+VALUES ("1064", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1059", "64");
+VALUES ("1065", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1060", "40");
+VALUES ("1066", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1061", "11");
+VALUES ("1067", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1062", "72");
+VALUES ("1070", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1063", "32");
+VALUES ("1071", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1064", "16");
+VALUES ("1073", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1065", "48");
+VALUES ("1074", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1066", "46");
+VALUES ("1076", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1067", "43");
+VALUES ("1077", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1068", "75");
+VALUES ("1078", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1069", "63");
+VALUES ("1079", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1070", "28");
+VALUES ("1080", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1071", "77");
+VALUES ("1081", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1072", "0");
+VALUES ("1083", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1073", "14");
+VALUES ("1084", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1074", "7");
+VALUES ("1085", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1075", "35");
+VALUES ("1086", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1076", "54");
+VALUES ("1088", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1077", "77");
+VALUES ("1089", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1078", "66");
+VALUES ("1090", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1079", "72");
+VALUES ("1091", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1080", "1");
+VALUES ("1093", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1081", "34");
+VALUES ("1094", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1082", "55");
+VALUES ("1095", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1083", "61");
+VALUES ("1097", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1084", "22");
+VALUES ("1098", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1085", "21");
+VALUES ("1099", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1086", "50");
+VALUES ("1100", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1087", "59");
+VALUES ("1101", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1088", "38");
+VALUES ("1102", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1089", "43");
+VALUES ("1103", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1090", "0");
+VALUES ("1104", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1092", "8");
+VALUES ("1105", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1093", "65");
+VALUES ("1106", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1094", "8");
+VALUES ("1107", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1095", "44");
+VALUES ("1108", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1096", "33");
+VALUES ("1109", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1097", "8");
+VALUES ("1111", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1098", "54");
+VALUES ("1113", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1099", "43");
+VALUES ("1114", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1100", "12");
+VALUES ("1115", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1101", "65");
+VALUES ("1116", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1102", "11");
+VALUES ("1118", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1103", "6");
+VALUES ("1119", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1104", "62");
+VALUES ("1120", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1106", "37");
+VALUES ("1122", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1107", "7");
+VALUES ("1124", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1108", "41");
+VALUES ("1125", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1109", "36");
+VALUES ("1126", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1111", "74");
+VALUES ("1127", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1112", "72");
+VALUES ("1128", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1113", "40");
+VALUES ("1129", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1114", "56");
+VALUES ("1130", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1115", "25");
+VALUES ("1131", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1116", "57");
+VALUES ("1132", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1117", "53");
+VALUES ("1133", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1118", "22");
+VALUES ("1134", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1119", "4");
+VALUES ("1135", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1120", "3");
+VALUES ("1136", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1121", "67");
+VALUES ("1137", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1122", "7");
+VALUES ("1138", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1123", "14");
+VALUES ("1139", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1124", "11");
+VALUES ("1140", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1125", "40");
+VALUES ("1141", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1126", "23");
+VALUES ("1142", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1127", "25");
+VALUES ("1143", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1128", "79");
+VALUES ("1144", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1129", "15");
+VALUES ("1145", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1130", "70");
+VALUES ("1146", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1131", "43");
+VALUES ("1147", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1132", "77");
+VALUES ("1148", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1133", "1");
+VALUES ("1149", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1134", "20");
+VALUES ("1150", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1135", "68");
+VALUES ("1151", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1136", "8");
+VALUES ("1152", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1137", "67");
+VALUES ("1153", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1138", "78");
+VALUES ("1154", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1139", "46");
+VALUES ("1155", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1140", "74");
+VALUES ("1156", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1141", "70");
+VALUES ("1157", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1142", "25");
+VALUES ("1159", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1143", "70");
+VALUES ("1160", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1144", "3");
+VALUES ("1161", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1145", "18");
+VALUES ("1162", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1146", "80");
+VALUES ("1163", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1147", "35");
+VALUES ("1165", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1148", "7");
+VALUES ("1166", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1149", "11");
+VALUES ("1167", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1150", "0");
+VALUES ("1168", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1151", "68");
+VALUES ("1169", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1152", "29");
+VALUES ("1170", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1153", "11");
+VALUES ("1171", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1154", "33");
+VALUES ("1172", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1155", "11");
+VALUES ("1173", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1156", "70");
+VALUES ("1174", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1158", "57");
+VALUES ("1175", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1159", "16");
+VALUES ("1176", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1160", "6");
+VALUES ("1177", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1161", "28");
+VALUES ("1178", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1162", "46");
+VALUES ("1179", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1163", "68");
+VALUES ("1180", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1164", "10");
+VALUES ("1181", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1167", "25");
+VALUES ("1182", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1168", "74");
+VALUES ("1184", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1169", "69");
+VALUES ("1185", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1170", "28");
+VALUES ("1186", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1171", "50");
+VALUES ("1187", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1172", "58");
+VALUES ("1188", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1173", "66");
+VALUES ("1189", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1175", "5");
+VALUES ("1190", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1176", "12");
+VALUES ("1191", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1177", "65");
+VALUES ("1192", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1178", "22");
+VALUES ("1193", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1179", "62");
+VALUES ("1194", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1180", "18");
+VALUES ("1195", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1181", "48");
+VALUES ("1196", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1182", "45");
+VALUES ("1197", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1183", "15");
+VALUES ("1198", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1184", "62");
+VALUES ("1200", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1185", "4");
+VALUES ("1201", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1186", "1");
+VALUES ("1202", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1187", "80");
+VALUES ("1203", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1188", "0");
+VALUES ("1204", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1190", "21");
+VALUES ("1205", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1192", "67");
+VALUES ("1206", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1193", "28");
+VALUES ("1207", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1195", "41");
+VALUES ("1208", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1196", "29");
+VALUES ("1209", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1197", "52");
+VALUES ("1210", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1198", "37");
+VALUES ("1212", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1199", "35");
+VALUES ("1213", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1200", "66");
+VALUES ("1214", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1201", "34");
+VALUES ("1215", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1202", "18");
+VALUES ("1216", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1203", "73");
+VALUES ("1217", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1204", "78");
+VALUES ("1218", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1205", "72");
+VALUES ("1219", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1206", "45");
+VALUES ("1220", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1207", "78");
+VALUES ("1221", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1208", "54");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1209", "79");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1210", "77");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1211", "9");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1212", "60");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1213", "42");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1214", "29");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1215", "36");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1216", "56");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1217", "22");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1218", "47");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1219", "54");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1220", "28");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1221", "50");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("1222", "13");
+VALUES ("1222", "36");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("1223", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1224", "75");
+VALUES ("1224", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1225", "59");
+VALUES ("1225", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1226", "74");
+VALUES ("1226", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1227", "65");
+VALUES ("1227", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1228", "4");
+VALUES ("1228", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1229", "45");
+VALUES ("1229", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1231", "57");
+VALUES ("1230", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1232", "56");
+VALUES ("1231", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1233", "6");
+VALUES ("1232", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1234", "24");
+VALUES ("1233", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1235", "69");
+VALUES ("1234", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1236", "12");
+VALUES ("1235", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1237", "11");
+VALUES ("1236", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1238", "19");
+VALUES ("1237", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1239", "58");
+VALUES ("1238", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1240", "60");
+VALUES ("1239", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1242", "2");
+VALUES ("1240", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1243", "56");
+VALUES ("1241", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1244", "6");
+VALUES ("1242", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1245", "21");
+VALUES ("1243", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1246", "30");
+VALUES ("1244", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1247", "58");
+VALUES ("1245", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1248", "69");
+VALUES ("1246", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1249", "36");
+VALUES ("1247", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1250", "33");
+VALUES ("1248", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1251", "58");
+VALUES ("1249", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1252", "0");
+VALUES ("1250", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1253", "66");
+VALUES ("1251", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1255", "26");
+VALUES ("1255", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1256", "2");
+VALUES ("1256", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1257", "25");
+VALUES ("1257", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1258", "75");
+VALUES ("1258", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1259", "19");
+VALUES ("1259", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1260", "43");
+VALUES ("1260", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1261", "75");
+VALUES ("1261", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1262", "27");
+VALUES ("1262", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1263", "74");
+VALUES ("1265", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1264", "72");
+VALUES ("1266", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1265", "49");
+VALUES ("1267", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1267", "5");
+VALUES ("1268", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1268", "2");
+VALUES ("1269", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1269", "30");
+VALUES ("1270", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1270", "28");
+VALUES ("1271", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1271", "23");
+VALUES ("1273", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1272", "7");
+VALUES ("1274", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1273", "2");
+VALUES ("1275", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1274", "26");
+VALUES ("1276", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1275", "13");
+VALUES ("1277", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1276", "31");
+VALUES ("1278", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1277", "41");
+VALUES ("1279", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1278", "71");
+VALUES ("1280", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1279", "33");
+VALUES ("1282", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1280", "4");
+VALUES ("1283", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1281", "79");
+VALUES ("1284", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1282", "72");
+VALUES ("1285", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1283", "29");
+VALUES ("1286", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1284", "4");
+VALUES ("1287", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1285", "25");
+VALUES ("1289", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1286", "24");
+VALUES ("1290", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1287", "4");
+VALUES ("1291", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1288", "23");
+VALUES ("1292", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1289", "33");
+VALUES ("1293", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1290", "63");
+VALUES ("1294", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1291", "48");
+VALUES ("1295", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1292", "66");
+VALUES ("1296", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1293", "1");
+VALUES ("1298", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1294", "47");
+VALUES ("1299", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1295", "53");
+VALUES ("1300", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1296", "38");
+VALUES ("1301", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1297", "32");
+VALUES ("1302", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1298", "61");
+VALUES ("1303", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1299", "69");
+VALUES ("1304", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1300", "77");
+VALUES ("1305", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1301", "28");
+VALUES ("1306", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1302", "73");
+VALUES ("1307", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1304", "62");
+VALUES ("1308", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1305", "42");
+VALUES ("1309", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1306", "29");
+VALUES ("1310", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1307", "34");
+VALUES ("1311", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1308", "62");
+VALUES ("1312", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1309", "36");
+VALUES ("1313", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1310", "38");
+VALUES ("1314", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1311", "20");
+VALUES ("1315", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1312", "37");
+VALUES ("1316", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1313", "28");
+VALUES ("1318", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1314", "57");
+VALUES ("1319", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1315", "44");
+VALUES ("1320", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1316", "51");
+VALUES ("1321", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1317", "5");
+VALUES ("1322", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1318", "72");
+VALUES ("1323", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1319", "50");
+VALUES ("1324", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1320", "57");
+VALUES ("1325", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1321", "9");
+VALUES ("1326", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1323", "58");
+VALUES ("1327", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1324", "65");
+VALUES ("1328", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1325", "80");
+VALUES ("1329", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1326", "4");
+VALUES ("1330", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1327", "56");
+VALUES ("1331", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1328", "26");
+VALUES ("1332", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1329", "46");
+VALUES ("1333", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1330", "33");
+VALUES ("1334", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1331", "80");
+VALUES ("1335", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1332", "69");
+VALUES ("1336", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1333", "76");
+VALUES ("1337", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1334", "1");
+VALUES ("1338", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1335", "52");
+VALUES ("1339", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1336", "76");
+VALUES ("1340", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1337", "48");
+VALUES ("1341", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1338", "14");
+VALUES ("1342", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1339", "1");
+VALUES ("1343", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1340", "42");
+VALUES ("1344", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1341", "41");
+VALUES ("1345", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1342", "59");
+VALUES ("1346", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1343", "40");
+VALUES ("1347", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1344", "76");
+VALUES ("1348", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1345", "16");
+VALUES ("1349", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1346", "12");
+VALUES ("1350", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1347", "67");
+VALUES ("1351", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1348", "69");
+VALUES ("1352", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1349", "1");
+VALUES ("1353", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1350", "80");
+VALUES ("1355", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1351", "67");
+VALUES ("1356", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1352", "67");
+VALUES ("1357", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1353", "49");
+VALUES ("1358", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1355", "28");
+VALUES ("1359", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1356", "8");
+VALUES ("1360", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1357", "23");
+VALUES ("1362", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1358", "6");
+VALUES ("1363", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1359", "20");
+VALUES ("1364", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1360", "22");
+VALUES ("1365", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1361", "0");
+VALUES ("1366", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1362", "64");
+VALUES ("1367", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1363", "70");
+VALUES ("1368", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1364", "15");
+VALUES ("1369", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1365", "58");
+VALUES ("1370", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1366", "9");
+VALUES ("1371", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1368", "22");
+VALUES ("1372", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1369", "55");
+VALUES ("1373", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1370", "16");
+VALUES ("1374", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1371", "14");
+VALUES ("1375", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1372", "53");
+VALUES ("1376", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1373", "20");
+VALUES ("1377", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1374", "41");
+VALUES ("1378", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1375", "47");
+VALUES ("1379", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1376", "24");
+VALUES ("1380", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1377", "36");
+VALUES ("1381", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1378", "30");
+VALUES ("1382", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1379", "75");
+VALUES ("1383", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1380", "48");
+VALUES ("1384", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1381", "26");
+VALUES ("1385", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1382", "39");
+VALUES ("1386", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1383", "34");
+VALUES ("1387", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1384", "76");
+VALUES ("1388", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1385", "71");
+VALUES ("1389", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1386", "73");
+VALUES ("1390", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1387", "66");
+VALUES ("1391", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1388", "72");
+VALUES ("1392", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1389", "16");
+VALUES ("1393", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1390", "25");
+VALUES ("1394", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1391", "24");
+VALUES ("1395", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1392", "10");
+VALUES ("1396", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1393", "31");
+VALUES ("1397", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1395", "23");
+VALUES ("1398", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1396", "13");
+VALUES ("1399", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1397", "78");
+VALUES ("1400", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1398", "14");
+VALUES ("1401", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1399", "48");
+VALUES ("1402", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1400", "9");
+VALUES ("1403", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1402", "43");
+VALUES ("1404", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1403", "20");
+VALUES ("1405", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1404", "58");
+VALUES ("1408", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1405", "44");
+VALUES ("1409", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1406", "67");
+VALUES ("1410", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1407", "52");
+VALUES ("1411", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1408", "5");
+VALUES ("1412", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1409", "45");
+VALUES ("1413", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1410", "37");
+VALUES ("1414", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1411", "12");
+VALUES ("1415", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1412", "42");
+VALUES ("1416", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1413", "29");
+VALUES ("1417", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1414", "13");
+VALUES ("1418", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1415", "21");
+VALUES ("1419", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1416", "67");
+VALUES ("1420", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1417", "75");
+VALUES ("1421", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1418", "64");
+VALUES ("1423", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1419", "72");
+VALUES ("1424", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1422", "39");
+VALUES ("1425", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1423", "55");
+VALUES ("1426", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1425", "40");
+VALUES ("1427", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1426", "76");
+VALUES ("1429", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1427", "69");
+VALUES ("1431", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1428", "77");
+VALUES ("1432", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1429", "1");
+VALUES ("1433", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1430", "33");
+VALUES ("1434", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1433", "77");
+VALUES ("1436", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1434", "42");
+VALUES ("1437", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1435", "51");
+VALUES ("1438", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1437", "52");
+VALUES ("1439", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1438", "73");
+VALUES ("1441", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1439", "80");
+VALUES ("1442", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1440", "1");
+VALUES ("1443", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1441", "4");
+VALUES ("1444", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1442", "17");
+VALUES ("1445", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1443", "36");
+VALUES ("1446", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1446", "67");
+VALUES ("1447", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1447", "71");
+VALUES ("1448", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1448", "11");
+VALUES ("1449", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1449", "71");
+VALUES ("1450", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1450", "46");
+VALUES ("1451", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1451", "79");
+VALUES ("1452", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1452", "52");
+VALUES ("1454", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1453", "13");
+VALUES ("1455", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1454", "53");
+VALUES ("1456", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1455", "42");
+VALUES ("1457", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1456", "77");
+VALUES ("1458", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1457", "10");
+VALUES ("1459", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1458", "80");
+VALUES ("1460", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1459", "53");
+VALUES ("1461", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1460", "63");
+VALUES ("1462", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1461", "14");
+VALUES ("1463", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1462", "72");
+VALUES ("1464", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1463", "54");
+VALUES ("1465", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1464", "17");
+VALUES ("1466", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1465", "13");
+VALUES ("1467", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1466", "69");
+VALUES ("1468", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1467", "80");
+VALUES ("1469", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1468", "34");
+VALUES ("1470", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1469", "75");
+VALUES ("1471", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1470", "42");
+VALUES ("1472", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1471", "28");
+VALUES ("1473", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1472", "1");
+VALUES ("1475", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1473", "36");
+VALUES ("1476", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1474", "13");
+VALUES ("1477", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1475", "20");
+VALUES ("1478", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1478", "3");
+VALUES ("1479", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1479", "4");
+VALUES ("1480", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1480", "57");
+VALUES ("1481", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1481", "62");
+VALUES ("1483", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1482", "41");
+VALUES ("1484", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1483", "32");
+VALUES ("1485", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1484", "37");
+VALUES ("1486", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1485", "56");
+VALUES ("1487", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1486", "46");
+VALUES ("1488", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1487", "4");
+VALUES ("1489", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1488", "51");
+VALUES ("1490", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1489", "13");
+VALUES ("1492", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1490", "71");
+VALUES ("1493", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1492", "16");
+VALUES ("1494", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1493", "30");
+VALUES ("1495", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1494", "29");
+VALUES ("1496", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1495", "46");
+VALUES ("1497", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1496", "11");
+VALUES ("1498", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1497", "44");
+VALUES ("1499", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1498", "1");
+VALUES ("1500", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1499", "51");
+VALUES ("1501", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1500", "25");
+VALUES ("1502", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1501", "70");
+VALUES ("1503", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1502", "20");
+VALUES ("1504", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1503", "25");
+VALUES ("1505", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1504", "68");
+VALUES ("1506", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1505", "4");
+VALUES ("1507", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1506", "52");
+VALUES ("1508", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1507", "4");
+VALUES ("1509", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1510", "33");
+VALUES ("1510", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1511", "12");
+VALUES ("1511", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1513", "59");
+VALUES ("1512", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1514", "18");
+VALUES ("1513", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1515", "16");
+VALUES ("1514", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1516", "64");
+VALUES ("1515", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1517", "32");
+VALUES ("1516", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1518", "33");
+VALUES ("1517", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1519", "28");
+VALUES ("1518", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1520", "75");
+VALUES ("1519", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1521", "48");
+VALUES ("1520", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1522", "60");
+VALUES ("1521", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1523", "33");
+VALUES ("1522", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1524", "24");
+VALUES ("1523", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1525", "8");
+VALUES ("1524", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1526", "35");
+VALUES ("1525", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1527", "48");
+VALUES ("1526", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1528", "24");
+VALUES ("1527", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1529", "49");
+VALUES ("1528", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1530", "71");
+VALUES ("1529", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1531", "13");
+VALUES ("1530", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1533", "23");
+VALUES ("1531", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1534", "21");
+VALUES ("1532", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1535", "64");
+VALUES ("1533", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1536", "21");
+VALUES ("1534", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1537", "28");
+VALUES ("1535", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1538", "3");
+VALUES ("1536", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1539", "32");
+VALUES ("1537", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1540", "0");
+VALUES ("1538", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1541", "48");
+VALUES ("1539", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1542", "58");
+VALUES ("1540", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1544", "26");
+VALUES ("1541", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1545", "42");
+VALUES ("1542", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1546", "58");
+VALUES ("1543", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1547", "9");
+VALUES ("1544", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1548", "53");
+VALUES ("1545", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1549", "76");
+VALUES ("1546", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1550", "16");
+VALUES ("1547", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1551", "69");
+VALUES ("1548", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1552", "50");
+VALUES ("1549", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1553", "78");
+VALUES ("1550", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1554", "52");
+VALUES ("1551", "32");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1552", "35");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1553", "31");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1554", "48");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1555", "16");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("1556", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1557", "58");
+VALUES ("1557", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1558", "41");
+VALUES ("1558", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1559", "73");
+VALUES ("1559", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1560", "31");
+VALUES ("1560", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1561", "74");
+VALUES ("1561", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1563", "46");
+VALUES ("1562", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1564", "46");
+VALUES ("1563", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1565", "49");
+VALUES ("1564", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1566", "6");
+VALUES ("1565", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1568", "73");
+VALUES ("1566", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1569", "8");
+VALUES ("1567", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1570", "9");
+VALUES ("1568", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1571", "70");
+VALUES ("1569", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1572", "25");
+VALUES ("1570", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1573", "66");
+VALUES ("1571", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1574", "78");
+VALUES ("1572", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1576", "29");
+VALUES ("1573", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1577", "37");
+VALUES ("1574", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1578", "31");
+VALUES ("1575", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1579", "19");
+VALUES ("1576", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1580", "25");
+VALUES ("1577", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1581", "10");
+VALUES ("1578", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1583", "11");
+VALUES ("1579", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1584", "73");
+VALUES ("1580", "70");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1581", "6");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1582", "50");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1583", "59");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("1584", "53");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("1585", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1586", "1");
+VALUES ("1586", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1588", "7");
+VALUES ("1587", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1589", "12");
+VALUES ("1588", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1590", "63");
+VALUES ("1589", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1591", "48");
+VALUES ("1590", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1593", "44");
+VALUES ("1591", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1594", "54");
+VALUES ("1592", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1595", "71");
+VALUES ("1593", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1596", "68");
+VALUES ("1594", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1597", "28");
+VALUES ("1595", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1598", "47");
+VALUES ("1596", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1599", "56");
+VALUES ("1597", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1600", "24");
+VALUES ("1599", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1601", "18");
+VALUES ("1600", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1602", "37");
+VALUES ("1601", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1603", "77");
+VALUES ("1602", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1604", "72");
+VALUES ("1603", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1605", "18");
+VALUES ("1604", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1606", "51");
+VALUES ("1605", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1607", "12");
+VALUES ("1606", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1608", "28");
+VALUES ("1607", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1609", "33");
+VALUES ("1608", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1610", "22");
+VALUES ("1610", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1611", "13");
+VALUES ("1611", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1612", "61");
+VALUES ("1612", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1613", "39");
+VALUES ("1613", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1614", "74");
+VALUES ("1614", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1615", "17");
+VALUES ("1615", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1616", "73");
+VALUES ("1616", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1617", "3");
+VALUES ("1617", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1618", "71");
+VALUES ("1618", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1619", "48");
+VALUES ("1619", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1620", "39");
+VALUES ("1620", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1621", "38");
+VALUES ("1622", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1622", "15");
+VALUES ("1623", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1623", "61");
+VALUES ("1624", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1624", "72");
+VALUES ("1625", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1625", "49");
+VALUES ("1626", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1627", "10");
+VALUES ("1627", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1628", "2");
+VALUES ("1628", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1629", "53");
+VALUES ("1629", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1631", "57");
+VALUES ("1630", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1632", "69");
+VALUES ("1631", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1633", "78");
+VALUES ("1632", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1634", "17");
+VALUES ("1633", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1635", "7");
+VALUES ("1634", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1636", "62");
+VALUES ("1635", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1637", "37");
+VALUES ("1636", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1638", "64");
+VALUES ("1637", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1639", "40");
+VALUES ("1638", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1640", "37");
+VALUES ("1639", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1641", "38");
+VALUES ("1640", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1642", "23");
+VALUES ("1641", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1643", "31");
+VALUES ("1642", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1644", "34");
+VALUES ("1643", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1645", "29");
+VALUES ("1644", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1646", "34");
+VALUES ("1645", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1647", "73");
+VALUES ("1646", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1648", "67");
+VALUES ("1647", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1649", "30");
+VALUES ("1648", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1650", "39");
+VALUES ("1649", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1651", "50");
+VALUES ("1651", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1652", "19");
+VALUES ("1652", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1654", "16");
+VALUES ("1653", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1655", "56");
+VALUES ("1654", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1656", "64");
+VALUES ("1655", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1657", "27");
+VALUES ("1656", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1658", "78");
+VALUES ("1657", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1659", "0");
+VALUES ("1658", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1660", "14");
+VALUES ("1660", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1661", "53");
+VALUES ("1661", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1662", "22");
+VALUES ("1663", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1663", "37");
+VALUES ("1664", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1664", "70");
+VALUES ("1665", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1666", "8");
+VALUES ("1666", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1668", "30");
+VALUES ("1667", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1669", "6");
+VALUES ("1668", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1670", "26");
+VALUES ("1669", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1671", "8");
+VALUES ("1670", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1672", "61");
+VALUES ("1671", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1673", "68");
+VALUES ("1672", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1674", "9");
+VALUES ("1673", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1675", "7");
+VALUES ("1674", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1676", "58");
+VALUES ("1675", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1677", "31");
+VALUES ("1676", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1681", "3");
+VALUES ("1677", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1682", "55");
+VALUES ("1678", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1683", "77");
+VALUES ("1680", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1684", "76");
+VALUES ("1681", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1685", "49");
+VALUES ("1682", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1686", "8");
+VALUES ("1683", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1687", "11");
+VALUES ("1684", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1688", "51");
+VALUES ("1685", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1689", "60");
+VALUES ("1686", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1690", "40");
+VALUES ("1687", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1691", "62");
+VALUES ("1688", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1692", "57");
+VALUES ("1689", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1693", "35");
+VALUES ("1691", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1694", "55");
+VALUES ("1692", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1695", "6");
+VALUES ("1693", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1697", "4");
+VALUES ("1694", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1698", "5");
+VALUES ("1696", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1699", "19");
+VALUES ("1697", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1700", "43");
+VALUES ("1698", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1701", "35");
+VALUES ("1700", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1702", "65");
+VALUES ("1702", "12");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("1703", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1704", "54");
+VALUES ("1705", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1705", "9");
+VALUES ("1707", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1706", "42");
+VALUES ("1708", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1707", "9");
+VALUES ("1709", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1708", "29");
+VALUES ("1710", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1709", "71");
+VALUES ("1711", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1710", "14");
+VALUES ("1712", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1711", "39");
+VALUES ("1713", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1712", "71");
+VALUES ("1714", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1713", "47");
+VALUES ("1715", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1714", "32");
+VALUES ("1716", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1715", "31");
+VALUES ("1717", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1716", "64");
+VALUES ("1718", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1717", "25");
+VALUES ("1719", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1719", "30");
+VALUES ("1720", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1720", "67");
+VALUES ("1721", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1721", "8");
+VALUES ("1722", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1722", "74");
+VALUES ("1723", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1723", "15");
+VALUES ("1724", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1724", "9");
+VALUES ("1725", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1725", "73");
+VALUES ("1726", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1726", "5");
+VALUES ("1727", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1727", "42");
+VALUES ("1728", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1728", "11");
+VALUES ("1729", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1729", "5");
+VALUES ("1730", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1731", "74");
+VALUES ("1731", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1732", "53");
+VALUES ("1732", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1733", "10");
+VALUES ("1733", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1734", "48");
+VALUES ("1734", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1735", "29");
+VALUES ("1735", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1736", "37");
+VALUES ("1736", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1737", "71");
+VALUES ("1737", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1739", "31");
+VALUES ("1738", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1740", "58");
+VALUES ("1739", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1741", "29");
+VALUES ("1740", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1742", "4");
+VALUES ("1741", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1743", "19");
+VALUES ("1742", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1744", "35");
+VALUES ("1743", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1745", "50");
+VALUES ("1744", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1746", "18");
+VALUES ("1745", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1747", "22");
+VALUES ("1746", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1749", "35");
+VALUES ("1747", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1750", "65");
+VALUES ("1748", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1751", "36");
+VALUES ("1749", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1753", "54");
+VALUES ("1750", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1754", "57");
+VALUES ("1751", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1755", "35");
+VALUES ("1752", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1756", "13");
+VALUES ("1753", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1758", "56");
+VALUES ("1754", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1759", "12");
+VALUES ("1755", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1760", "49");
+VALUES ("1756", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1761", "44");
+VALUES ("1757", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1762", "9");
+VALUES ("1758", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1763", "7");
+VALUES ("1759", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1764", "31");
+VALUES ("1762", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1765", "14");
+VALUES ("1763", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1766", "68");
+VALUES ("1764", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1767", "68");
+VALUES ("1765", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1768", "14");
+VALUES ("1766", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1769", "27");
+VALUES ("1767", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1770", "71");
+VALUES ("1768", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1771", "64");
+VALUES ("1769", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1772", "32");
+VALUES ("1770", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1773", "26");
+VALUES ("1771", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1774", "31");
+VALUES ("1772", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1775", "33");
+VALUES ("1773", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1776", "80");
+VALUES ("1774", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1777", "72");
+VALUES ("1775", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1779", "74");
+VALUES ("1776", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1781", "5");
+VALUES ("1777", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1782", "74");
+VALUES ("1778", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1783", "44");
+VALUES ("1779", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1785", "36");
+VALUES ("1781", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1786", "11");
+VALUES ("1782", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1787", "61");
+VALUES ("1783", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1788", "10");
+VALUES ("1784", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1789", "51");
+VALUES ("1786", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1790", "44");
+VALUES ("1787", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1791", "26");
+VALUES ("1788", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1792", "47");
+VALUES ("1789", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1794", "66");
+VALUES ("1790", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1795", "63");
+VALUES ("1791", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1796", "53");
+VALUES ("1792", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1798", "69");
+VALUES ("1793", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1799", "11");
+VALUES ("1794", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1801", "32");
+VALUES ("1795", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1802", "17");
+VALUES ("1796", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1803", "59");
+VALUES ("1797", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1804", "65");
+VALUES ("1798", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1805", "68");
+VALUES ("1799", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1806", "66");
+VALUES ("1800", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1807", "38");
+VALUES ("1801", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1808", "13");
+VALUES ("1802", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1809", "73");
+VALUES ("1803", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1810", "4");
+VALUES ("1804", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1812", "55");
+VALUES ("1805", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1813", "14");
+VALUES ("1806", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1814", "29");
+VALUES ("1807", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1815", "72");
+VALUES ("1808", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1816", "10");
+VALUES ("1809", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1817", "37");
+VALUES ("1810", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1818", "34");
+VALUES ("1811", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1819", "73");
+VALUES ("1812", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1820", "14");
+VALUES ("1813", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1821", "30");
+VALUES ("1814", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1823", "6");
+VALUES ("1815", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1824", "50");
+VALUES ("1816", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1825", "49");
+VALUES ("1817", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1826", "28");
+VALUES ("1818", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1827", "58");
+VALUES ("1819", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1828", "15");
+VALUES ("1820", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1829", "64");
+VALUES ("1821", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1830", "7");
+VALUES ("1822", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1831", "25");
+VALUES ("1823", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1832", "36");
+VALUES ("1824", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1833", "48");
+VALUES ("1825", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1834", "72");
+VALUES ("1826", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1835", "2");
+VALUES ("1827", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1836", "26");
+VALUES ("1828", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1838", "32");
+VALUES ("1829", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1839", "58");
+VALUES ("1830", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1840", "62");
+VALUES ("1831", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1841", "52");
+VALUES ("1832", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1842", "40");
+VALUES ("1833", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1843", "61");
+VALUES ("1834", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1844", "78");
+VALUES ("1835", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1845", "14");
+VALUES ("1836", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1846", "73");
+VALUES ("1837", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1848", "42");
+VALUES ("1838", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1849", "0");
+VALUES ("1840", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1850", "33");
+VALUES ("1841", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1851", "20");
+VALUES ("1842", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1852", "6");
+VALUES ("1843", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1853", "48");
+VALUES ("1844", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1854", "29");
+VALUES ("1845", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1855", "49");
+VALUES ("1846", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1856", "36");
+VALUES ("1847", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1857", "32");
+VALUES ("1848", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1858", "69");
+VALUES ("1849", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1859", "67");
+VALUES ("1850", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1860", "71");
+VALUES ("1851", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1861", "19");
+VALUES ("1852", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1862", "48");
+VALUES ("1853", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1863", "32");
+VALUES ("1854", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1864", "38");
+VALUES ("1855", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1865", "4");
+VALUES ("1856", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1866", "4");
+VALUES ("1857", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1867", "55");
+VALUES ("1858", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1868", "6");
+VALUES ("1859", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1869", "67");
+VALUES ("1860", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1870", "0");
+VALUES ("1861", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1871", "42");
+VALUES ("1862", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1873", "20");
+VALUES ("1863", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1874", "78");
+VALUES ("1864", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1875", "61");
+VALUES ("1865", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1876", "76");
+VALUES ("1866", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1877", "32");
+VALUES ("1867", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1878", "71");
+VALUES ("1868", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1879", "38");
+VALUES ("1870", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1880", "6");
+VALUES ("1871", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1881", "31");
+VALUES ("1872", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1882", "39");
+VALUES ("1873", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1884", "51");
+VALUES ("1874", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1886", "18");
+VALUES ("1875", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1887", "75");
+VALUES ("1876", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1888", "53");
+VALUES ("1877", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1889", "17");
+VALUES ("1878", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1890", "16");
+VALUES ("1880", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1891", "8");
+VALUES ("1881", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1892", "78");
+VALUES ("1882", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1893", "70");
+VALUES ("1883", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1894", "20");
+VALUES ("1884", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1895", "6");
+VALUES ("1885", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1896", "49");
+VALUES ("1886", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1897", "33");
+VALUES ("1887", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1898", "22");
+VALUES ("1888", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1899", "58");
+VALUES ("1889", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1900", "66");
+VALUES ("1890", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1901", "73");
+VALUES ("1891", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1902", "65");
+VALUES ("1892", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1903", "61");
+VALUES ("1893", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1904", "34");
+VALUES ("1895", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1905", "57");
+VALUES ("1896", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1906", "46");
+VALUES ("1897", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1907", "50");
+VALUES ("1898", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1908", "41");
+VALUES ("1900", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1909", "8");
+VALUES ("1901", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1911", "19");
+VALUES ("1902", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1912", "15");
+VALUES ("1903", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1913", "61");
+VALUES ("1904", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1915", "20");
+VALUES ("1905", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1916", "49");
+VALUES ("1906", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1917", "45");
+VALUES ("1907", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1918", "16");
+VALUES ("1908", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1919", "0");
+VALUES ("1909", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1920", "19");
+VALUES ("1911", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1921", "39");
+VALUES ("1913", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1922", "0");
+VALUES ("1914", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1923", "61");
+VALUES ("1915", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1924", "55");
+VALUES ("1916", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1925", "72");
+VALUES ("1917", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1926", "64");
+VALUES ("1919", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1927", "56");
+VALUES ("1920", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1928", "30");
+VALUES ("1921", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1929", "24");
+VALUES ("1922", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1931", "31");
+VALUES ("1923", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1932", "14");
+VALUES ("1924", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1933", "80");
+VALUES ("1925", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1935", "25");
+VALUES ("1927", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1937", "60");
+VALUES ("1928", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1938", "11");
+VALUES ("1929", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1939", "7");
+VALUES ("1931", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1940", "1");
+VALUES ("1932", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1941", "55");
+VALUES ("1933", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1942", "60");
+VALUES ("1934", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1943", "22");
+VALUES ("1935", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1945", "15");
+VALUES ("1936", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1946", "70");
+VALUES ("1937", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1947", "60");
+VALUES ("1938", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1948", "57");
+VALUES ("1940", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1949", "43");
+VALUES ("1941", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1950", "16");
+VALUES ("1942", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1951", "68");
+VALUES ("1943", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1952", "80");
+VALUES ("1944", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1953", "22");
+VALUES ("1946", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1954", "33");
+VALUES ("1947", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1955", "36");
+VALUES ("1948", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1956", "17");
+VALUES ("1949", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1957", "1");
+VALUES ("1951", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1958", "12");
+VALUES ("1952", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1960", "25");
+VALUES ("1953", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1961", "70");
+VALUES ("1954", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1962", "17");
+VALUES ("1955", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1963", "13");
+VALUES ("1956", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1965", "70");
+VALUES ("1957", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1966", "10");
+VALUES ("1958", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1967", "19");
+VALUES ("1959", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1968", "46");
+VALUES ("1960", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1969", "35");
+VALUES ("1961", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1970", "19");
+VALUES ("1962", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1971", "71");
+VALUES ("1963", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1972", "38");
+VALUES ("1964", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1973", "64");
+VALUES ("1965", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1974", "78");
+VALUES ("1966", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1975", "38");
+VALUES ("1967", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1976", "67");
+VALUES ("1968", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1977", "52");
+VALUES ("1969", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1978", "71");
+VALUES ("1971", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1979", "69");
+VALUES ("1972", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1980", "15");
+VALUES ("1973", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1981", "38");
+VALUES ("1974", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1982", "48");
+VALUES ("1975", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1984", "1");
+VALUES ("1976", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1985", "5");
+VALUES ("1977", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1986", "34");
+VALUES ("1978", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1987", "3");
+VALUES ("1979", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1988", "79");
+VALUES ("1980", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1989", "53");
+VALUES ("1981", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1990", "43");
+VALUES ("1982", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1991", "54");
+VALUES ("1983", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1992", "75");
+VALUES ("1985", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1993", "55");
+VALUES ("1986", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1994", "80");
+VALUES ("1987", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1996", "28");
+VALUES ("1988", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1997", "32");
+VALUES ("1989", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1998", "19");
+VALUES ("1990", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("1999", "12");
+VALUES ("1991", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2000", "41");
+VALUES ("1992", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2001", "12");
+VALUES ("1994", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2002", "19");
+VALUES ("1995", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2003", "50");
+VALUES ("1996", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2004", "71");
+VALUES ("1997", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2005", "6");
+VALUES ("1998", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2006", "6");
+VALUES ("1999", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2007", "64");
+VALUES ("2000", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2008", "47");
+VALUES ("2001", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2009", "70");
+VALUES ("2002", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2010", "3");
+VALUES ("2003", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2011", "33");
+VALUES ("2004", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2012", "11");
+VALUES ("2005", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2013", "31");
+VALUES ("2006", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2014", "37");
+VALUES ("2007", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2015", "73");
+VALUES ("2008", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2016", "22");
+VALUES ("2009", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2017", "5");
+VALUES ("2010", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2018", "60");
+VALUES ("2011", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2019", "76");
+VALUES ("2012", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2020", "60");
+VALUES ("2013", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2022", "58");
+VALUES ("2014", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2023", "20");
+VALUES ("2015", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2024", "40");
+VALUES ("2016", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2025", "61");
+VALUES ("2017", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2026", "65");
+VALUES ("2018", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2027", "3");
+VALUES ("2019", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2028", "23");
+VALUES ("2020", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2030", "19");
+VALUES ("2021", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2032", "64");
+VALUES ("2022", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2033", "78");
+VALUES ("2023", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2034", "60");
+VALUES ("2024", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2035", "18");
+VALUES ("2025", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2036", "16");
+VALUES ("2026", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2037", "17");
+VALUES ("2028", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2038", "43");
+VALUES ("2029", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2040", "22");
+VALUES ("2030", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2042", "68");
+VALUES ("2031", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2043", "47");
+VALUES ("2032", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2044", "7");
+VALUES ("2033", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2045", "18");
+VALUES ("2034", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2046", "23");
+VALUES ("2035", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2047", "57");
+VALUES ("2036", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2048", "71");
+VALUES ("2037", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2049", "52");
+VALUES ("2038", "38");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2040", "0");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2041", "21");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2042", "52");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2045", "58");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2046", "4");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2048", "36");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2049", "74");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2050", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2052", "22");
+VALUES ("2051", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2053", "26");
+VALUES ("2052", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2054", "67");
+VALUES ("2053", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2055", "29");
+VALUES ("2054", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2056", "79");
+VALUES ("2055", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2057", "80");
+VALUES ("2056", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2058", "44");
+VALUES ("2057", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2060", "19");
+VALUES ("2058", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2061", "76");
+VALUES ("2060", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2062", "8");
+VALUES ("2061", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2063", "72");
+VALUES ("2062", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2064", "62");
+VALUES ("2063", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2065", "10");
+VALUES ("2064", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2066", "61");
+VALUES ("2065", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2067", "51");
+VALUES ("2066", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2068", "31");
+VALUES ("2067", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2069", "41");
+VALUES ("2068", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2071", "42");
+VALUES ("2069", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2072", "9");
+VALUES ("2070", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2073", "35");
+VALUES ("2071", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2075", "20");
+VALUES ("2072", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2076", "27");
+VALUES ("2073", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2077", "69");
+VALUES ("2075", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2078", "61");
+VALUES ("2076", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2079", "72");
+VALUES ("2077", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2080", "68");
+VALUES ("2078", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2083", "20");
+VALUES ("2079", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2084", "10");
+VALUES ("2080", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2085", "27");
+VALUES ("2081", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2086", "49");
+VALUES ("2083", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2087", "18");
+VALUES ("2084", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2088", "35");
+VALUES ("2085", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2089", "63");
+VALUES ("2086", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2090", "29");
+VALUES ("2088", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2091", "0");
+VALUES ("2090", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2092", "65");
+VALUES ("2091", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2094", "79");
+VALUES ("2092", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2095", "18");
+VALUES ("2093", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2096", "8");
+VALUES ("2094", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2097", "51");
+VALUES ("2095", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2098", "62");
+VALUES ("2096", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2099", "79");
+VALUES ("2097", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2101", "7");
+VALUES ("2098", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2102", "35");
+VALUES ("2099", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2103", "7");
+VALUES ("2100", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2104", "73");
+VALUES ("2101", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2105", "15");
+VALUES ("2102", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2106", "24");
+VALUES ("2103", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2107", "23");
+VALUES ("2104", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2108", "55");
+VALUES ("2105", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2109", "2");
+VALUES ("2107", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2110", "33");
+VALUES ("2108", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2111", "55");
+VALUES ("2109", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2112", "21");
+VALUES ("2110", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2113", "53");
+VALUES ("2111", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2114", "70");
+VALUES ("2112", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2115", "11");
+VALUES ("2113", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2116", "1");
+VALUES ("2114", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2117", "60");
+VALUES ("2115", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2118", "36");
+VALUES ("2116", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2119", "44");
+VALUES ("2117", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2120", "49");
+VALUES ("2119", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2121", "11");
+VALUES ("2121", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2122", "29");
+VALUES ("2122", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2123", "10");
+VALUES ("2123", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2124", "1");
+VALUES ("2124", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2125", "44");
+VALUES ("2125", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2126", "50");
+VALUES ("2126", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2127", "29");
+VALUES ("2127", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2128", "18");
+VALUES ("2129", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2129", "22");
+VALUES ("2130", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2130", "19");
+VALUES ("2131", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2131", "49");
+VALUES ("2132", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2132", "64");
+VALUES ("2133", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2133", "5");
+VALUES ("2134", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2134", "43");
+VALUES ("2135", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2136", "76");
+VALUES ("2136", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2137", "21");
+VALUES ("2137", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2138", "8");
+VALUES ("2138", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2139", "45");
+VALUES ("2139", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2140", "6");
+VALUES ("2140", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2141", "22");
+VALUES ("2142", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2142", "0");
+VALUES ("2143", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2143", "41");
+VALUES ("2144", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2144", "25");
+VALUES ("2145", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2145", "40");
+VALUES ("2146", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2146", "58");
+VALUES ("2147", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2148", "22");
+VALUES ("2148", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2149", "67");
+VALUES ("2149", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2150", "35");
+VALUES ("2150", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2151", "29");
+VALUES ("2151", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2153", "24");
+VALUES ("2152", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2154", "63");
+VALUES ("2153", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2155", "23");
+VALUES ("2154", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2156", "69");
+VALUES ("2157", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2157", "0");
+VALUES ("2158", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2158", "18");
+VALUES ("2159", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2159", "77");
+VALUES ("2160", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2160", "41");
+VALUES ("2161", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2162", "5");
+VALUES ("2162", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2163", "36");
+VALUES ("2163", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2164", "74");
+VALUES ("2165", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2165", "72");
+VALUES ("2166", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2166", "26");
+VALUES ("2167", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2167", "32");
+VALUES ("2168", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2168", "54");
+VALUES ("2169", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2169", "23");
+VALUES ("2170", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2170", "69");
+VALUES ("2171", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2171", "23");
+VALUES ("2172", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2172", "32");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2173", "19");
+VALUES ("2173", "52");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2174", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2175", "44");
+VALUES ("2175", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2176", "28");
+VALUES ("2176", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2177", "22");
+VALUES ("2177", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2178", "8");
+VALUES ("2178", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2179", "51");
+VALUES ("2179", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2180", "32");
+VALUES ("2180", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2181", "28");
+VALUES ("2181", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2182", "4");
+VALUES ("2182", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2183", "35");
+VALUES ("2183", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2184", "22");
+VALUES ("2184", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2185", "15");
+VALUES ("2185", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2186", "23");
+VALUES ("2186", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2187", "76");
+VALUES ("2187", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2188", "15");
+VALUES ("2188", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2189", "36");
+VALUES ("2189", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2190", "36");
+VALUES ("2190", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2192", "24");
+VALUES ("2191", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2193", "32");
+VALUES ("2192", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2194", "46");
+VALUES ("2193", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2195", "55");
+VALUES ("2194", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2196", "7");
+VALUES ("2195", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2197", "57");
+VALUES ("2196", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2199", "20");
+VALUES ("2197", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2200", "3");
+VALUES ("2198", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2201", "58");
+VALUES ("2199", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2202", "6");
+VALUES ("2200", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2203", "11");
+VALUES ("2201", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2204", "16");
+VALUES ("2202", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2205", "66");
+VALUES ("2203", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2206", "64");
+VALUES ("2205", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2207", "0");
+VALUES ("2206", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2208", "21");
+VALUES ("2208", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2209", "54");
+VALUES ("2209", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2210", "5");
+VALUES ("2210", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2211", "27");
+VALUES ("2211", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2212", "3");
+VALUES ("2212", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2213", "48");
+VALUES ("2213", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2214", "20");
+VALUES ("2214", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2215", "16");
+VALUES ("2215", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2216", "71");
+VALUES ("2217", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2217", "38");
+VALUES ("2218", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2218", "17");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2219", "43");
+VALUES ("2219", "26");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2220", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2221", "26");
+VALUES ("2222", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2222", "66");
+VALUES ("2223", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2224", "46");
+VALUES ("2224", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2225", "45");
+VALUES ("2225", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2226", "28");
+VALUES ("2226", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2227", "37");
+VALUES ("2227", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2228", "20");
+VALUES ("2229", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2229", "15");
+VALUES ("2230", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2231", "12");
+VALUES ("2231", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2232", "12");
+VALUES ("2232", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2233", "34");
+VALUES ("2233", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2234", "70");
+VALUES ("2234", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2235", "42");
+VALUES ("2235", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2236", "11");
+VALUES ("2236", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2237", "20");
+VALUES ("2237", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2238", "20");
+VALUES ("2239", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2239", "26");
+VALUES ("2240", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2240", "46");
+VALUES ("2241", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2241", "74");
+VALUES ("2242", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2242", "37");
+VALUES ("2243", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2243", "45");
+VALUES ("2244", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2244", "59");
+VALUES ("2245", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2245", "62");
+VALUES ("2246", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2246", "42");
+VALUES ("2248", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2247", "78");
+VALUES ("2249", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2248", "72");
+VALUES ("2250", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2249", "10");
+VALUES ("2251", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2250", "79");
+VALUES ("2252", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2251", "64");
+VALUES ("2254", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2252", "13");
+VALUES ("2255", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2254", "37");
+VALUES ("2256", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2255", "9");
+VALUES ("2257", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2256", "61");
+VALUES ("2258", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2257", "47");
+VALUES ("2259", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2258", "20");
+VALUES ("2260", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2259", "20");
+VALUES ("2261", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2260", "15");
+VALUES ("2263", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2261", "67");
+VALUES ("2264", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2262", "32");
+VALUES ("2265", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2263", "17");
+VALUES ("2266", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2264", "56");
+VALUES ("2267", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2265", "36");
+VALUES ("2268", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2266", "65");
+VALUES ("2269", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2268", "66");
+VALUES ("2270", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2269", "50");
+VALUES ("2271", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2270", "74");
+VALUES ("2272", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2271", "26");
+VALUES ("2273", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2272", "20");
+VALUES ("2274", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2273", "74");
+VALUES ("2275", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2274", "20");
+VALUES ("2276", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2275", "9");
+VALUES ("2277", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2276", "59");
+VALUES ("2278", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2277", "14");
+VALUES ("2279", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2278", "52");
+VALUES ("2280", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2279", "44");
+VALUES ("2281", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2282", "42");
+VALUES ("2282", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2283", "59");
+VALUES ("2283", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2284", "12");
+VALUES ("2284", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2285", "78");
+VALUES ("2285", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2286", "33");
+VALUES ("2286", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2287", "64");
+VALUES ("2287", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2288", "62");
+VALUES ("2288", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2289", "78");
+VALUES ("2289", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2290", "25");
+VALUES ("2290", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2291", "70");
+VALUES ("2291", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2294", "55");
+VALUES ("2292", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2295", "33");
+VALUES ("2293", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2296", "22");
+VALUES ("2294", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2298", "3");
+VALUES ("2295", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2299", "55");
+VALUES ("2296", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2300", "38");
+VALUES ("2297", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2302", "23");
+VALUES ("2298", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2303", "34");
+VALUES ("2299", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2304", "71");
+VALUES ("2300", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2305", "79");
+VALUES ("2301", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2306", "51");
+VALUES ("2302", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2307", "79");
+VALUES ("2303", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2308", "66");
+VALUES ("2304", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2309", "7");
+VALUES ("2307", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2310", "29");
+VALUES ("2308", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2311", "37");
+VALUES ("2309", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2312", "63");
+VALUES ("2310", "31");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2311", "22");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2312", "14");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2313", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2314", "22");
+VALUES ("2314", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2315", "63");
+VALUES ("2315", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2316", "37");
+VALUES ("2316", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2317", "9");
+VALUES ("2317", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2318", "51");
+VALUES ("2318", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2320", "45");
+VALUES ("2319", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2321", "78");
+VALUES ("2320", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2322", "8");
+VALUES ("2321", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2323", "66");
+VALUES ("2322", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2324", "75");
+VALUES ("2323", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2325", "0");
+VALUES ("2324", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2326", "47");
+VALUES ("2325", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2327", "18");
+VALUES ("2326", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2328", "68");
+VALUES ("2327", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2329", "28");
+VALUES ("2328", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2330", "63");
+VALUES ("2329", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2331", "59");
+VALUES ("2330", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2332", "39");
+VALUES ("2331", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2333", "50");
+VALUES ("2332", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2334", "17");
+VALUES ("2333", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2335", "27");
+VALUES ("2334", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2336", "74");
+VALUES ("2335", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2337", "11");
+VALUES ("2336", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2338", "20");
+VALUES ("2337", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2339", "64");
+VALUES ("2339", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2340", "75");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2341", "5");
+VALUES ("2341", "57");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2342", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2344", "77");
+VALUES ("2344", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2345", "24");
+VALUES ("2345", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2346", "54");
+VALUES ("2346", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2347", "75");
+VALUES ("2347", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2348", "61");
+VALUES ("2348", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2350", "29");
+VALUES ("2349", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2351", "63");
+VALUES ("2350", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2352", "12");
+VALUES ("2351", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2353", "43");
+VALUES ("2352", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2355", "53");
+VALUES ("2353", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2356", "3");
+VALUES ("2354", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2357", "51");
+VALUES ("2355", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2358", "24");
+VALUES ("2356", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2359", "37");
+VALUES ("2357", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2360", "16");
+VALUES ("2358", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2361", "77");
+VALUES ("2359", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2362", "72");
+VALUES ("2360", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2363", "52");
+VALUES ("2361", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2364", "18");
+VALUES ("2363", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2365", "6");
+VALUES ("2364", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2366", "33");
+VALUES ("2366", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2367", "36");
+VALUES ("2367", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2368", "62");
+VALUES ("2368", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2369", "19");
+VALUES ("2369", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2370", "28");
+VALUES ("2370", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2371", "34");
+VALUES ("2371", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2372", "50");
+VALUES ("2372", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2373", "75");
+VALUES ("2373", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2374", "29");
+VALUES ("2374", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2375", "52");
+VALUES ("2375", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2376", "49");
+VALUES ("2376", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2377", "43");
+VALUES ("2377", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2378", "0");
+VALUES ("2378", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2379", "77");
+VALUES ("2379", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2380", "22");
+VALUES ("2380", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2381", "58");
+VALUES ("2381", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2382", "8");
+VALUES ("2382", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2383", "4");
+VALUES ("2383", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2384", "66");
+VALUES ("2384", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2385", "18");
+VALUES ("2385", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2386", "72");
+VALUES ("2386", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2387", "78");
+VALUES ("2387", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2388", "58");
+VALUES ("2388", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2389", "20");
+VALUES ("2389", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2390", "47");
+VALUES ("2390", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2391", "18");
+VALUES ("2391", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2392", "39");
+VALUES ("2393", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2393", "27");
+VALUES ("2394", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2394", "67");
+VALUES ("2395", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2395", "21");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2396", "52");
+VALUES ("2396", "15");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2397", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2398", "1");
+VALUES ("2398", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2399", "48");
+VALUES ("2399", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2400", "75");
+VALUES ("2400", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2401", "51");
+VALUES ("2401", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2402", "51");
+VALUES ("2402", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2403", "47");
+VALUES ("2403", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2404", "80");
+VALUES ("2404", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2405", "21");
+VALUES ("2405", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2406", "66");
+VALUES ("2406", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2408", "22");
+VALUES ("2407", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2409", "7");
+VALUES ("2408", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2412", "71");
+VALUES ("2409", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2413", "68");
+VALUES ("2410", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2414", "74");
+VALUES ("2411", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2415", "10");
+VALUES ("2412", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2416", "62");
+VALUES ("2413", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2417", "17");
+VALUES ("2414", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2418", "66");
+VALUES ("2415", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2419", "62");
+VALUES ("2416", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2420", "52");
+VALUES ("2417", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2421", "10");
+VALUES ("2418", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2422", "17");
+VALUES ("2419", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2423", "78");
+VALUES ("2421", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2424", "11");
+VALUES ("2422", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2425", "5");
+VALUES ("2423", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2427", "45");
+VALUES ("2424", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2428", "21");
+VALUES ("2425", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2429", "57");
+VALUES ("2426", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2430", "29");
+VALUES ("2427", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2431", "72");
+VALUES ("2428", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2432", "20");
+VALUES ("2429", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2433", "5");
+VALUES ("2430", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2434", "5");
+VALUES ("2431", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2435", "24");
+VALUES ("2432", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2436", "67");
+VALUES ("2433", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2438", "55");
+VALUES ("2434", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2439", "78");
+VALUES ("2435", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2440", "21");
+VALUES ("2437", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2441", "43");
+VALUES ("2438", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2442", "76");
+VALUES ("2439", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2443", "73");
+VALUES ("2440", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2444", "1");
+VALUES ("2443", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2445", "61");
+VALUES ("2444", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2446", "48");
+VALUES ("2445", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2447", "43");
+VALUES ("2446", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2448", "35");
+VALUES ("2447", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2450", "26");
+VALUES ("2448", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2451", "7");
+VALUES ("2449", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2452", "26");
+VALUES ("2450", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2453", "10");
+VALUES ("2451", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2454", "78");
+VALUES ("2452", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2456", "5");
+VALUES ("2453", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2457", "26");
+VALUES ("2454", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2458", "72");
+VALUES ("2455", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2459", "48");
+VALUES ("2456", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2460", "44");
+VALUES ("2457", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2461", "74");
+VALUES ("2458", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2462", "22");
+VALUES ("2459", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2463", "27");
+VALUES ("2460", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2464", "73");
+VALUES ("2461", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2465", "14");
+VALUES ("2462", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2466", "42");
+VALUES ("2464", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2467", "77");
+VALUES ("2465", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2468", "28");
+VALUES ("2466", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2469", "73");
+VALUES ("2469", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2470", "23");
+VALUES ("2471", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2471", "74");
+VALUES ("2472", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2472", "68");
+VALUES ("2473", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2473", "22");
+VALUES ("2474", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2474", "49");
+VALUES ("2475", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2475", "19");
+VALUES ("2476", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2476", "32");
+VALUES ("2478", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2477", "67");
+VALUES ("2479", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2478", "77");
+VALUES ("2480", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2479", "37");
+VALUES ("2481", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2480", "26");
+VALUES ("2482", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2481", "30");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2482", "36");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2483", "65");
+VALUES ("2483", "1");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2484", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2485", "18");
+VALUES ("2485", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2486", "63");
+VALUES ("2486", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2487", "67");
+VALUES ("2487", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2488", "14");
+VALUES ("2488", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2489", "47");
+VALUES ("2489", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2490", "53");
+VALUES ("2490", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2491", "16");
+VALUES ("2491", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2492", "61");
+VALUES ("2492", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2493", "39");
+VALUES ("2493", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2494", "13");
+VALUES ("2494", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2495", "68");
+VALUES ("2495", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2496", "67");
+VALUES ("2496", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2497", "26");
+VALUES ("2497", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2498", "51");
+VALUES ("2498", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2499", "18");
+VALUES ("2499", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2500", "48");
+VALUES ("2500", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2501", "12");
+VALUES ("2501", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2502", "16");
+VALUES ("2502", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2503", "1");
+VALUES ("2503", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2505", "52");
+VALUES ("2504", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2506", "19");
+VALUES ("2505", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2507", "67");
+VALUES ("2506", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2508", "68");
+VALUES ("2507", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2509", "71");
+VALUES ("2508", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2510", "36");
+VALUES ("2509", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2511", "77");
+VALUES ("2510", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2512", "15");
+VALUES ("2511", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2513", "36");
+VALUES ("2512", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2514", "17");
+VALUES ("2513", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2515", "78");
+VALUES ("2514", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2516", "66");
+VALUES ("2515", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2517", "59");
+VALUES ("2516", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2518", "16");
+VALUES ("2517", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2519", "21");
+VALUES ("2518", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2520", "42");
+VALUES ("2519", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2521", "6");
+VALUES ("2520", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2523", "14");
+VALUES ("2521", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2524", "35");
+VALUES ("2523", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2525", "71");
+VALUES ("2524", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2526", "26");
+VALUES ("2526", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2527", "80");
+VALUES ("2528", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2528", "27");
+VALUES ("2529", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2529", "78");
+VALUES ("2530", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2530", "23");
+VALUES ("2531", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2532", "73");
+VALUES ("2532", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2533", "75");
+VALUES ("2535", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2534", "42");
+VALUES ("2536", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2535", "30");
+VALUES ("2537", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2537", "69");
+VALUES ("2538", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2538", "31");
+VALUES ("2539", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2539", "35");
+VALUES ("2540", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2540", "57");
+VALUES ("2541", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2541", "29");
+VALUES ("2542", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2542", "32");
+VALUES ("2543", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2544", "41");
+VALUES ("2544", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2545", "18");
+VALUES ("2545", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2546", "50");
+VALUES ("2546", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2547", "57");
+VALUES ("2547", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2548", "32");
+VALUES ("2548", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2551", "56");
+VALUES ("2549", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2552", "19");
+VALUES ("2550", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2553", "21");
+VALUES ("2551", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2554", "30");
+VALUES ("2552", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2555", "13");
+VALUES ("2553", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2556", "32");
+VALUES ("2554", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2557", "18");
+VALUES ("2556", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2558", "59");
+VALUES ("2557", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2559", "80");
+VALUES ("2558", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2560", "59");
+VALUES ("2559", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2561", "17");
+VALUES ("2561", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2563", "38");
+VALUES ("2562", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2564", "3");
+VALUES ("2563", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2565", "6");
+VALUES ("2564", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2566", "11");
+VALUES ("2566", "15");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2567", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2568", "60");
+VALUES ("2569", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2569", "21");
+VALUES ("2570", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2570", "51");
+VALUES ("2571", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2571", "16");
+VALUES ("2572", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2572", "11");
+VALUES ("2573", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2573", "24");
+VALUES ("2575", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2574", "3");
+VALUES ("2576", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2575", "77");
+VALUES ("2577", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2576", "67");
+VALUES ("2578", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2577", "42");
+VALUES ("2579", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2578", "59");
+VALUES ("2580", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2579", "39");
+VALUES ("2581", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2580", "54");
+VALUES ("2582", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2581", "74");
+VALUES ("2583", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2582", "23");
+VALUES ("2584", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2584", "23");
+VALUES ("2585", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2585", "59");
+VALUES ("2587", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2586", "70");
+VALUES ("2588", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2587", "29");
+VALUES ("2589", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2588", "41");
+VALUES ("2590", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2589", "47");
+VALUES ("2591", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2590", "30");
+VALUES ("2592", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2591", "9");
+VALUES ("2593", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2592", "71");
+VALUES ("2594", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2593", "15");
+VALUES ("2595", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2595", "5");
+VALUES ("2596", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2596", "13");
+VALUES ("2597", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2597", "33");
+VALUES ("2598", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2598", "73");
+VALUES ("2599", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2599", "20");
+VALUES ("2600", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2600", "5");
+VALUES ("2601", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2602", "7");
+VALUES ("2602", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2603", "54");
+VALUES ("2603", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2604", "24");
+VALUES ("2604", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2605", "59");
+VALUES ("2605", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2606", "58");
+VALUES ("2606", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2608", "75");
+VALUES ("2607", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2609", "47");
+VALUES ("2608", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2610", "52");
+VALUES ("2609", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2611", "31");
+VALUES ("2611", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2612", "16");
+VALUES ("2612", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2613", "68");
+VALUES ("2613", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2614", "33");
+VALUES ("2614", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2615", "29");
+VALUES ("2615", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2616", "60");
+VALUES ("2616", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2617", "29");
+VALUES ("2617", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2618", "67");
+VALUES ("2620", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2619", "53");
+VALUES ("2622", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2620", "10");
+VALUES ("2623", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2621", "24");
+VALUES ("2624", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2622", "30");
+VALUES ("2626", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2623", "0");
+VALUES ("2627", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2624", "7");
+VALUES ("2628", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2626", "21");
+VALUES ("2629", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2627", "19");
+VALUES ("2630", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2628", "11");
+VALUES ("2631", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2629", "62");
+VALUES ("2632", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2630", "23");
+VALUES ("2633", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2631", "79");
+VALUES ("2634", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2632", "49");
+VALUES ("2635", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2633", "72");
+VALUES ("2636", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2634", "3");
+VALUES ("2637", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2635", "18");
+VALUES ("2638", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2636", "0");
+VALUES ("2639", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2637", "60");
+VALUES ("2640", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2638", "67");
+VALUES ("2641", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2640", "23");
+VALUES ("2642", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2641", "46");
+VALUES ("2643", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2642", "69");
+VALUES ("2644", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2643", "71");
+VALUES ("2645", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2644", "39");
+VALUES ("2646", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2645", "74");
+VALUES ("2647", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2646", "28");
+VALUES ("2648", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2647", "44");
+VALUES ("2649", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2650", "38");
+VALUES ("2650", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2652", "18");
+VALUES ("2651", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2653", "36");
+VALUES ("2652", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2654", "65");
+VALUES ("2653", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2655", "18");
+VALUES ("2654", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2657", "47");
+VALUES ("2655", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2658", "50");
+VALUES ("2656", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2659", "43");
+VALUES ("2657", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2660", "37");
+VALUES ("2658", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2661", "63");
+VALUES ("2659", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2662", "21");
+VALUES ("2660", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2663", "7");
+VALUES ("2661", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2664", "19");
+VALUES ("2662", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2665", "30");
+VALUES ("2664", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2666", "60");
+VALUES ("2665", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2667", "60");
+VALUES ("2668", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2668", "28");
+VALUES ("2669", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2669", "15");
+VALUES ("2670", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2670", "35");
+VALUES ("2671", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2671", "36");
+VALUES ("2672", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2672", "30");
+VALUES ("2673", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2673", "5");
+VALUES ("2674", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2674", "31");
+VALUES ("2676", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2675", "77");
+VALUES ("2677", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2676", "3");
+VALUES ("2678", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2677", "7");
+VALUES ("2680", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2678", "45");
+VALUES ("2681", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2679", "20");
+VALUES ("2682", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2680", "5");
+VALUES ("2683", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2681", "26");
+VALUES ("2684", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2682", "62");
+VALUES ("2685", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2683", "77");
+VALUES ("2686", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2684", "6");
+VALUES ("2687", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2685", "57");
+VALUES ("2689", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2686", "23");
+VALUES ("2690", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2687", "32");
+VALUES ("2691", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2689", "16");
+VALUES ("2692", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2690", "24");
+VALUES ("2693", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2691", "74");
+VALUES ("2694", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2692", "18");
+VALUES ("2695", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2693", "22");
+VALUES ("2696", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2694", "47");
+VALUES ("2697", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2695", "13");
+VALUES ("2698", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2696", "80");
+VALUES ("2699", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2697", "15");
+VALUES ("2700", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2699", "13");
+VALUES ("2701", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2700", "57");
+VALUES ("2702", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2701", "34");
+VALUES ("2703", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2702", "68");
+VALUES ("2704", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2703", "41");
+VALUES ("2705", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2704", "9");
+VALUES ("2706", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2705", "29");
+VALUES ("2707", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2706", "10");
+VALUES ("2708", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2708", "62");
+VALUES ("2709", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2709", "75");
+VALUES ("2710", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2710", "61");
+VALUES ("2711", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2711", "79");
+VALUES ("2712", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2712", "43");
+VALUES ("2713", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2713", "53");
+VALUES ("2714", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2714", "47");
+VALUES ("2715", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2715", "39");
+VALUES ("2717", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2716", "69");
+VALUES ("2718", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2717", "22");
+VALUES ("2719", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2718", "11");
+VALUES ("2720", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2719", "60");
+VALUES ("2721", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2720", "52");
+VALUES ("2722", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2721", "24");
+VALUES ("2723", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2722", "19");
+VALUES ("2724", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2723", "72");
+VALUES ("2725", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2724", "52");
+VALUES ("2726", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2725", "29");
+VALUES ("2727", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2726", "12");
+VALUES ("2728", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2727", "51");
+VALUES ("2729", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2728", "34");
+VALUES ("2730", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2729", "51");
+VALUES ("2731", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2730", "45");
+VALUES ("2732", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2731", "23");
+VALUES ("2733", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2732", "53");
+VALUES ("2734", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2733", "48");
+VALUES ("2735", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2735", "42");
+VALUES ("2737", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2736", "20");
+VALUES ("2738", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2738", "41");
+VALUES ("2739", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2739", "37");
+VALUES ("2740", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2740", "59");
+VALUES ("2741", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2741", "28");
+VALUES ("2742", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2742", "56");
+VALUES ("2743", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2743", "9");
+VALUES ("2745", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2744", "75");
+VALUES ("2746", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2745", "34");
+VALUES ("2747", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2746", "32");
+VALUES ("2748", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2747", "71");
+VALUES ("2750", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2748", "18");
+VALUES ("2751", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2749", "60");
+VALUES ("2752", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2750", "7");
+VALUES ("2753", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2751", "48");
+VALUES ("2754", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2752", "47");
+VALUES ("2755", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2753", "67");
+VALUES ("2756", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2754", "48");
+VALUES ("2757", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2755", "2");
+VALUES ("2759", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2756", "65");
+VALUES ("2760", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2757", "43");
+VALUES ("2761", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2758", "38");
+VALUES ("2762", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2759", "14");
+VALUES ("2763", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2760", "0");
+VALUES ("2764", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2761", "64");
+VALUES ("2766", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2762", "10");
+VALUES ("2767", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2763", "8");
+VALUES ("2768", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2764", "73");
+VALUES ("2769", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2765", "59");
+VALUES ("2770", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2766", "8");
+VALUES ("2771", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2767", "10");
+VALUES ("2772", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2768", "66");
+VALUES ("2773", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2769", "26");
+VALUES ("2774", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2770", "77");
+VALUES ("2775", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2771", "13");
+VALUES ("2776", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2772", "23");
+VALUES ("2777", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2773", "65");
+VALUES ("2778", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2774", "33");
+VALUES ("2779", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2775", "13");
+VALUES ("2780", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2777", "57");
+VALUES ("2781", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2778", "29");
+VALUES ("2783", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2779", "58");
+VALUES ("2784", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2780", "77");
+VALUES ("2786", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2781", "6");
+VALUES ("2787", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2782", "4");
+VALUES ("2788", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2783", "1");
+VALUES ("2789", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2784", "26");
+VALUES ("2790", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2785", "58");
+VALUES ("2791", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2786", "58");
+VALUES ("2792", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2787", "46");
+VALUES ("2793", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2788", "58");
+VALUES ("2794", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2789", "12");
+VALUES ("2795", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2790", "58");
+VALUES ("2796", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2791", "64");
+VALUES ("2797", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2792", "26");
+VALUES ("2798", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2793", "44");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2794", "35");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2795", "59");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2797", "28");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2798", "68");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("2799", "79");
+VALUES ("2799", "37");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2800", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2801", "3");
+VALUES ("2801", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2802", "48");
+VALUES ("2802", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2803", "39");
+VALUES ("2803", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2804", "7");
+VALUES ("2805", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2806", "48");
+VALUES ("2806", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2807", "43");
+VALUES ("2807", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2808", "5");
+VALUES ("2808", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2809", "24");
+VALUES ("2809", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2810", "56");
+VALUES ("2811", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2811", "73");
+VALUES ("2813", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2812", "47");
+VALUES ("2814", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2813", "75");
+VALUES ("2815", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2814", "33");
+VALUES ("2816", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2815", "65");
+VALUES ("2817", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2816", "72");
+VALUES ("2818", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2817", "49");
+VALUES ("2819", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2818", "67");
+VALUES ("2820", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2819", "10");
+VALUES ("2821", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2820", "36");
+VALUES ("2822", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2821", "55");
+VALUES ("2823", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2822", "29");
+VALUES ("2824", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2823", "39");
+VALUES ("2825", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2824", "11");
+VALUES ("2826", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2827", "33");
+VALUES ("2827", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2828", "17");
+VALUES ("2828", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2829", "44");
+VALUES ("2829", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2831", "4");
+VALUES ("2830", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2832", "58");
+VALUES ("2831", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2833", "40");
+VALUES ("2832", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2834", "64");
+VALUES ("2835", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2835", "60");
+VALUES ("2837", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2837", "62");
+VALUES ("2838", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2838", "63");
+VALUES ("2839", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2839", "58");
+VALUES ("2841", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2840", "0");
+VALUES ("2842", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2841", "45");
+VALUES ("2843", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2842", "58");
+VALUES ("2844", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2843", "41");
+VALUES ("2845", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2844", "53");
+VALUES ("2846", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2845", "33");
+VALUES ("2847", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2846", "6");
+VALUES ("2848", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2847", "73");
+VALUES ("2849", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2848", "16");
+VALUES ("2850", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2850", "50");
+VALUES ("2851", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2851", "49");
+VALUES ("2852", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2852", "29");
+VALUES ("2853", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2853", "20");
+VALUES ("2854", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2854", "35");
+VALUES ("2855", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2855", "42");
+VALUES ("2856", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2856", "44");
+VALUES ("2858", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2857", "15");
+VALUES ("2859", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2858", "37");
+VALUES ("2860", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2859", "77");
+VALUES ("2861", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2860", "63");
+VALUES ("2862", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2861", "30");
+VALUES ("2863", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2862", "20");
+VALUES ("2864", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2863", "31");
+VALUES ("2865", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2864", "31");
+VALUES ("2866", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2865", "29");
+VALUES ("2867", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2866", "30");
+VALUES ("2868", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2867", "59");
+VALUES ("2869", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2868", "22");
+VALUES ("2870", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2869", "52");
+VALUES ("2871", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2870", "72");
+VALUES ("2872", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2871", "26");
+VALUES ("2873", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2872", "33");
+VALUES ("2874", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2873", "31");
+VALUES ("2875", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2874", "22");
+VALUES ("2876", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2875", "33");
+VALUES ("2877", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2876", "75");
+VALUES ("2878", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2877", "75");
+VALUES ("2881", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2878", "60");
+VALUES ("2882", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2879", "60");
+VALUES ("2883", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2880", "71");
+VALUES ("2884", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2881", "4");
+VALUES ("2885", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2882", "49");
+VALUES ("2886", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2883", "65");
+VALUES ("2887", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2884", "34");
+VALUES ("2888", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2885", "6");
+VALUES ("2889", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2886", "53");
+VALUES ("2890", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2888", "69");
+VALUES ("2891", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2889", "56");
+VALUES ("2892", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2890", "59");
+VALUES ("2893", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2891", "52");
+VALUES ("2894", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2893", "77");
+VALUES ("2895", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2894", "10");
+VALUES ("2896", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2895", "23");
+VALUES ("2897", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2896", "74");
+VALUES ("2898", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2898", "63");
+VALUES ("2899", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2899", "16");
+VALUES ("2900", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2900", "30");
+VALUES ("2901", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2901", "51");
+VALUES ("2902", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2902", "76");
+VALUES ("2903", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2903", "64");
+VALUES ("2904", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2904", "21");
+VALUES ("2905", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2905", "14");
+VALUES ("2906", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2907", "56");
+VALUES ("2907", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2908", "34");
+VALUES ("2908", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2909", "39");
+VALUES ("2909", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2910", "62");
+VALUES ("2910", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2912", "72");
+VALUES ("2911", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2913", "58");
+VALUES ("2913", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2914", "76");
+VALUES ("2914", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2915", "38");
+VALUES ("2915", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2916", "2");
+VALUES ("2916", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2917", "0");
+VALUES ("2917", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2918", "4");
+VALUES ("2919", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2919", "7");
+VALUES ("2920", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2920", "1");
+VALUES ("2921", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2921", "32");
+VALUES ("2923", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2922", "51");
+VALUES ("2924", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2923", "74");
+VALUES ("2925", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2924", "40");
+VALUES ("2926", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2925", "32");
+VALUES ("2927", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2926", "71");
+VALUES ("2928", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2927", "21");
+VALUES ("2929", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2928", "42");
+VALUES ("2930", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2929", "60");
+VALUES ("2931", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2930", "36");
+VALUES ("2933", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2932", "19");
+VALUES ("2934", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2933", "46");
+VALUES ("2935", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2934", "15");
+VALUES ("2936", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2935", "6");
+VALUES ("2937", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2936", "6");
+VALUES ("2938", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2937", "52");
+VALUES ("2939", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2938", "36");
+VALUES ("2940", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2941", "53");
+VALUES ("2941", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2942", "65");
+VALUES ("2942", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2944", "41");
+VALUES ("2943", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2945", "43");
+VALUES ("2944", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2946", "62");
+VALUES ("2945", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2947", "39");
+VALUES ("2946", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2948", "72");
+VALUES ("2947", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2953", "7");
+VALUES ("2948", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2954", "0");
+VALUES ("2949", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2955", "20");
+VALUES ("2950", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2956", "11");
+VALUES ("2951", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2957", "10");
+VALUES ("2953", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2958", "8");
+VALUES ("2954", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2959", "41");
+VALUES ("2955", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2960", "63");
+VALUES ("2956", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2961", "42");
+VALUES ("2957", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2962", "22");
+VALUES ("2958", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2963", "1");
+VALUES ("2960", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2964", "60");
+VALUES ("2961", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2965", "44");
+VALUES ("2962", "70");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2963", "35");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2964", "78");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("2965", "64");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("2966", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2967", "44");
+VALUES ("2967", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2968", "58");
+VALUES ("2968", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2969", "72");
+VALUES ("2970", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2970", "9");
+VALUES ("2971", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2971", "63");
+VALUES ("2972", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2972", "49");
+VALUES ("2973", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2973", "73");
+VALUES ("2974", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2974", "28");
+VALUES ("2975", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2975", "3");
+VALUES ("2976", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2976", "27");
+VALUES ("2977", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2977", "11");
+VALUES ("2978", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2978", "0");
+VALUES ("2979", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2979", "38");
+VALUES ("2980", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2980", "63");
+VALUES ("2981", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2981", "45");
+VALUES ("2982", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2982", "18");
+VALUES ("2983", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2983", "65");
+VALUES ("2984", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2984", "67");
+VALUES ("2985", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2985", "73");
+VALUES ("2986", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2986", "77");
+VALUES ("2987", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2987", "10");
+VALUES ("2988", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2989", "37");
+VALUES ("2989", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2990", "20");
+VALUES ("2990", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2991", "45");
+VALUES ("2991", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2992", "68");
+VALUES ("2992", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2993", "48");
+VALUES ("2993", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2994", "47");
+VALUES ("2994", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2995", "18");
+VALUES ("2995", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2996", "67");
+VALUES ("2996", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2997", "29");
+VALUES ("2997", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2998", "32");
+VALUES ("2998", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("2999", "54");
+VALUES ("2999", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3000", "3");
+VALUES ("3000", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3001", "63");
+VALUES ("3001", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3002", "76");
+VALUES ("3003", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3003", "42");
+VALUES ("3005", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3004", "54");
+VALUES ("3006", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3005", "51");
+VALUES ("3007", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3006", "5");
+VALUES ("3008", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3007", "43");
+VALUES ("3009", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3008", "68");
+VALUES ("3010", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3009", "3");
+VALUES ("3011", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3010", "51");
+VALUES ("3012", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3011", "69");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3013", "17");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3014", "56");
+VALUES ("3014", "23");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3015", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3017", "31");
+VALUES ("3016", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3018", "77");
+VALUES ("3017", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3019", "80");
+VALUES ("3018", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3022", "1");
+VALUES ("3019", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3023", "66");
+VALUES ("3020", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3024", "75");
+VALUES ("3021", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3025", "67");
+VALUES ("3022", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3026", "18");
+VALUES ("3023", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3027", "67");
+VALUES ("3024", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3028", "38");
+VALUES ("3026", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3029", "73");
+VALUES ("3027", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3030", "9");
+VALUES ("3028", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3031", "26");
+VALUES ("3029", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3032", "49");
+VALUES ("3030", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3033", "49");
+VALUES ("3031", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3034", "42");
+VALUES ("3032", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3036", "39");
+VALUES ("3033", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3037", "23");
+VALUES ("3034", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3038", "78");
+VALUES ("3035", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3039", "14");
+VALUES ("3036", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3040", "27");
+VALUES ("3037", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3041", "2");
+VALUES ("3038", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3042", "23");
+VALUES ("3039", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3043", "49");
+VALUES ("3040", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3044", "76");
+VALUES ("3041", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3046", "6");
+VALUES ("3042", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3047", "11");
+VALUES ("3043", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3048", "32");
+VALUES ("3044", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3049", "20");
+VALUES ("3045", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3050", "28");
+VALUES ("3046", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3051", "33");
+VALUES ("3047", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3052", "26");
+VALUES ("3048", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3053", "1");
+VALUES ("3049", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3054", "24");
+VALUES ("3050", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3055", "60");
+VALUES ("3051", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3056", "34");
+VALUES ("3052", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3057", "2");
+VALUES ("3053", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3058", "38");
+VALUES ("3054", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3059", "22");
+VALUES ("3055", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3061", "37");
+VALUES ("3056", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3062", "35");
+VALUES ("3057", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3063", "14");
+VALUES ("3060", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3064", "39");
+VALUES ("3061", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3065", "2");
+VALUES ("3062", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3066", "5");
+VALUES ("3063", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3067", "16");
+VALUES ("3064", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3068", "61");
+VALUES ("3065", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3069", "50");
+VALUES ("3066", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3071", "2");
+VALUES ("3068", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3072", "35");
+VALUES ("3069", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3073", "15");
+VALUES ("3071", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3074", "60");
+VALUES ("3072", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3075", "60");
+VALUES ("3073", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3076", "39");
+VALUES ("3074", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3077", "70");
+VALUES ("3075", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3078", "65");
+VALUES ("3077", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3079", "14");
+VALUES ("3078", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3080", "17");
+VALUES ("3079", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3081", "41");
+VALUES ("3080", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3082", "13");
+VALUES ("3081", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3083", "28");
+VALUES ("3082", "35");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3083", "61");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3084", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3085", "27");
+VALUES ("3085", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3086", "57");
+VALUES ("3086", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3087", "38");
+VALUES ("3087", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3088", "80");
+VALUES ("3088", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3090", "26");
+VALUES ("3089", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3091", "46");
+VALUES ("3090", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3092", "67");
+VALUES ("3091", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3093", "23");
+VALUES ("3092", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3095", "58");
+VALUES ("3093", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3096", "10");
+VALUES ("3094", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3098", "7");
+VALUES ("3095", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3099", "53");
+VALUES ("3096", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3100", "22");
+VALUES ("3097", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3101", "57");
+VALUES ("3098", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3102", "0");
+VALUES ("3099", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3103", "7");
+VALUES ("3100", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3104", "19");
+VALUES ("3101", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3105", "0");
+VALUES ("3102", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3106", "27");
+VALUES ("3103", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3107", "66");
+VALUES ("3105", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3108", "59");
+VALUES ("3106", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3109", "13");
+VALUES ("3107", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3110", "71");
+VALUES ("3109", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3111", "43");
+VALUES ("3110", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3112", "52");
+VALUES ("3111", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3113", "8");
+VALUES ("3112", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3114", "69");
+VALUES ("3113", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3115", "73");
+VALUES ("3114", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3116", "15");
+VALUES ("3115", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3117", "71");
+VALUES ("3116", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3118", "37");
+VALUES ("3117", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3119", "54");
+VALUES ("3118", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3120", "55");
+VALUES ("3119", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3122", "40");
+VALUES ("3120", "50");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3121", "16");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3122", "61");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3123", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3124", "8");
+VALUES ("3124", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3125", "19");
+VALUES ("3125", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3126", "72");
+VALUES ("3126", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3127", "7");
+VALUES ("3127", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3129", "79");
+VALUES ("3128", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3130", "27");
+VALUES ("3129", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3131", "29");
+VALUES ("3130", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3133", "13");
+VALUES ("3131", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3134", "80");
+VALUES ("3132", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3135", "18");
+VALUES ("3133", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3136", "75");
+VALUES ("3134", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3138", "58");
+VALUES ("3135", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3139", "28");
+VALUES ("3136", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3140", "55");
+VALUES ("3137", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3141", "36");
+VALUES ("3138", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3142", "6");
+VALUES ("3139", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3143", "74");
+VALUES ("3140", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3144", "41");
+VALUES ("3141", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3145", "37");
+VALUES ("3142", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3146", "46");
+VALUES ("3143", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3147", "0");
+VALUES ("3144", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3148", "35");
+VALUES ("3145", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3150", "36");
+VALUES ("3146", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3151", "72");
+VALUES ("3148", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3152", "37");
+VALUES ("3149", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3153", "59");
+VALUES ("3150", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3155", "47");
+VALUES ("3151", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3156", "15");
+VALUES ("3152", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3158", "29");
+VALUES ("3153", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3159", "64");
+VALUES ("3154", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3162", "18");
+VALUES ("3155", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3163", "11");
+VALUES ("3156", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3164", "10");
+VALUES ("3158", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3165", "47");
+VALUES ("3160", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3166", "41");
+VALUES ("3161", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3167", "7");
+VALUES ("3162", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3168", "4");
+VALUES ("3163", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3169", "2");
+VALUES ("3164", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3170", "43");
+VALUES ("3165", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3171", "48");
+VALUES ("3166", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3172", "70");
+VALUES ("3167", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3174", "13");
+VALUES ("3168", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3175", "53");
+VALUES ("3169", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3176", "28");
+VALUES ("3170", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3177", "3");
+VALUES ("3171", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3178", "41");
+VALUES ("3172", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3179", "37");
+VALUES ("3173", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3180", "4");
+VALUES ("3174", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3181", "45");
+VALUES ("3175", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3182", "33");
+VALUES ("3176", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3183", "33");
+VALUES ("3177", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3184", "21");
+VALUES ("3178", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3185", "40");
+VALUES ("3179", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3186", "15");
+VALUES ("3180", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3187", "5");
+VALUES ("3181", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3188", "46");
+VALUES ("3182", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3190", "60");
+VALUES ("3183", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3191", "18");
+VALUES ("3185", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3192", "5");
+VALUES ("3186", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3193", "69");
+VALUES ("3187", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3194", "49");
+VALUES ("3188", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3195", "16");
+VALUES ("3189", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3196", "34");
+VALUES ("3190", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3197", "13");
+VALUES ("3191", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3198", "45");
+VALUES ("3192", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3199", "9");
+VALUES ("3193", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3200", "66");
+VALUES ("3194", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3201", "67");
+VALUES ("3195", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3202", "59");
+VALUES ("3196", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3203", "6");
+VALUES ("3197", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3204", "31");
+VALUES ("3198", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3205", "75");
+VALUES ("3199", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3206", "21");
+VALUES ("3200", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3207", "3");
+VALUES ("3201", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3208", "73");
+VALUES ("3202", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3209", "79");
+VALUES ("3203", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3210", "5");
+VALUES ("3204", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3211", "19");
+VALUES ("3205", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3212", "4");
+VALUES ("3206", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3213", "9");
+VALUES ("3207", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3214", "22");
+VALUES ("3208", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3215", "60");
+VALUES ("3209", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3216", "44");
+VALUES ("3210", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3217", "12");
+VALUES ("3211", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3218", "28");
+VALUES ("3212", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3219", "4");
+VALUES ("3213", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3220", "48");
+VALUES ("3214", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3221", "22");
+VALUES ("3215", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3222", "69");
+VALUES ("3216", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3223", "28");
+VALUES ("3217", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3224", "35");
+VALUES ("3218", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3225", "16");
+VALUES ("3219", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3226", "22");
+VALUES ("3220", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3227", "41");
+VALUES ("3221", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3228", "62");
+VALUES ("3222", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3229", "33");
+VALUES ("3223", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3230", "38");
+VALUES ("3224", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3232", "23");
+VALUES ("3225", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3233", "13");
+VALUES ("3228", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3234", "1");
+VALUES ("3229", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3235", "57");
+VALUES ("3230", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3236", "44");
+VALUES ("3231", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3237", "37");
+VALUES ("3232", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3238", "61");
+VALUES ("3233", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3239", "75");
+VALUES ("3234", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3240", "69");
+VALUES ("3235", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3241", "33");
+VALUES ("3236", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3242", "11");
+VALUES ("3237", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3243", "61");
+VALUES ("3238", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3244", "12");
+VALUES ("3239", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3245", "49");
+VALUES ("3240", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3246", "22");
+VALUES ("3241", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3247", "76");
+VALUES ("3242", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3248", "46");
+VALUES ("3243", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3249", "60");
+VALUES ("3244", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3250", "6");
+VALUES ("3245", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3251", "1");
+VALUES ("3246", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3252", "14");
+VALUES ("3247", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3253", "2");
+VALUES ("3248", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3254", "56");
+VALUES ("3249", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3255", "70");
+VALUES ("3250", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3256", "1");
+VALUES ("3251", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3257", "49");
+VALUES ("3252", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3258", "33");
+VALUES ("3253", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3259", "24");
+VALUES ("3254", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3260", "4");
+VALUES ("3255", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3261", "24");
+VALUES ("3257", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3262", "40");
+VALUES ("3258", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3263", "39");
+VALUES ("3259", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3265", "18");
+VALUES ("3260", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3267", "57");
+VALUES ("3261", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3268", "13");
+VALUES ("3262", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3269", "45");
+VALUES ("3263", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3270", "50");
+VALUES ("3264", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3271", "42");
+VALUES ("3265", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3272", "42");
+VALUES ("3266", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3273", "67");
+VALUES ("3267", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3274", "37");
+VALUES ("3268", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3276", "55");
+VALUES ("3269", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3279", "38");
+VALUES ("3270", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3280", "52");
+VALUES ("3271", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3281", "44");
+VALUES ("3272", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3282", "26");
+VALUES ("3273", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3283", "9");
+VALUES ("3274", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3284", "18");
+VALUES ("3275", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3285", "34");
+VALUES ("3276", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3286", "33");
+VALUES ("3277", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3288", "18");
+VALUES ("3279", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3289", "44");
+VALUES ("3280", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3290", "10");
+VALUES ("3281", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3292", "63");
+VALUES ("3282", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3293", "9");
+VALUES ("3283", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3294", "65");
+VALUES ("3284", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3295", "63");
+VALUES ("3285", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3296", "61");
+VALUES ("3286", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3297", "79");
+VALUES ("3287", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3298", "63");
+VALUES ("3288", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3299", "69");
+VALUES ("3289", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3300", "67");
+VALUES ("3290", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3301", "15");
+VALUES ("3291", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3302", "7");
+VALUES ("3292", "58");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3293", "0");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3294", "34");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3295", "60");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3296", "32");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3297", "19");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3298", "65");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3299", "73");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3300", "40");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3302", "73");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3303", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3304", "53");
+VALUES ("3304", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3305", "15");
+VALUES ("3305", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3306", "47");
+VALUES ("3306", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3307", "34");
+VALUES ("3308", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3308", "3");
+VALUES ("3309", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3309", "20");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3310", "17");
+VALUES ("3310", "44");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3311", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3312", "5");
+VALUES ("3312", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3313", "0");
+VALUES ("3313", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3314", "73");
+VALUES ("3314", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3315", "39");
+VALUES ("3315", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3316", "20");
+VALUES ("3316", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3317", "67");
+VALUES ("3317", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3319", "46");
+VALUES ("3318", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3320", "63");
+VALUES ("3319", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3321", "17");
+VALUES ("3320", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3322", "61");
+VALUES ("3321", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3323", "48");
+VALUES ("3322", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3324", "55");
+VALUES ("3323", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3325", "60");
+VALUES ("3324", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3326", "27");
+VALUES ("3325", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3327", "4");
+VALUES ("3326", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3329", "56");
+VALUES ("3327", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3330", "38");
+VALUES ("3328", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3331", "44");
+VALUES ("3329", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3332", "18");
+VALUES ("3330", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3333", "78");
+VALUES ("3331", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3336", "60");
+VALUES ("3332", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3337", "0");
+VALUES ("3333", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3338", "70");
+VALUES ("3334", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3339", "56");
+VALUES ("3335", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3341", "76");
+VALUES ("3336", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3342", "63");
+VALUES ("3337", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3343", "20");
+VALUES ("3339", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3344", "78");
+VALUES ("3340", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3345", "44");
+VALUES ("3341", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3346", "33");
+VALUES ("3342", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3347", "68");
+VALUES ("3343", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3348", "28");
+VALUES ("3344", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3349", "40");
+VALUES ("3345", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3350", "79");
+VALUES ("3346", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3351", "4");
+VALUES ("3348", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3352", "67");
+VALUES ("3349", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3353", "27");
+VALUES ("3350", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3354", "14");
+VALUES ("3352", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3355", "60");
+VALUES ("3353", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3357", "35");
+VALUES ("3354", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3358", "7");
+VALUES ("3355", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3359", "8");
+VALUES ("3356", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3360", "50");
+VALUES ("3357", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3361", "50");
+VALUES ("3358", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3362", "9");
+VALUES ("3359", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3363", "73");
+VALUES ("3360", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3364", "42");
+VALUES ("3361", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3365", "50");
+VALUES ("3362", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3366", "79");
+VALUES ("3363", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3368", "79");
+VALUES ("3364", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3369", "24");
+VALUES ("3366", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3370", "73");
+VALUES ("3367", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3371", "62");
+VALUES ("3369", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3372", "64");
+VALUES ("3370", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3373", "66");
+VALUES ("3371", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3374", "25");
+VALUES ("3372", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3375", "48");
+VALUES ("3373", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3376", "55");
+VALUES ("3374", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3377", "71");
+VALUES ("3376", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3379", "6");
+VALUES ("3377", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3380", "23");
+VALUES ("3378", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3382", "60");
+VALUES ("3379", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3383", "27");
+VALUES ("3380", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3384", "32");
+VALUES ("3381", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3385", "80");
+VALUES ("3382", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3386", "59");
+VALUES ("3383", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3387", "7");
+VALUES ("3384", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3388", "75");
+VALUES ("3385", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3389", "58");
+VALUES ("3387", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3391", "69");
+VALUES ("3388", "60");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3389", "15");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3390", "74");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3391", "24");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3392", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3393", "49");
+VALUES ("3393", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3394", "28");
+VALUES ("3395", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3395", "3");
+VALUES ("3396", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3396", "35");
+VALUES ("3397", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3397", "60");
+VALUES ("3398", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3398", "42");
+VALUES ("3399", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3399", "26");
+VALUES ("3400", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3400", "26");
+VALUES ("3401", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3402", "7");
+VALUES ("3402", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3403", "26");
+VALUES ("3403", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3404", "11");
+VALUES ("3404", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3405", "22");
+VALUES ("3405", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3408", "32");
+VALUES ("3406", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3409", "71");
+VALUES ("3407", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3410", "29");
+VALUES ("3408", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3411", "49");
+VALUES ("3409", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3413", "51");
+VALUES ("3410", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3414", "23");
+VALUES ("3411", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3416", "76");
+VALUES ("3412", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3417", "34");
+VALUES ("3413", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3419", "39");
+VALUES ("3414", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3420", "78");
+VALUES ("3415", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3421", "35");
+VALUES ("3416", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3422", "53");
+VALUES ("3417", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3424", "35");
+VALUES ("3418", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3425", "28");
+VALUES ("3419", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3426", "0");
+VALUES ("3420", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3427", "12");
+VALUES ("3421", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3428", "16");
+VALUES ("3422", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3429", "38");
+VALUES ("3423", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3430", "62");
+VALUES ("3424", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3431", "8");
+VALUES ("3425", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3432", "27");
+VALUES ("3426", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3433", "26");
+VALUES ("3428", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3434", "18");
+VALUES ("3429", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3435", "25");
+VALUES ("3430", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3436", "11");
+VALUES ("3431", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3438", "0");
+VALUES ("3432", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3439", "7");
+VALUES ("3433", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3440", "10");
+VALUES ("3434", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3441", "70");
+VALUES ("3435", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3442", "63");
+VALUES ("3436", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3443", "20");
+VALUES ("3437", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3444", "36");
+VALUES ("3438", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3445", "16");
+VALUES ("3439", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3446", "11");
+VALUES ("3440", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3447", "11");
+VALUES ("3441", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3448", "46");
+VALUES ("3443", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3449", "75");
+VALUES ("3444", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3450", "56");
+VALUES ("3445", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3451", "32");
+VALUES ("3446", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3452", "2");
+VALUES ("3448", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3453", "46");
+VALUES ("3449", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3454", "9");
+VALUES ("3450", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3455", "73");
+VALUES ("3451", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3456", "7");
+VALUES ("3452", "56");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3454", "79");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3455", "46");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3456", "63");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3457", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3458", "50");
+VALUES ("3458", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3459", "23");
+VALUES ("3459", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3460", "76");
+VALUES ("3460", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3461", "11");
+VALUES ("3461", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3462", "46");
+VALUES ("3462", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3463", "35");
+VALUES ("3463", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3464", "53");
+VALUES ("3464", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3465", "49");
+VALUES ("3465", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3466", "64");
+VALUES ("3466", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3468", "6");
+VALUES ("3467", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3469", "73");
+VALUES ("3468", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3470", "47");
+VALUES ("3469", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3471", "70");
+VALUES ("3470", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3472", "8");
+VALUES ("3472", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3474", "2");
+VALUES ("3473", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3475", "50");
+VALUES ("3474", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3476", "11");
+VALUES ("3475", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3477", "55");
+VALUES ("3476", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3478", "35");
+VALUES ("3477", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3479", "38");
+VALUES ("3478", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3480", "67");
+VALUES ("3479", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3481", "31");
+VALUES ("3481", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3482", "47");
+VALUES ("3482", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3483", "1");
+VALUES ("3483", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3484", "33");
+VALUES ("3484", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3485", "22");
+VALUES ("3486", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3486", "5");
+VALUES ("3487", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3487", "30");
+VALUES ("3488", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3488", "40");
+VALUES ("3489", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3489", "7");
+VALUES ("3490", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3490", "59");
+VALUES ("3491", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3492", "45");
+VALUES ("3492", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3493", "74");
+VALUES ("3494", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3494", "1");
+VALUES ("3495", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3495", "47");
+VALUES ("3496", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3496", "7");
+VALUES ("3497", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3497", "7");
+VALUES ("3498", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3498", "76");
+VALUES ("3500", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3499", "18");
+VALUES ("3501", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3500", "10");
+VALUES ("3502", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3501", "24");
+VALUES ("3503", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3502", "38");
+VALUES ("3504", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3504", "17");
+VALUES ("3505", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3506", "8");
+VALUES ("3506", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3507", "11");
+VALUES ("3508", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3508", "78");
+VALUES ("3509", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3509", "59");
+VALUES ("3510", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3510", "4");
+VALUES ("3511", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3511", "24");
+VALUES ("3512", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3512", "4");
+VALUES ("3513", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3513", "63");
+VALUES ("3514", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3514", "33");
+VALUES ("3515", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3515", "74");
+VALUES ("3516", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3516", "59");
+VALUES ("3517", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3517", "31");
+VALUES ("3519", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3518", "30");
+VALUES ("3520", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3519", "0");
+VALUES ("3521", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3520", "32");
+VALUES ("3522", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3521", "33");
+VALUES ("3523", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3522", "7");
+VALUES ("3524", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3523", "38");
+VALUES ("3525", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3525", "54");
+VALUES ("3526", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3526", "35");
+VALUES ("3527", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3527", "70");
+VALUES ("3528", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3529", "75");
+VALUES ("3529", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3530", "16");
+VALUES ("3530", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3531", "18");
+VALUES ("3531", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3532", "66");
+VALUES ("3532", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3533", "64");
+VALUES ("3533", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3534", "37");
+VALUES ("3535", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3535", "50");
+VALUES ("3536", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3536", "37");
+VALUES ("3537", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3537", "74");
+VALUES ("3538", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3538", "56");
+VALUES ("3539", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3539", "78");
+VALUES ("3540", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3540", "4");
+VALUES ("3541", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3541", "58");
+VALUES ("3542", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3542", "48");
+VALUES ("3543", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3543", "53");
+VALUES ("3544", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3544", "58");
+VALUES ("3545", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3545", "15");
+VALUES ("3546", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3547", "70");
+VALUES ("3547", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3548", "23");
+VALUES ("3548", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3549", "25");
+VALUES ("3549", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3550", "26");
+VALUES ("3551", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3551", "5");
+VALUES ("3552", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3552", "28");
+VALUES ("3553", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3553", "67");
+VALUES ("3554", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3554", "5");
+VALUES ("3555", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3555", "59");
+VALUES ("3556", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3556", "15");
+VALUES ("3557", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3557", "31");
+VALUES ("3558", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3558", "76");
+VALUES ("3561", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3559", "24");
+VALUES ("3563", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3560", "57");
+VALUES ("3564", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3561", "51");
+VALUES ("3565", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3563", "46");
+VALUES ("3566", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3564", "27");
+VALUES ("3567", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3565", "71");
+VALUES ("3568", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3566", "59");
+VALUES ("3569", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3567", "68");
+VALUES ("3571", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3568", "58");
+VALUES ("3572", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3569", "13");
+VALUES ("3573", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3570", "10");
+VALUES ("3574", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3571", "42");
+VALUES ("3575", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3572", "65");
+VALUES ("3576", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3574", "71");
+VALUES ("3577", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3575", "54");
+VALUES ("3578", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3576", "76");
+VALUES ("3579", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3577", "53");
+VALUES ("3580", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3578", "60");
+VALUES ("3581", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3579", "44");
+VALUES ("3582", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3580", "26");
+VALUES ("3583", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3581", "78");
+VALUES ("3585", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3582", "31");
+VALUES ("3586", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3583", "61");
+VALUES ("3587", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3584", "60");
+VALUES ("3588", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3585", "76");
+VALUES ("3589", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3586", "77");
+VALUES ("3590", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3588", "15");
+VALUES ("3591", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3589", "13");
+VALUES ("3592", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3590", "55");
+VALUES ("3593", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3591", "43");
+VALUES ("3594", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3592", "51");
+VALUES ("3595", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3593", "37");
+VALUES ("3596", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3594", "30");
+VALUES ("3597", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3595", "38");
+VALUES ("3599", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3596", "80");
+VALUES ("3600", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3597", "70");
+VALUES ("3601", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3598", "80");
+VALUES ("3602", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3599", "7");
+VALUES ("3604", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3600", "34");
+VALUES ("3605", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3601", "73");
+VALUES ("3606", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3602", "65");
+VALUES ("3607", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3604", "2");
+VALUES ("3608", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3605", "6");
+VALUES ("3609", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3606", "59");
+VALUES ("3611", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3607", "43");
+VALUES ("3612", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3608", "80");
+VALUES ("3614", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3609", "54");
+VALUES ("3615", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3610", "47");
+VALUES ("3616", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3611", "63");
+VALUES ("3618", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3612", "13");
+VALUES ("3619", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3613", "25");
+VALUES ("3620", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3614", "47");
+VALUES ("3621", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3615", "41");
+VALUES ("3622", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3617", "80");
+VALUES ("3623", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3618", "26");
+VALUES ("3624", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3619", "13");
+VALUES ("3625", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3620", "72");
+VALUES ("3626", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3621", "14");
+VALUES ("3627", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3622", "36");
+VALUES ("3628", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3623", "31");
+VALUES ("3629", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3624", "53");
+VALUES ("3630", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3625", "19");
+VALUES ("3631", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3626", "41");
+VALUES ("3632", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3627", "40");
+VALUES ("3633", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3628", "49");
+VALUES ("3634", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3629", "22");
+VALUES ("3635", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3631", "10");
+VALUES ("3636", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3632", "24");
+VALUES ("3637", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3633", "76");
+VALUES ("3638", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3634", "21");
+VALUES ("3639", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3635", "27");
+VALUES ("3640", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3637", "14");
+VALUES ("3641", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3638", "53");
+VALUES ("3642", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3639", "31");
+VALUES ("3643", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3641", "77");
+VALUES ("3644", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3642", "52");
+VALUES ("3646", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3643", "32");
+VALUES ("3647", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3644", "40");
+VALUES ("3648", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3645", "24");
+VALUES ("3649", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3646", "15");
+VALUES ("3650", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3647", "55");
+VALUES ("3651", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3648", "70");
+VALUES ("3652", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3649", "61");
+VALUES ("3653", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3650", "65");
+VALUES ("3654", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3651", "24");
+VALUES ("3655", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3652", "12");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3653", "18");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3654", "73");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3655", "69");
+VALUES ("3656", "76");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3657", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3658", "15");
+VALUES ("3658", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3659", "1");
+VALUES ("3659", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3661", "34");
+VALUES ("3660", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3662", "36");
+VALUES ("3661", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3664", "64");
+VALUES ("3662", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3666", "33");
+VALUES ("3663", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3667", "27");
+VALUES ("3664", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3668", "37");
+VALUES ("3665", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3669", "34");
+VALUES ("3666", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3670", "18");
+VALUES ("3667", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3671", "49");
+VALUES ("3668", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3672", "76");
+VALUES ("3669", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3673", "19");
+VALUES ("3670", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3674", "4");
+VALUES ("3671", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3675", "36");
+VALUES ("3672", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3676", "63");
+VALUES ("3673", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3678", "9");
+VALUES ("3674", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3680", "47");
+VALUES ("3675", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3681", "38");
+VALUES ("3676", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3682", "10");
+VALUES ("3677", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3683", "6");
+VALUES ("3678", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3684", "39");
+VALUES ("3679", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3685", "56");
+VALUES ("3681", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3686", "61");
+VALUES ("3682", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3687", "69");
+VALUES ("3683", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3688", "73");
+VALUES ("3684", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3689", "1");
+VALUES ("3685", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3690", "56");
+VALUES ("3686", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3691", "14");
+VALUES ("3687", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3692", "40");
+VALUES ("3688", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3693", "66");
+VALUES ("3689", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3694", "67");
+VALUES ("3690", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3695", "44");
+VALUES ("3691", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3696", "49");
+VALUES ("3692", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3697", "8");
+VALUES ("3693", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3698", "28");
+VALUES ("3694", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3699", "14");
+VALUES ("3695", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3700", "79");
+VALUES ("3696", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3701", "27");
+VALUES ("3697", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3702", "3");
+VALUES ("3698", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3703", "55");
+VALUES ("3699", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3704", "17");
+VALUES ("3700", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3705", "47");
+VALUES ("3701", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3706", "22");
+VALUES ("3702", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3707", "21");
+VALUES ("3703", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3708", "4");
+VALUES ("3704", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3709", "33");
+VALUES ("3705", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3710", "69");
+VALUES ("3706", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3711", "65");
+VALUES ("3707", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3712", "6");
+VALUES ("3708", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3713", "71");
+VALUES ("3709", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3714", "50");
+VALUES ("3710", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3715", "62");
+VALUES ("3712", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3716", "54");
+VALUES ("3713", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3717", "40");
+VALUES ("3714", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3718", "72");
+VALUES ("3715", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3719", "80");
+VALUES ("3716", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3720", "58");
+VALUES ("3717", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3721", "33");
+VALUES ("3718", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3722", "25");
+VALUES ("3719", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3723", "15");
+VALUES ("3720", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3724", "0");
+VALUES ("3721", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3725", "54");
+VALUES ("3722", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3726", "50");
+VALUES ("3723", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3727", "10");
+VALUES ("3724", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3728", "44");
+VALUES ("3725", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3729", "52");
+VALUES ("3726", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3730", "56");
+VALUES ("3727", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3731", "9");
+VALUES ("3728", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3732", "75");
+VALUES ("3730", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3733", "54");
+VALUES ("3731", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3734", "42");
+VALUES ("3732", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3735", "80");
+VALUES ("3733", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3736", "57");
+VALUES ("3734", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3737", "16");
+VALUES ("3735", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3738", "10");
+VALUES ("3736", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3739", "11");
+VALUES ("3737", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3740", "2");
+VALUES ("3738", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3742", "56");
+VALUES ("3739", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3743", "41");
+VALUES ("3740", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3744", "52");
+VALUES ("3741", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3745", "28");
+VALUES ("3742", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3746", "22");
+VALUES ("3743", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3747", "7");
+VALUES ("3744", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3748", "76");
+VALUES ("3745", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3749", "17");
+VALUES ("3746", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3750", "23");
+VALUES ("3747", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3751", "34");
+VALUES ("3748", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3752", "66");
+VALUES ("3749", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3753", "41");
+VALUES ("3752", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3754", "34");
+VALUES ("3753", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3755", "4");
+VALUES ("3754", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3756", "10");
+VALUES ("3755", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3758", "41");
+VALUES ("3756", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3759", "44");
+VALUES ("3757", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3760", "36");
+VALUES ("3758", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3761", "63");
+VALUES ("3759", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3763", "14");
+VALUES ("3760", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3764", "74");
+VALUES ("3761", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3765", "34");
+VALUES ("3762", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3766", "45");
+VALUES ("3763", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3767", "39");
+VALUES ("3764", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3768", "66");
+VALUES ("3765", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3769", "42");
+VALUES ("3766", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3770", "69");
+VALUES ("3767", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3772", "62");
+VALUES ("3768", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3773", "74");
+VALUES ("3769", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3774", "34");
+VALUES ("3770", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3775", "16");
+VALUES ("3771", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3776", "64");
+VALUES ("3772", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3777", "11");
+VALUES ("3773", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3778", "61");
+VALUES ("3774", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3779", "4");
+VALUES ("3775", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3780", "72");
+VALUES ("3776", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3781", "48");
+VALUES ("3777", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3782", "5");
+VALUES ("3778", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3783", "19");
+VALUES ("3779", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3784", "60");
+VALUES ("3780", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3785", "40");
+VALUES ("3782", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3786", "54");
+VALUES ("3783", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3787", "34");
+VALUES ("3784", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3788", "23");
+VALUES ("3785", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3789", "54");
+VALUES ("3786", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3790", "33");
+VALUES ("3787", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3791", "34");
+VALUES ("3788", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3792", "28");
+VALUES ("3790", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3793", "80");
+VALUES ("3791", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3794", "49");
+VALUES ("3792", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3795", "6");
+VALUES ("3793", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3796", "37");
+VALUES ("3794", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3797", "39");
+VALUES ("3795", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3798", "74");
+VALUES ("3797", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3799", "65");
+VALUES ("3798", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3800", "74");
+VALUES ("3799", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3801", "24");
+VALUES ("3800", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3802", "76");
+VALUES ("3801", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3803", "51");
+VALUES ("3802", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3804", "66");
+VALUES ("3803", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3805", "28");
+VALUES ("3804", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3806", "74");
+VALUES ("3805", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3807", "34");
+VALUES ("3806", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3808", "69");
+VALUES ("3807", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3809", "23");
+VALUES ("3808", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3810", "55");
+VALUES ("3809", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3811", "21");
+VALUES ("3810", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3812", "61");
+VALUES ("3811", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3813", "12");
+VALUES ("3812", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3814", "52");
+VALUES ("3813", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3815", "49");
+VALUES ("3814", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3816", "14");
+VALUES ("3815", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3817", "66");
+VALUES ("3816", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3818", "47");
+VALUES ("3817", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3819", "59");
+VALUES ("3818", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3820", "8");
+VALUES ("3819", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3821", "48");
+VALUES ("3820", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3822", "24");
+VALUES ("3821", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3823", "71");
+VALUES ("3822", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3824", "7");
+VALUES ("3823", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3825", "3");
+VALUES ("3824", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3827", "60");
+VALUES ("3825", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3828", "57");
+VALUES ("3826", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3830", "56");
+VALUES ("3827", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3831", "27");
+VALUES ("3828", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3832", "17");
+VALUES ("3829", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3834", "51");
+VALUES ("3830", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3835", "57");
+VALUES ("3831", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3836", "77");
+VALUES ("3832", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3837", "45");
+VALUES ("3833", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3838", "56");
+VALUES ("3834", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3839", "76");
+VALUES ("3835", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3840", "53");
+VALUES ("3836", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3841", "66");
+VALUES ("3837", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3842", "28");
+VALUES ("3838", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3843", "1");
+VALUES ("3839", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3844", "3");
+VALUES ("3840", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3845", "64");
+VALUES ("3841", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3846", "4");
+VALUES ("3842", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3847", "28");
+VALUES ("3844", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3849", "13");
+VALUES ("3845", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3850", "48");
+VALUES ("3846", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3851", "8");
+VALUES ("3847", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3852", "45");
+VALUES ("3848", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3853", "40");
+VALUES ("3849", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3854", "54");
+VALUES ("3850", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3855", "63");
+VALUES ("3851", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3856", "29");
+VALUES ("3852", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3857", "51");
+VALUES ("3853", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3858", "14");
+VALUES ("3854", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3859", "51");
+VALUES ("3855", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3861", "29");
+VALUES ("3857", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3862", "73");
+VALUES ("3858", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3863", "56");
+VALUES ("3859", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3864", "9");
+VALUES ("3860", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3865", "64");
+VALUES ("3861", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3866", "3");
+VALUES ("3862", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3867", "9");
+VALUES ("3863", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3868", "3");
+VALUES ("3864", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3869", "33");
+VALUES ("3865", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3872", "33");
+VALUES ("3866", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3873", "32");
+VALUES ("3867", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3874", "62");
+VALUES ("3868", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3875", "43");
+VALUES ("3870", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3876", "10");
+VALUES ("3872", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3877", "12");
+VALUES ("3873", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3878", "45");
+VALUES ("3874", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3879", "12");
+VALUES ("3875", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3880", "76");
+VALUES ("3876", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3881", "66");
+VALUES ("3877", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3882", "59");
+VALUES ("3878", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3883", "53");
+VALUES ("3879", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3884", "27");
+VALUES ("3880", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3885", "29");
+VALUES ("3881", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3886", "39");
+VALUES ("3882", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3888", "10");
+VALUES ("3884", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3890", "58");
+VALUES ("3885", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3891", "37");
+VALUES ("3886", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3892", "33");
+VALUES ("3887", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3893", "29");
+VALUES ("3888", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3894", "20");
+VALUES ("3889", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3895", "42");
+VALUES ("3890", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3896", "5");
+VALUES ("3891", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3897", "48");
+VALUES ("3892", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3898", "58");
+VALUES ("3893", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3900", "69");
+VALUES ("3894", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3901", "9");
+VALUES ("3895", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3902", "4");
+VALUES ("3896", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3903", "63");
+VALUES ("3897", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3904", "1");
+VALUES ("3898", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3905", "31");
+VALUES ("3899", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3906", "10");
+VALUES ("3900", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3907", "55");
+VALUES ("3901", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3908", "76");
+VALUES ("3902", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3909", "47");
+VALUES ("3903", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3910", "56");
+VALUES ("3904", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3911", "26");
+VALUES ("3905", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3912", "66");
+VALUES ("3906", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3913", "64");
+VALUES ("3907", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3914", "59");
+VALUES ("3908", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3915", "39");
+VALUES ("3909", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3916", "13");
+VALUES ("3910", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3917", "69");
+VALUES ("3912", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3918", "26");
+VALUES ("3913", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3919", "48");
+VALUES ("3914", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3920", "47");
+VALUES ("3916", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3921", "70");
+VALUES ("3917", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3922", "17");
+VALUES ("3918", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3923", "30");
+VALUES ("3919", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3924", "47");
+VALUES ("3921", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3925", "76");
+VALUES ("3922", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3926", "72");
+VALUES ("3923", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3927", "22");
+VALUES ("3924", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3928", "50");
+VALUES ("3925", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3929", "14");
+VALUES ("3926", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3930", "50");
+VALUES ("3927", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3931", "26");
+VALUES ("3928", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3932", "79");
+VALUES ("3929", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3933", "67");
+VALUES ("3930", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3934", "44");
+VALUES ("3931", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3936", "42");
+VALUES ("3932", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3937", "6");
+VALUES ("3933", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3938", "34");
+VALUES ("3934", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3939", "8");
+VALUES ("3935", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3940", "34");
+VALUES ("3936", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3941", "24");
+VALUES ("3938", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3942", "71");
+VALUES ("3939", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3943", "15");
+VALUES ("3940", "40");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3941", "75");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3942", "80");
+
+INSERT INTO students (user_id, major_id)
+VALUES ("3943", "56");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3944", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3945", "49");
+VALUES ("3945", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3946", "49");
+VALUES ("3946", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3947", "56");
+VALUES ("3947", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3948", "78");
+VALUES ("3948", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3949", "28");
+VALUES ("3949", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3950", "18");
+VALUES ("3950", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3951", "38");
+VALUES ("3951", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3952", "37");
+VALUES ("3952", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3953", "2");
+VALUES ("3953", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3954", "38");
+VALUES ("3955", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3955", "50");
+VALUES ("3956", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3956", "23");
+VALUES ("3957", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3957", "6");
+VALUES ("3958", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3958", "73");
+VALUES ("3959", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3959", "12");
+VALUES ("3960", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3960", "31");
+VALUES ("3961", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3961", "10");
+VALUES ("3962", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3962", "48");
+VALUES ("3963", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3963", "63");
+VALUES ("3964", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3964", "40");
+VALUES ("3965", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3965", "34");
+VALUES ("3966", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3967", "5");
+VALUES ("3967", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3968", "46");
+VALUES ("3968", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3969", "24");
+VALUES ("3970", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3971", "66");
+VALUES ("3971", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3972", "62");
+VALUES ("3972", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3973", "28");
+VALUES ("3973", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3974", "20");
+VALUES ("3976", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3975", "27");
+VALUES ("3977", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3976", "11");
+VALUES ("3978", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3977", "57");
+VALUES ("3979", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3978", "5");
+VALUES ("3980", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3979", "71");
+VALUES ("3981", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3980", "57");
+VALUES ("3982", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3981", "14");
+VALUES ("3983", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3982", "20");
+VALUES ("3984", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3983", "4");
+VALUES ("3985", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3984", "13");
+VALUES ("3986", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3985", "13");
+VALUES ("3987", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3986", "51");
+VALUES ("3988", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3987", "31");
+VALUES ("3989", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3988", "80");
+VALUES ("3990", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3989", "13");
+VALUES ("3991", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3990", "26");
+VALUES ("3992", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3991", "26");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3992", "26");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("3993", "47");
+VALUES ("3993", "41");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("3994", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3995", "72");
+VALUES ("3996", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3996", "69");
+VALUES ("3997", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3997", "64");
+VALUES ("3998", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3998", "39");
+VALUES ("3999", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("3999", "79");
+VALUES ("4000", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4000", "19");
+VALUES ("4001", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4002", "0");
+VALUES ("4002", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4003", "66");
+VALUES ("4003", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4004", "32");
+VALUES ("4004", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4005", "52");
+VALUES ("4005", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4006", "22");
+VALUES ("4006", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4007", "13");
+VALUES ("4008", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4008", "22");
+VALUES ("4009", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4010", "7");
+VALUES ("4010", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4011", "35");
+VALUES ("4011", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4012", "3");
+VALUES ("4012", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4013", "8");
+VALUES ("4013", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4014", "64");
+VALUES ("4014", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4015", "46");
+VALUES ("4016", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4016", "41");
+VALUES ("4017", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4017", "77");
+VALUES ("4018", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4019", "50");
+VALUES ("4019", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4020", "12");
+VALUES ("4020", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4021", "59");
+VALUES ("4021", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4022", "39");
+VALUES ("4022", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4023", "47");
+VALUES ("4023", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4024", "3");
+VALUES ("4024", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4025", "48");
+VALUES ("4026", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4026", "45");
+VALUES ("4027", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4027", "64");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4028", "52");
+VALUES ("4028", "49");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4029", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4031", "5");
+VALUES ("4030", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4032", "30");
+VALUES ("4031", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4033", "75");
+VALUES ("4032", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4034", "47");
+VALUES ("4033", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4035", "78");
+VALUES ("4034", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4036", "28");
+VALUES ("4035", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4037", "46");
+VALUES ("4037", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4038", "1");
+VALUES ("4038", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4040", "47");
+VALUES ("4039", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4041", "61");
+VALUES ("4040", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4042", "41");
+VALUES ("4041", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4043", "5");
+VALUES ("4042", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4044", "1");
+VALUES ("4043", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4045", "43");
+VALUES ("4044", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4048", "25");
+VALUES ("4045", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4049", "5");
+VALUES ("4046", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4050", "13");
+VALUES ("4047", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4051", "1");
+VALUES ("4048", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4054", "27");
+VALUES ("4049", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4055", "54");
+VALUES ("4051", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4056", "66");
+VALUES ("4053", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4057", "45");
+VALUES ("4054", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4058", "11");
+VALUES ("4055", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4059", "14");
+VALUES ("4056", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4060", "38");
+VALUES ("4057", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4061", "68");
+VALUES ("4058", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4062", "6");
+VALUES ("4059", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4063", "19");
+VALUES ("4060", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4064", "49");
+VALUES ("4062", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4065", "36");
+VALUES ("4063", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4067", "10");
+VALUES ("4064", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4068", "70");
+VALUES ("4065", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4069", "29");
+VALUES ("4066", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4070", "21");
+VALUES ("4067", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4071", "75");
+VALUES ("4068", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4072", "60");
+VALUES ("4069", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4073", "17");
+VALUES ("4070", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4074", "20");
+VALUES ("4071", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4075", "13");
+VALUES ("4072", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4076", "49");
+VALUES ("4073", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4077", "33");
+VALUES ("4074", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4078", "46");
+VALUES ("4075", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4079", "22");
+VALUES ("4076", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4080", "8");
+VALUES ("4077", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4081", "8");
+VALUES ("4078", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4082", "13");
+VALUES ("4079", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4083", "17");
+VALUES ("4080", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4084", "62");
+VALUES ("4081", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4085", "36");
+VALUES ("4082", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4086", "56");
+VALUES ("4083", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4087", "71");
+VALUES ("4084", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4088", "33");
+VALUES ("4085", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4089", "40");
+VALUES ("4087", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4090", "2");
+VALUES ("4089", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4091", "17");
+VALUES ("4090", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4092", "31");
+VALUES ("4091", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4093", "36");
+VALUES ("4092", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4094", "69");
+VALUES ("4094", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4095", "13");
+VALUES ("4095", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4096", "22");
+VALUES ("4096", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4097", "2");
+VALUES ("4097", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4098", "70");
+VALUES ("4098", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4099", "80");
+VALUES ("4099", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4100", "44");
+VALUES ("4100", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4102", "48");
+VALUES ("4101", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4103", "39");
+VALUES ("4102", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4104", "62");
+VALUES ("4103", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4105", "10");
+VALUES ("4105", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4106", "37");
+VALUES ("4106", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4107", "32");
+VALUES ("4107", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4108", "20");
+VALUES ("4109", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4109", "21");
+VALUES ("4110", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4110", "14");
+VALUES ("4111", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4111", "13");
+VALUES ("4113", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4112", "9");
+VALUES ("4114", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4113", "60");
+VALUES ("4115", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4114", "74");
+VALUES ("4116", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4116", "36");
+VALUES ("4118", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4117", "40");
+VALUES ("4119", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4118", "8");
+VALUES ("4122", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4119", "64");
+VALUES ("4123", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4120", "9");
+VALUES ("4125", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4121", "13");
+VALUES ("4126", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4123", "16");
+VALUES ("4127", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4124", "26");
+VALUES ("4128", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4125", "75");
+VALUES ("4129", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4126", "43");
+VALUES ("4130", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4127", "28");
+VALUES ("4131", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4128", "5");
+VALUES ("4132", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4129", "62");
+VALUES ("4133", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4131", "33");
+VALUES ("4134", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4132", "50");
+VALUES ("4135", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4133", "43");
+VALUES ("4136", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4134", "64");
+VALUES ("4137", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4135", "75");
+VALUES ("4138", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4136", "61");
+VALUES ("4139", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4137", "27");
+VALUES ("4140", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4138", "43");
+VALUES ("4141", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4139", "24");
+VALUES ("4142", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4140", "27");
+VALUES ("4143", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4141", "35");
+VALUES ("4144", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4142", "13");
+VALUES ("4145", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4143", "29");
+VALUES ("4146", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4145", "1");
+VALUES ("4147", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4146", "33");
+VALUES ("4148", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4147", "3");
+VALUES ("4149", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4148", "35");
+VALUES ("4150", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4149", "76");
+VALUES ("4151", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4150", "75");
+VALUES ("4152", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4151", "55");
+VALUES ("4153", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4152", "69");
+VALUES ("4154", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4153", "6");
+VALUES ("4155", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4154", "60");
+VALUES ("4157", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4155", "57");
+VALUES ("4158", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4156", "33");
+VALUES ("4159", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4157", "51");
+VALUES ("4160", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4158", "17");
+VALUES ("4161", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4159", "72");
+VALUES ("4164", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4160", "59");
+VALUES ("4165", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4161", "47");
+VALUES ("4166", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4162", "76");
+VALUES ("4167", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4163", "6");
+VALUES ("4168", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4164", "43");
+VALUES ("4169", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4165", "34");
+VALUES ("4170", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4166", "43");
+VALUES ("4171", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4167", "70");
+VALUES ("4172", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4168", "60");
+VALUES ("4173", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4170", "19");
+VALUES ("4174", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4171", "7");
+VALUES ("4175", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4172", "47");
+VALUES ("4176", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4173", "19");
+VALUES ("4177", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4174", "25");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4175", "79");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4176", "35");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4178", "51");
+VALUES ("4178", "39");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4179", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4180", "38");
+VALUES ("4180", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4181", "65");
+VALUES ("4181", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4182", "25");
+VALUES ("4182", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4183", "40");
+VALUES ("4183", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4184", "17");
+VALUES ("4184", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4185", "4");
+VALUES ("4185", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4186", "25");
+VALUES ("4186", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4187", "6");
+VALUES ("4187", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4188", "18");
+VALUES ("4188", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4189", "65");
+VALUES ("4189", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4190", "73");
+VALUES ("4190", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4191", "59");
+VALUES ("4191", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4192", "10");
+VALUES ("4192", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4193", "78");
+VALUES ("4193", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4194", "33");
+VALUES ("4194", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4195", "43");
+VALUES ("4196", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4196", "13");
+VALUES ("4197", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4197", "55");
+VALUES ("4198", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4199", "20");
+VALUES ("4199", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4200", "10");
+VALUES ("4200", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4201", "33");
+VALUES ("4201", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4202", "43");
+VALUES ("4202", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4203", "42");
+VALUES ("4203", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4204", "34");
+VALUES ("4204", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4205", "61");
+VALUES ("4205", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4206", "22");
+VALUES ("4206", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4207", "64");
+VALUES ("4207", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4208", "70");
+VALUES ("4208", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4209", "52");
+VALUES ("4209", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4210", "30");
+VALUES ("4210", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4211", "12");
+VALUES ("4211", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4212", "30");
+VALUES ("4212", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4213", "28");
+VALUES ("4213", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4214", "66");
+VALUES ("4214", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4215", "60");
+VALUES ("4216", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4216", "73");
+VALUES ("4217", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4217", "75");
+VALUES ("4218", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4218", "65");
+VALUES ("4219", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4219", "23");
+VALUES ("4221", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4220", "46");
+VALUES ("4222", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4221", "61");
+VALUES ("4223", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4222", "63");
+VALUES ("4225", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4223", "38");
+VALUES ("4226", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4225", "15");
+VALUES ("4227", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4226", "9");
+VALUES ("4228", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4227", "14");
+VALUES ("4229", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4228", "36");
+VALUES ("4230", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4229", "37");
+VALUES ("4231", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4230", "14");
+VALUES ("4232", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4231", "11");
+VALUES ("4233", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4232", "0");
+VALUES ("4234", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4233", "71");
+VALUES ("4235", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4234", "75");
+VALUES ("4236", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4236", "29");
+VALUES ("4237", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4237", "13");
+VALUES ("4238", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4238", "80");
+VALUES ("4239", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4239", "57");
+VALUES ("4240", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4240", "44");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4241", "73");
+VALUES ("4241", "9");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4242", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4243", "43");
+VALUES ("4243", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4244", "6");
+VALUES ("4244", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4245", "14");
+VALUES ("4245", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4246", "56");
+VALUES ("4246", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4248", "20");
+VALUES ("4247", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4249", "28");
+VALUES ("4248", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4250", "67");
+VALUES ("4250", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4251", "18");
+VALUES ("4251", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4252", "47");
+VALUES ("4252", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4253", "55");
+VALUES ("4253", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4254", "17");
+VALUES ("4254", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4255", "29");
+VALUES ("4255", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4256", "80");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4257", "45");
+VALUES ("4257", "26");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4258", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4259", "26");
+VALUES ("4260", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4260", "77");
+VALUES ("4261", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4261", "7");
+VALUES ("4263", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4263", "59");
+VALUES ("4264", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4264", "39");
+VALUES ("4265", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4265", "35");
+VALUES ("4266", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4266", "25");
+VALUES ("4268", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4267", "75");
+VALUES ("4269", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4269", "75");
+VALUES ("4270", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4270", "33");
+VALUES ("4271", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4271", "64");
+VALUES ("4272", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4272", "59");
+VALUES ("4274", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4273", "69");
+VALUES ("4275", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4274", "66");
+VALUES ("4276", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4275", "26");
+VALUES ("4277", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4276", "66");
+VALUES ("4278", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4277", "77");
+VALUES ("4279", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4278", "68");
+VALUES ("4280", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4279", "1");
+VALUES ("4281", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4280", "51");
+VALUES ("4282", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4281", "37");
+VALUES ("4284", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4282", "17");
+VALUES ("4286", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4283", "48");
+VALUES ("4287", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4285", "80");
+VALUES ("4288", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4286", "69");
+VALUES ("4289", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4287", "41");
+VALUES ("4290", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4288", "15");
+VALUES ("4291", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4289", "41");
+VALUES ("4292", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4290", "5");
+VALUES ("4293", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4291", "54");
+VALUES ("4294", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4293", "22");
+VALUES ("4295", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4294", "13");
+VALUES ("4296", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4295", "77");
+VALUES ("4297", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4296", "6");
+VALUES ("4298", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4297", "45");
+VALUES ("4299", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4298", "80");
+VALUES ("4300", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4299", "70");
+VALUES ("4301", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4300", "39");
+VALUES ("4302", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4301", "66");
+VALUES ("4303", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4302", "8");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4303", "50");
+VALUES ("4304", "75");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4305", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4306", "15");
+VALUES ("4306", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4307", "19");
+VALUES ("4307", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4308", "25");
+VALUES ("4308", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4309", "80");
+VALUES ("4309", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4310", "79");
+VALUES ("4310", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4311", "41");
+VALUES ("4311", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4312", "22");
+VALUES ("4312", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4313", "68");
+VALUES ("4314", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4314", "1");
+VALUES ("4315", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4315", "26");
+VALUES ("4316", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4316", "47");
+VALUES ("4317", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4317", "18");
+VALUES ("4318", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4318", "57");
+VALUES ("4319", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4319", "28");
+VALUES ("4320", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4320", "36");
+VALUES ("4321", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4321", "79");
+VALUES ("4322", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4322", "40");
+VALUES ("4324", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4323", "70");
+VALUES ("4325", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4324", "11");
+VALUES ("4326", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4325", "33");
+VALUES ("4327", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4326", "3");
+VALUES ("4328", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4327", "1");
+VALUES ("4329", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4328", "59");
+VALUES ("4330", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4329", "50");
+VALUES ("4331", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4330", "41");
+VALUES ("4332", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4331", "45");
+VALUES ("4333", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4332", "25");
+VALUES ("4334", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4333", "65");
+VALUES ("4335", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4334", "66");
+VALUES ("4336", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4335", "10");
+VALUES ("4337", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4336", "64");
+VALUES ("4338", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4337", "35");
+VALUES ("4339", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4338", "77");
+VALUES ("4340", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4339", "14");
+VALUES ("4341", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4340", "31");
+VALUES ("4343", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4341", "54");
+VALUES ("4344", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4342", "11");
+VALUES ("4345", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4343", "19");
+VALUES ("4346", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4344", "15");
+VALUES ("4347", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4345", "78");
+VALUES ("4348", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4346", "54");
+VALUES ("4350", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4347", "25");
+VALUES ("4351", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4348", "49");
+VALUES ("4352", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4349", "34");
+VALUES ("4353", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4350", "47");
+VALUES ("4354", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4351", "14");
+VALUES ("4355", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4352", "60");
+VALUES ("4356", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4353", "66");
+VALUES ("4357", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4354", "20");
+VALUES ("4359", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4355", "22");
+VALUES ("4360", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4356", "39");
+VALUES ("4361", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4357", "26");
+VALUES ("4362", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4358", "26");
+VALUES ("4363", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4359", "29");
+VALUES ("4364", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4360", "48");
+VALUES ("4366", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4361", "40");
+VALUES ("4367", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4362", "63");
+VALUES ("4368", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4363", "35");
+VALUES ("4369", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4364", "13");
+VALUES ("4370", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4365", "38");
+VALUES ("4371", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4367", "32");
+VALUES ("4372", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4368", "33");
+VALUES ("4374", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4369", "5");
+VALUES ("4375", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4370", "44");
+VALUES ("4376", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4371", "45");
+VALUES ("4377", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4372", "61");
+VALUES ("4378", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4373", "43");
+VALUES ("4379", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4374", "58");
+VALUES ("4380", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4375", "56");
+VALUES ("4381", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4376", "5");
+VALUES ("4382", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4377", "62");
+VALUES ("4384", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4379", "59");
+VALUES ("4385", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4380", "33");
+VALUES ("4386", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4381", "66");
+VALUES ("4387", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4383", "30");
+VALUES ("4389", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4384", "11");
+VALUES ("4390", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4385", "42");
+VALUES ("4391", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4386", "7");
+VALUES ("4392", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4387", "22");
+VALUES ("4393", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4388", "54");
+VALUES ("4394", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4389", "3");
+VALUES ("4395", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4390", "79");
+VALUES ("4397", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4391", "65");
+VALUES ("4398", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4393", "75");
+VALUES ("4400", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4394", "13");
+VALUES ("4401", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4395", "0");
+VALUES ("4402", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4396", "77");
+VALUES ("4403", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4398", "80");
+VALUES ("4404", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4399", "48");
+VALUES ("4405", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4400", "66");
+VALUES ("4406", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4401", "76");
+VALUES ("4407", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4402", "45");
+VALUES ("4408", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4403", "43");
+VALUES ("4409", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4404", "55");
+VALUES ("4410", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4405", "19");
+VALUES ("4411", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4406", "4");
+VALUES ("4412", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4407", "75");
+VALUES ("4413", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4408", "40");
+VALUES ("4414", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4409", "19");
+VALUES ("4415", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4410", "16");
+VALUES ("4416", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4411", "11");
+VALUES ("4417", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4414", "40");
+VALUES ("4418", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4415", "34");
+VALUES ("4419", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4416", "21");
+VALUES ("4420", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4418", "6");
+VALUES ("4421", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4419", "12");
+VALUES ("4422", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4420", "71");
+VALUES ("4423", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4421", "52");
+VALUES ("4424", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4422", "2");
+VALUES ("4425", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4423", "62");
+VALUES ("4426", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4424", "74");
+VALUES ("4427", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4426", "66");
+VALUES ("4428", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4427", "2");
+VALUES ("4429", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4428", "10");
+VALUES ("4430", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4429", "6");
+VALUES ("4431", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4430", "70");
+VALUES ("4432", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4431", "10");
+VALUES ("4433", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4432", "19");
+VALUES ("4434", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4433", "8");
+VALUES ("4435", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4434", "80");
+VALUES ("4436", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4435", "56");
+VALUES ("4437", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4436", "58");
+VALUES ("4438", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4437", "37");
+VALUES ("4439", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4438", "73");
+VALUES ("4441", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4439", "38");
+VALUES ("4443", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4440", "11");
+VALUES ("4444", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4441", "56");
+VALUES ("4445", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4443", "44");
+VALUES ("4446", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4444", "0");
+VALUES ("4447", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4445", "31");
+VALUES ("4448", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4446", "32");
+VALUES ("4449", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4447", "42");
+VALUES ("4451", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4448", "56");
+VALUES ("4452", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4449", "46");
+VALUES ("4453", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4450", "9");
+VALUES ("4454", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4451", "67");
+VALUES ("4455", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4452", "27");
+VALUES ("4456", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4453", "24");
+VALUES ("4458", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4454", "20");
+VALUES ("4459", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4455", "2");
+VALUES ("4461", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4456", "14");
+VALUES ("4462", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4457", "26");
+VALUES ("4464", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4458", "80");
+VALUES ("4465", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4459", "66");
+VALUES ("4466", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4460", "64");
+VALUES ("4468", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4461", "7");
+VALUES ("4469", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4462", "28");
+VALUES ("4470", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4463", "40");
+VALUES ("4471", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4464", "49");
+VALUES ("4472", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4465", "1");
+VALUES ("4473", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4466", "61");
+VALUES ("4474", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4467", "34");
+VALUES ("4475", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4470", "31");
+VALUES ("4476", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4471", "18");
+VALUES ("4477", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4472", "17");
+VALUES ("4478", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4473", "56");
+VALUES ("4479", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4474", "28");
+VALUES ("4480", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4475", "44");
+VALUES ("4481", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4476", "9");
+VALUES ("4482", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4477", "9");
+VALUES ("4483", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4478", "60");
+VALUES ("4484", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4479", "57");
+VALUES ("4485", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4480", "54");
+VALUES ("4487", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4481", "9");
+VALUES ("4488", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4482", "80");
+VALUES ("4489", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4483", "61");
+VALUES ("4490", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4484", "14");
+VALUES ("4491", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4485", "34");
+VALUES ("4492", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4486", "40");
+VALUES ("4493", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4487", "13");
+VALUES ("4494", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4488", "43");
+VALUES ("4495", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4490", "70");
+VALUES ("4496", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4491", "36");
+VALUES ("4497", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4492", "14");
+VALUES ("4498", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4493", "3");
+VALUES ("4499", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4494", "51");
+VALUES ("4500", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4495", "53");
+VALUES ("4501", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4496", "10");
+VALUES ("4502", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4497", "44");
+VALUES ("4503", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4498", "21");
+VALUES ("4504", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4499", "63");
+VALUES ("4505", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4502", "25");
+VALUES ("4506", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4503", "71");
+VALUES ("4507", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4504", "29");
+VALUES ("4508", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4505", "13");
+VALUES ("4509", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4506", "0");
+VALUES ("4510", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4507", "12");
+VALUES ("4511", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4509", "8");
+VALUES ("4512", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4510", "50");
+VALUES ("4513", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4511", "35");
+VALUES ("4514", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4514", "32");
+VALUES ("4515", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4515", "35");
+VALUES ("4516", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4516", "78");
+VALUES ("4517", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4517", "80");
+VALUES ("4518", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4518", "27");
+VALUES ("4519", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4520", "71");
+VALUES ("4520", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4521", "10");
+VALUES ("4521", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4522", "35");
+VALUES ("4522", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4523", "7");
+VALUES ("4523", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4524", "77");
+VALUES ("4525", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4526", "13");
+VALUES ("4526", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4527", "41");
+VALUES ("4527", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4528", "2");
+VALUES ("4528", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4529", "11");
+VALUES ("4529", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4530", "72");
+VALUES ("4530", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4531", "4");
+VALUES ("4531", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4533", "72");
+VALUES ("4533", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4534", "14");
+VALUES ("4534", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4535", "5");
+VALUES ("4535", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4536", "55");
+VALUES ("4536", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4537", "8");
+VALUES ("4539", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4540", "0");
+VALUES ("4541", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4541", "40");
+VALUES ("4542", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4542", "68");
+VALUES ("4543", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4543", "51");
+VALUES ("4544", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4544", "53");
+VALUES ("4545", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4545", "73");
+VALUES ("4546", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4546", "22");
+VALUES ("4547", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4549", "34");
+VALUES ("4548", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4550", "54");
+VALUES ("4549", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4551", "69");
+VALUES ("4551", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4552", "70");
+VALUES ("4553", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4553", "70");
+VALUES ("4554", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4554", "54");
+VALUES ("4555", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4555", "32");
+VALUES ("4556", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4556", "13");
+VALUES ("4557", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4557", "21");
+VALUES ("4558", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4558", "36");
+VALUES ("4560", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4559", "45");
+VALUES ("4561", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4560", "77");
+VALUES ("4562", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4561", "7");
+VALUES ("4564", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4562", "25");
+VALUES ("4565", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4563", "32");
+VALUES ("4566", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4564", "5");
+VALUES ("4567", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4565", "30");
+VALUES ("4568", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4566", "2");
+VALUES ("4569", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4567", "0");
+VALUES ("4570", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4568", "22");
+VALUES ("4572", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4569", "17");
+VALUES ("4573", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4570", "58");
+VALUES ("4574", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4571", "21");
+VALUES ("4576", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4572", "13");
+VALUES ("4577", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4573", "56");
+VALUES ("4578", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4574", "27");
+VALUES ("4579", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4575", "42");
+VALUES ("4580", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4576", "22");
+VALUES ("4581", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4577", "67");
+VALUES ("4582", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4578", "35");
+VALUES ("4583", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4580", "15");
+VALUES ("4584", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4581", "35");
+VALUES ("4585", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4582", "43");
+VALUES ("4586", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4583", "21");
+VALUES ("4588", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4584", "36");
+VALUES ("4589", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4585", "4");
+VALUES ("4590", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4586", "60");
+VALUES ("4591", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4587", "22");
+VALUES ("4592", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4588", "70");
+VALUES ("4593", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4589", "49");
+VALUES ("4594", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4590", "65");
+VALUES ("4595", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4591", "2");
+VALUES ("4596", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4592", "49");
+VALUES ("4597", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4593", "11");
+VALUES ("4598", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4594", "19");
+VALUES ("4599", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4595", "53");
+VALUES ("4600", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4596", "6");
+VALUES ("4602", "53");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4597", "5");
+VALUES ("4603", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4598", "18");
+VALUES ("4605", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4600", "50");
+VALUES ("4606", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4601", "33");
+VALUES ("4607", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4602", "48");
+VALUES ("4608", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4603", "46");
+VALUES ("4609", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4604", "65");
+VALUES ("4610", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4605", "19");
+VALUES ("4611", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4607", "4");
+VALUES ("4612", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4608", "57");
+VALUES ("4613", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4609", "39");
+VALUES ("4614", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4610", "8");
+VALUES ("4615", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4611", "71");
+VALUES ("4616", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4612", "0");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4613", "12");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4614", "18");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4615", "58");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4616", "50");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4617", "51");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4618", "49");
+VALUES ("4618", "30");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4619", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4620", "14");
+VALUES ("4620", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4621", "75");
+VALUES ("4621", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4622", "2");
+VALUES ("4622", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4623", "48");
+VALUES ("4623", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4624", "57");
+VALUES ("4624", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4625", "27");
+VALUES ("4625", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4626", "8");
+VALUES ("4626", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4627", "38");
+VALUES ("4627", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4628", "38");
+VALUES ("4628", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4629", "45");
+VALUES ("4629", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4630", "49");
+VALUES ("4630", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4631", "25");
+VALUES ("4631", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4632", "33");
+VALUES ("4632", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4633", "6");
+VALUES ("4634", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4634", "75");
+VALUES ("4635", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4635", "77");
+VALUES ("4636", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4636", "0");
+VALUES ("4638", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4637", "17");
+VALUES ("4639", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4638", "40");
+VALUES ("4640", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4639", "40");
+VALUES ("4641", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4640", "46");
+VALUES ("4643", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4641", "46");
+VALUES ("4644", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4642", "29");
+VALUES ("4645", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4643", "48");
+VALUES ("4646", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4644", "35");
+VALUES ("4647", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4645", "60");
+VALUES ("4648", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4646", "6");
+VALUES ("4649", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4647", "28");
+VALUES ("4650", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4648", "45");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4649", "59");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4650", "71");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4651", "24");
+VALUES ("4651", "46");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4652", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4653", "25");
+VALUES ("4653", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4655", "57");
+VALUES ("4654", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4656", "26");
+VALUES ("4655", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4657", "35");
+VALUES ("4656", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4658", "59");
+VALUES ("4657", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4659", "59");
+VALUES ("4660", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4660", "8");
+VALUES ("4661", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4661", "80");
+VALUES ("4663", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4662", "10");
+VALUES ("4664", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4663", "29");
+VALUES ("4665", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4664", "15");
+VALUES ("4666", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4665", "28");
+VALUES ("4668", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4666", "29");
+VALUES ("4669", "6");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4667", "77");
+VALUES ("4670", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4669", "41");
+VALUES ("4671", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4670", "31");
+VALUES ("4672", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4671", "25");
+VALUES ("4673", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4672", "27");
+VALUES ("4674", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4673", "69");
+VALUES ("4675", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4674", "13");
+VALUES ("4676", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4675", "77");
+VALUES ("4677", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4677", "40");
+VALUES ("4678", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4679", "59");
+VALUES ("4679", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4681", "36");
+VALUES ("4680", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4682", "23");
+VALUES ("4681", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4683", "69");
+VALUES ("4682", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4684", "40");
+VALUES ("4683", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4685", "10");
+VALUES ("4684", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4686", "2");
+VALUES ("4685", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4687", "52");
+VALUES ("4687", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4688", "54");
+VALUES ("4688", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4689", "43");
+VALUES ("4689", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4690", "26");
+VALUES ("4690", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4691", "26");
+VALUES ("4691", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4693", "71");
+VALUES ("4692", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4694", "14");
+VALUES ("4693", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4695", "54");
+VALUES ("4694", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4696", "53");
+VALUES ("4695", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4697", "26");
+VALUES ("4696", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4698", "5");
+VALUES ("4697", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4699", "79");
+VALUES ("4698", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4700", "19");
+VALUES ("4699", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4701", "51");
+VALUES ("4700", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4704", "50");
+VALUES ("4701", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4705", "9");
+VALUES ("4702", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4706", "16");
+VALUES ("4703", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4707", "73");
+VALUES ("4704", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4708", "50");
+VALUES ("4705", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4709", "30");
+VALUES ("4706", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4710", "1");
+VALUES ("4707", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4711", "48");
+VALUES ("4708", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4712", "55");
+VALUES ("4709", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4713", "34");
+VALUES ("4710", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4714", "6");
+VALUES ("4711", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4715", "71");
+VALUES ("4712", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4716", "45");
+VALUES ("4713", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4717", "26");
+VALUES ("4714", "16");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4718", "33");
+VALUES ("4715", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4719", "53");
+VALUES ("4717", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4720", "58");
+VALUES ("4718", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4721", "42");
+VALUES ("4719", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4722", "78");
+VALUES ("4720", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4723", "40");
+VALUES ("4721", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4724", "13");
+VALUES ("4722", "17");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4725", "30");
+VALUES ("4723", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4726", "8");
+VALUES ("4724", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4727", "54");
+VALUES ("4725", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4728", "70");
+VALUES ("4726", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4729", "62");
+VALUES ("4727", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4730", "38");
+VALUES ("4728", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4731", "17");
+VALUES ("4729", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4732", "2");
+VALUES ("4730", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4733", "6");
+VALUES ("4731", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4734", "27");
+VALUES ("4732", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4735", "73");
+VALUES ("4734", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4736", "22");
+VALUES ("4735", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4737", "36");
+VALUES ("4737", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4738", "22");
+VALUES ("4738", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4739", "56");
+VALUES ("4739", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4740", "4");
+VALUES ("4740", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4741", "49");
+VALUES ("4741", "29");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4742", "36");
+VALUES ("4742", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4743", "42");
+VALUES ("4743", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4744", "75");
+VALUES ("4744", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4745", "26");
+VALUES ("4745", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4746", "76");
+VALUES ("4746", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4747", "66");
+VALUES ("4747", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4748", "49");
+VALUES ("4748", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4749", "53");
+VALUES ("4749", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4750", "8");
+VALUES ("4750", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4751", "38");
+VALUES ("4752", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4752", "40");
+VALUES ("4753", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4753", "9");
+VALUES ("4754", "0");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4755", "58");
+VALUES ("4755", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4756", "72");
+VALUES ("4756", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4757", "69");
+VALUES ("4757", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4758", "0");
+VALUES ("4758", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4759", "77");
+VALUES ("4759", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4760", "11");
+VALUES ("4760", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4761", "75");
+VALUES ("4761", "28");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4762", "23");
+VALUES ("4762", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4763", "45");
+VALUES ("4763", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4764", "34");
+VALUES ("4764", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4765", "50");
+VALUES ("4765", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4766", "25");
+VALUES ("4766", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4768", "2");
+VALUES ("4767", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4769", "2");
+VALUES ("4768", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4770", "38");
+VALUES ("4769", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4771", "44");
+VALUES ("4770", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4772", "24");
+VALUES ("4771", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4773", "76");
+VALUES ("4772", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4774", "7");
+VALUES ("4773", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4775", "48");
+VALUES ("4774", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4776", "2");
+VALUES ("4775", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4777", "13");
+VALUES ("4776", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4778", "29");
+VALUES ("4777", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4779", "20");
+VALUES ("4778", "12");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4780", "59");
+VALUES ("4779", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4781", "13");
+VALUES ("4780", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4782", "52");
+VALUES ("4782", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4783", "11");
+VALUES ("4783", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4784", "25");
+VALUES ("4784", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4785", "75");
+VALUES ("4785", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4786", "29");
+VALUES ("4786", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4787", "7");
+VALUES ("4787", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4789", "38");
+VALUES ("4788", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4790", "65");
+VALUES ("4789", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4791", "15");
+VALUES ("4790", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4792", "66");
+VALUES ("4791", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4793", "44");
+VALUES ("4792", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4794", "80");
+VALUES ("4793", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4795", "80");
+VALUES ("4794", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4796", "0");
+VALUES ("4795", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4797", "56");
+VALUES ("4796", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4798", "23");
+VALUES ("4797", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4799", "32");
+VALUES ("4798", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4800", "51");
+VALUES ("4799", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4801", "4");
+VALUES ("4800", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4802", "77");
+VALUES ("4801", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4803", "3");
+VALUES ("4803", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4804", "45");
+VALUES ("4805", "54");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4805", "55");
+VALUES ("4806", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4806", "62");
+VALUES ("4807", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4807", "6");
+VALUES ("4808", "45");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4808", "52");
+VALUES ("4810", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4809", "9");
+VALUES ("4811", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4810", "76");
+VALUES ("4812", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4811", "36");
+VALUES ("4813", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4814", "79");
+VALUES ("4814", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4815", "62");
+VALUES ("4815", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4816", "36");
+VALUES ("4816", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4817", "0");
+VALUES ("4817", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4818", "39");
+VALUES ("4818", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4819", "80");
+VALUES ("4819", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4820", "14");
+VALUES ("4820", "33");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4821", "3");
+VALUES ("4821", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4822", "67");
+VALUES ("4823", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4823", "58");
+VALUES ("4824", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4824", "11");
+VALUES ("4825", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4825", "14");
+VALUES ("4827", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4826", "52");
+VALUES ("4828", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4828", "25");
+VALUES ("4830", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4829", "16");
+VALUES ("4831", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4830", "31");
+VALUES ("4832", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4831", "32");
+VALUES ("4833", "67");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4832", "63");
+VALUES ("4835", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4833", "66");
+VALUES ("4836", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4834", "11");
+VALUES ("4837", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4835", "37");
+VALUES ("4838", "48");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4836", "66");
+VALUES ("4841", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4837", "26");
+VALUES ("4842", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4838", "5");
+VALUES ("4844", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4839", "37");
+VALUES ("4845", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4840", "61");
+VALUES ("4846", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4841", "20");
+VALUES ("4847", "51");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4842", "13");
+VALUES ("4848", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4843", "71");
+VALUES ("4849", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4844", "58");
+VALUES ("4851", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4845", "13");
+VALUES ("4852", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4846", "72");
+VALUES ("4853", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4847", "0");
+VALUES ("4854", "15");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4849", "23");
+VALUES ("4855", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4850", "51");
+VALUES ("4856", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4851", "71");
+VALUES ("4857", "25");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4852", "72");
+VALUES ("4858", "24");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4853", "27");
+VALUES ("4859", "4");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4854", "9");
+VALUES ("4860", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4855", "22");
+VALUES ("4861", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4856", "75");
+VALUES ("4862", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4857", "4");
+VALUES ("4864", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4858", "37");
+VALUES ("4865", "44");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4859", "41");
+VALUES ("4866", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4860", "32");
+VALUES ("4867", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4861", "8");
+VALUES ("4868", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4862", "41");
+VALUES ("4869", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4864", "12");
+VALUES ("4871", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4865", "70");
+VALUES ("4872", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4866", "76");
+VALUES ("4874", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4867", "20");
+VALUES ("4875", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4869", "7");
+VALUES ("4876", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4871", "52");
+VALUES ("4878", "70");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4872", "63");
+VALUES ("4879", "43");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4873", "34");
+VALUES ("4880", "39");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4874", "8");
+VALUES ("4881", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4875", "51");
+VALUES ("4882", "80");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4877", "22");
+VALUES ("4885", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4878", "34");
+VALUES ("4886", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4879", "63");
+VALUES ("4887", "46");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4880", "41");
+VALUES ("4888", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4881", "2");
+VALUES ("4889", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4882", "50");
+VALUES ("4890", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4883", "26");
+VALUES ("4892", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4884", "46");
+VALUES ("4893", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4885", "26");
+VALUES ("4894", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4886", "0");
+VALUES ("4895", "30");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4887", "58");
+VALUES ("4896", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4890", "6");
+VALUES ("4897", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4891", "61");
+VALUES ("4899", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4892", "33");
+VALUES ("4900", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4893", "51");
+VALUES ("4901", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4894", "29");
+VALUES ("4902", "50");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4895", "13");
+VALUES ("4903", "27");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4896", "8");
+VALUES ("4904", "62");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4897", "23");
+VALUES ("4905", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4898", "73");
+VALUES ("4906", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4899", "39");
+VALUES ("4907", "3");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4900", "76");
+VALUES ("4908", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4901", "58");
+VALUES ("4909", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4902", "70");
+VALUES ("4910", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4903", "49");
+VALUES ("4911", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4904", "71");
+VALUES ("4912", "21");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4905", "46");
+VALUES ("4913", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4906", "9");
+VALUES ("4914", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4907", "4");
+VALUES ("4915", "35");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4908", "73");
+VALUES ("4917", "57");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4909", "51");
+VALUES ("4918", "26");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4910", "78");
+VALUES ("4919", "9");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4911", "39");
+VALUES ("4920", "56");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4912", "28");
+VALUES ("4921", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4913", "17");
+VALUES ("4922", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4914", "25");
+VALUES ("4923", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4915", "79");
+VALUES ("4924", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4916", "65");
+VALUES ("4925", "69");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4918", "23");
+VALUES ("4926", "38");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4919", "56");
+VALUES ("4927", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4921", "60");
+VALUES ("4928", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4922", "8");
+VALUES ("4929", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4923", "34");
+VALUES ("4930", "10");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4924", "10");
+VALUES ("4931", "23");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4925", "55");
+VALUES ("4932", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4926", "37");
+VALUES ("4934", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4927", "67");
+VALUES ("4935", "1");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4928", "47");
+VALUES ("4937", "13");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4929", "51");
+VALUES ("4938", "63");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4930", "16");
+VALUES ("4939", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4931", "70");
+VALUES ("4940", "61");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4932", "19");
+VALUES ("4941", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4933", "50");
+VALUES ("4944", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4934", "76");
+VALUES ("4945", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4935", "16");
+VALUES ("4946", "47");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4936", "61");
+VALUES ("4947", "31");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4937", "78");
+VALUES ("4949", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4939", "67");
+VALUES ("4950", "52");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4940", "67");
+VALUES ("4951", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4941", "59");
+VALUES ("4952", "74");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4942", "48");
+VALUES ("4953", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4943", "45");
+VALUES ("4954", "37");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4944", "5");
+VALUES ("4955", "58");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4945", "24");
+VALUES ("4956", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4946", "22");
+VALUES ("4957", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4947", "60");
+VALUES ("4958", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4948", "34");
+VALUES ("4959", "20");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4950", "54");
+VALUES ("4960", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4951", "25");
+VALUES ("4961", "78");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4953", "33");
+VALUES ("4962", "2");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4954", "35");
+VALUES ("4963", "72");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4955", "22");
+VALUES ("4964", "34");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4957", "49");
+VALUES ("4965", "7");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4958", "23");
+VALUES ("4966", "76");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4959", "6");
+VALUES ("4967", "65");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4960", "18");
+VALUES ("4968", "73");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4961", "69");
+VALUES ("4969", "55");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4962", "73");
+VALUES ("4970", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4963", "49");
+VALUES ("4971", "41");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4964", "68");
+VALUES ("4972", "8");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4967", "14");
+VALUES ("4973", "49");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4968", "30");
+VALUES ("4975", "66");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4969", "17");
+VALUES ("4976", "11");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4972", "30");
+VALUES ("4977", "75");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4973", "72");
+VALUES ("4978", "60");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4974", "24");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4975", "55");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4976", "6");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4978", "59");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4979", "1");
+VALUES ("4979", "59");
 
 INSERT INTO students (user_id, major_id)
 VALUES ("4980", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4981", "12");
+VALUES ("4981", "68");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4982", "53");
+VALUES ("4983", "79");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4984", "28");
+VALUES ("4985", "42");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4985", "48");
+VALUES ("4986", "64");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4986", "42");
+VALUES ("4987", "40");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4987", "37");
+VALUES ("4988", "71");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4988", "39");
+VALUES ("4989", "77");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4989", "41");
+VALUES ("4990", "18");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4990", "38");
+VALUES ("4991", "32");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4991", "49");
+VALUES ("4992", "5");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4992", "18");
+VALUES ("4993", "36");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4993", "28");
+VALUES ("4994", "22");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4994", "21");
+VALUES ("4995", "59");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4995", "43");
+VALUES ("4996", "19");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4996", "74");
+VALUES ("4997", "14");
 
 INSERT INTO students (user_id, major_id)
-VALUES ("4997", "74");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4998", "56");
-
-INSERT INTO students (user_id, major_id)
-VALUES ("4999", "64");
+VALUES ("4999", "12");
 

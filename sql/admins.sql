@@ -1,390 +1,303 @@
 INSERT INTO admins (user_id)
-VALUES ("78");
+VALUES ("11");
 
 INSERT INTO admins (user_id)
-VALUES ("102");
+VALUES ("51");
 
 INSERT INTO admins (user_id)
-VALUES ("103");
+VALUES ("246");
 
 INSERT INTO admins (user_id)
-VALUES ("195");
+VALUES ("265");
 
 INSERT INTO admins (user_id)
-VALUES ("228");
+VALUES ("304");
 
 INSERT INTO admins (user_id)
-VALUES ("296");
+VALUES ("338");
 
 INSERT INTO admins (user_id)
-VALUES ("299");
+VALUES ("343");
 
 INSERT INTO admins (user_id)
-VALUES ("356");
+VALUES ("494");
 
 INSERT INTO admins (user_id)
-VALUES ("416");
+VALUES ("581");
 
 INSERT INTO admins (user_id)
-VALUES ("502");
+VALUES ("583");
 
 INSERT INTO admins (user_id)
-VALUES ("503");
+VALUES ("640");
 
 INSERT INTO admins (user_id)
-VALUES ("511");
+VALUES ("645");
 
 INSERT INTO admins (user_id)
-VALUES ("548");
+VALUES ("668");
 
 INSERT INTO admins (user_id)
-VALUES ("564");
+VALUES ("795");
 
 INSERT INTO admins (user_id)
-VALUES ("600");
+VALUES ("809");
 
 INSERT INTO admins (user_id)
-VALUES ("615");
+VALUES ("906");
 
 INSERT INTO admins (user_id)
-VALUES ("642");
+VALUES ("918");
 
 INSERT INTO admins (user_id)
-VALUES ("701");
+VALUES ("1009");
 
 INSERT INTO admins (user_id)
-VALUES ("816");
+VALUES ("1072");
 
 INSERT INTO admins (user_id)
-VALUES ("889");
+VALUES ("1082");
 
 INSERT INTO admins (user_id)
-VALUES ("937");
+VALUES ("1253");
 
 INSERT INTO admins (user_id)
-VALUES ("955");
+VALUES ("1297");
 
 INSERT INTO admins (user_id)
-VALUES ("976");
+VALUES ("1317");
 
 INSERT INTO admins (user_id)
-VALUES ("1032");
+VALUES ("1361");
 
 INSERT INTO admins (user_id)
-VALUES ("1091");
+VALUES ("1428");
 
 INSERT INTO admins (user_id)
-VALUES ("1157");
+VALUES ("1440");
 
 INSERT INTO admins (user_id)
-VALUES ("1189");
+VALUES ("1453");
 
 INSERT INTO admins (user_id)
-VALUES ("1194");
+VALUES ("1482");
 
 INSERT INTO admins (user_id)
-VALUES ("1230");
+VALUES ("1609");
 
 INSERT INTO admins (user_id)
-VALUES ("1241");
+VALUES ("1659");
 
 INSERT INTO admins (user_id)
-VALUES ("1254");
+VALUES ("1699");
 
 INSERT INTO admins (user_id)
-VALUES ("1266");
+VALUES ("1704");
 
 INSERT INTO admins (user_id)
-VALUES ("1322");
+VALUES ("1706");
 
 INSERT INTO admins (user_id)
-VALUES ("1354");
+VALUES ("1760");
 
 INSERT INTO admins (user_id)
-VALUES ("1420");
+VALUES ("1761");
 
 INSERT INTO admins (user_id)
-VALUES ("1431");
+VALUES ("1785");
 
 INSERT INTO admins (user_id)
-VALUES ("1432");
+VALUES ("1839");
 
 INSERT INTO admins (user_id)
-VALUES ("1509");
+VALUES ("1950");
 
 INSERT INTO admins (user_id)
-VALUES ("1592");
+VALUES ("1970");
 
 INSERT INTO admins (user_id)
-VALUES ("1630");
+VALUES ("2027");
 
 INSERT INTO admins (user_id)
-VALUES ("1679");
+VALUES ("2087");
 
 INSERT INTO admins (user_id)
-VALUES ("1680");
+VALUES ("2106");
 
 INSERT INTO admins (user_id)
-VALUES ("1778");
+VALUES ("2128");
 
 INSERT INTO admins (user_id)
-VALUES ("1797");
+VALUES ("2164");
 
 INSERT INTO admins (user_id)
-VALUES ("1837");
+VALUES ("2238");
 
 INSERT INTO admins (user_id)
-VALUES ("1847");
+VALUES ("2262");
 
 INSERT INTO admins (user_id)
-VALUES ("1883");
+VALUES ("2306");
 
 INSERT INTO admins (user_id)
-VALUES ("1964");
+VALUES ("2340");
 
 INSERT INTO admins (user_id)
-VALUES ("1995");
+VALUES ("2565");
 
 INSERT INTO admins (user_id)
-VALUES ("2031");
+VALUES ("2574");
 
 INSERT INTO admins (user_id)
-VALUES ("2039");
+VALUES ("2666");
 
 INSERT INTO admins (user_id)
-VALUES ("2059");
+VALUES ("2716");
 
 INSERT INTO admins (user_id)
-VALUES ("2070");
+VALUES ("2785");
 
 INSERT INTO admins (user_id)
-VALUES ("2161");
+VALUES ("2812");
 
 INSERT INTO admins (user_id)
-VALUES ("2191");
+VALUES ("2836");
 
 INSERT INTO admins (user_id)
-VALUES ("2267");
+VALUES ("2952");
 
 INSERT INTO admins (user_id)
-VALUES ("2293");
+VALUES ("2959");
 
 INSERT INTO admins (user_id)
-VALUES ("2343");
+VALUES ("3013");
 
 INSERT INTO admins (user_id)
-VALUES ("2407");
+VALUES ("3058");
 
 INSERT INTO admins (user_id)
-VALUES ("2410");
-
-INSERT INTO admins (user_id)
-VALUES ("2449");
-
-INSERT INTO admins (user_id)
-VALUES ("2455");
-
-INSERT INTO admins (user_id)
-VALUES ("2522");
-
-INSERT INTO admins (user_id)
-VALUES ("2543");
-
-INSERT INTO admins (user_id)
-VALUES ("2549");
-
-INSERT INTO admins (user_id)
-VALUES ("2562");
-
-INSERT INTO admins (user_id)
-VALUES ("2583");
-
-INSERT INTO admins (user_id)
-VALUES ("2625");
-
-INSERT INTO admins (user_id)
-VALUES ("2648");
-
-INSERT INTO admins (user_id)
-VALUES ("2698");
-
-INSERT INTO admins (user_id)
-VALUES ("2796");
-
-INSERT INTO admins (user_id)
-VALUES ("2830");
-
-INSERT INTO admins (user_id)
-VALUES ("2887");
-
-INSERT INTO admins (user_id)
-VALUES ("2911");
-
-INSERT INTO admins (user_id)
-VALUES ("3020");
+VALUES ("3067");
 
 INSERT INTO admins (user_id)
 VALUES ("3070");
 
 INSERT INTO admins (user_id)
-VALUES ("3121");
+VALUES ("3108");
 
 INSERT INTO admins (user_id)
-VALUES ("3154");
+VALUES ("3147");
 
 INSERT INTO admins (user_id)
-VALUES ("3161");
+VALUES ("3159");
 
 INSERT INTO admins (user_id)
-VALUES ("3275");
+VALUES ("3226");
 
 INSERT INTO admins (user_id)
-VALUES ("3278");
+VALUES ("3227");
 
 INSERT INTO admins (user_id)
-VALUES ("3328");
+VALUES ("3351");
 
 INSERT INTO admins (user_id)
-VALUES ("3334");
+VALUES ("3368");
 
 INSERT INTO admins (user_id)
-VALUES ("3340");
+VALUES ("3584");
 
 INSERT INTO admins (user_id)
-VALUES ("3356");
+VALUES ("3598");
 
 INSERT INTO admins (user_id)
-VALUES ("3381");
+VALUES ("3680");
 
 INSERT INTO admins (user_id)
-VALUES ("3412");
+VALUES ("3711");
 
 INSERT INTO admins (user_id)
-VALUES ("3423");
+VALUES ("3751");
 
 INSERT INTO admins (user_id)
-VALUES ("3437");
+VALUES ("3869");
 
 INSERT INTO admins (user_id)
-VALUES ("3467");
+VALUES ("3915");
 
 INSERT INTO admins (user_id)
-VALUES ("3546");
+VALUES ("3969");
 
 INSERT INTO admins (user_id)
-VALUES ("3603");
+VALUES ("3974");
 
 INSERT INTO admins (user_id)
-VALUES ("3677");
+VALUES ("4007");
 
 INSERT INTO admins (user_id)
-VALUES ("3741");
+VALUES ("4104");
 
 INSERT INTO admins (user_id)
-VALUES ("3757");
+VALUES ("4195");
 
 INSERT INTO admins (user_id)
-VALUES ("3762");
+VALUES ("4220");
 
 INSERT INTO admins (user_id)
-VALUES ("3826");
+VALUES ("4249");
 
 INSERT INTO admins (user_id)
-VALUES ("3829");
+VALUES ("4256");
 
 INSERT INTO admins (user_id)
-VALUES ("3833");
+VALUES ("4273");
 
 INSERT INTO admins (user_id)
-VALUES ("3870");
+VALUES ("4373");
 
 INSERT INTO admins (user_id)
-VALUES ("3871");
+VALUES ("4457");
 
 INSERT INTO admins (user_id)
-VALUES ("3887");
+VALUES ("4540");
 
 INSERT INTO admins (user_id)
-VALUES ("3935");
+VALUES ("4559");
 
 INSERT INTO admins (user_id)
-VALUES ("4053");
+VALUES ("4601");
 
 INSERT INTO admins (user_id)
-VALUES ("4115");
+VALUES ("4604");
 
 INSERT INTO admins (user_id)
-VALUES ("4169");
+VALUES ("4642");
 
 INSERT INTO admins (user_id)
-VALUES ("4235");
+VALUES ("4686");
 
 INSERT INTO admins (user_id)
-VALUES ("4247");
+VALUES ("4804");
 
 INSERT INTO admins (user_id)
-VALUES ("4262");
-
-INSERT INTO admins (user_id)
-VALUES ("4284");
-
-INSERT INTO admins (user_id)
-VALUES ("4292");
-
-INSERT INTO admins (user_id)
-VALUES ("4304");
-
-INSERT INTO admins (user_id)
-VALUES ("4366");
-
-INSERT INTO admins (user_id)
-VALUES ("4378");
-
-INSERT INTO admins (user_id)
-VALUES ("4397");
-
-INSERT INTO admins (user_id)
-VALUES ("4425");
-
-INSERT INTO admins (user_id)
-VALUES ("4538");
-
-INSERT INTO admins (user_id)
-VALUES ("4548");
-
-INSERT INTO admins (user_id)
-VALUES ("4606");
-
-INSERT INTO admins (user_id)
-VALUES ("4668");
-
-INSERT INTO admins (user_id)
-VALUES ("4680");
-
-INSERT INTO admins (user_id)
-VALUES ("4703");
-
-INSERT INTO admins (user_id)
-VALUES ("4754");
-
-INSERT INTO admins (user_id)
-VALUES ("4767");
-
-INSERT INTO admins (user_id)
-VALUES ("4827");
+VALUES ("4826");
 
 INSERT INTO admins (user_id)
 VALUES ("4863");
 
 INSERT INTO admins (user_id)
-VALUES ("4868");
+VALUES ("4873");
 
 INSERT INTO admins (user_id)
-VALUES ("4876");
+VALUES ("4884");
 
 INSERT INTO admins (user_id)
-VALUES ("4889");
+VALUES ("4933");
 
 INSERT INTO admins (user_id)
-VALUES ("4949");
+VALUES ("4948");
+
+INSERT INTO admins (user_id)
+VALUES ("4974");
+
+INSERT INTO admins (user_id)
+VALUES ("4982");
 

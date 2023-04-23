@@ -58,4 +58,12 @@ with open("./data/admins.csv", mode="r") as file:
         query = f'INSERT INTO admins (user_id)\nVALUES ("{row["user_id"]}");'
         mycursor.execute(query)
 
+
+# populate courses table
+with open("./data/courses.csv", mode="r") as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        query = f'INSERT INTO courses (course_id, course_code, course_name, professor_id, dept_id, credit_hours, course_description)\nVALUES ("{row["course_id"]}", "{row["course_code"]}", "{row["course_name"]}"  ,"{row["professor_id"]}", "{row["dept_id"]}", "{row["credit_hours"]}", "{row["course_description"]}");'
+        mycursor.execute(query)
+
 mydb.commit()

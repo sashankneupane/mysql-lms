@@ -1,0 +1,2064 @@
+{
+    "Computer Science": [
+        {
+            "course_code": "CS101",
+            "course_name": "Introduction to Computer Science",
+            "credits": 4,
+            "description": "An introduction to the fundamental concepts and techniques of computer science, including problem-solving strategies, algorithm design and analysis, basic data structures, and an introduction to programming in a high-level language. Students will gain experience writing small programs."
+        },
+        {
+            "course_code": "CS201",
+            "course_name": "Data Structures and Algorithms",
+            "credits": 4,
+            "description": "A comprehensive introduction to algorithms and data structures in computer science. Topics include trees, graphs, hash tables, sorting and searching algorithms, and algorithm design techniques. Programming assignments and projects will be an important component of the course."
+        },
+        {
+            "course_code": "CS303",
+            "course_name": "Database Systems",
+            "credits": 4,
+            "description": "An introduction to database management systems and the underlying theory and design principles. Topics include relational database theory, SQL, transaction processing, and database design. Students will gain hands-on experience designing and implementing databases."
+        },
+        {
+            "course_code": "CS325",
+            "course_name": "Computer Networks",
+            "credits": 4,
+            "description": "An introduction to computer networks, including network architecture, protocols, and services. Topics include the OSI model, TCP/IP, routing, and wireless networks. Students will gain hands-on experience configuring and troubleshooting networks."
+        },
+        {
+            "course_code": "CS345",
+            "course_name": "Artificial Intelligence",
+            "credits": 4,
+            "description": "A survey of the theory and practice of artificial intelligence, including expert systems, natural language processing, and machine learning. Topics include knowledge representation, search algorithms, neural networks, and genetic algorithms. Students will gain hands-on experience implementing AI algorithms."
+        },
+        {
+            "course_code": "CS401",
+            "course_name": "Operating Systems",
+            "credits": 4,
+            "description": "An introduction to the principles and design of operating systems. Topics include process management, memory management, file systems, and I/O. Students will gain hands-on experience implementing a simple operating system kernel."
+        },
+        {
+            "course_code": "CS402",
+            "course_name": "Machine Learning",
+            "credits": 4,
+            "description": "An introduction to the principles and techniques of machine learning, including supervised and unsupervised learning, reinforcement learning, and deep learning. Topics include classification, regression, and clustering. Students will gain hands-on experience implementing machine learning algorithms."
+        },
+        {
+            "course_code": "CS405",
+            "course_name": "Distributed Systems",
+            "credits": 4,
+            "description": "An introduction to the principles and design of distributed systems, including distributed file systems, distributed databases, and distributed algorithms. Topics include communication protocols, distributed concurrency control, and fault tolerance. Students will gain hands-on experience implementing distributed systems."
+        },
+        {
+            "course_code": "CS411",
+            "course_name": "Computer Architecture",
+            "credits": 4,
+            "description": "An introduction to the principles of computer architecture, including instruction set design, pipelining, and memory hierarchy. Topics include performance analysis, cache coherence, and parallelism. Students will gain hands-on experience designing and implementing a simple processor."
+        },
+        {
+            "course_code": "CS415",
+            "course_name": "Computer Graphics",
+            "credits": 4,
+            "description": "An introduction to the principles and techniques of computer graphics, including 2D and 3D graphics, animation, and rendering. Topics include graphics hardware, geometric modeling, and image processing. Students will gain hands-on experience implementing graphics algorithms."
+        },
+        {
+            "course_code": "CSCI 390",
+            "course_name": "Computer Systems and Assembly Language Programming",
+            "credits": 4,
+            "description": "Design and implementation of computer systems and their assembly language programming. Topics include number systems, data representation, machine-level operations on data, basic processor architecture, memory hierarchy, input/output, and interrupts."
+        },
+        {
+            "course_code": "CSCI 420",
+            "course_name": "Advanced Algorithms",
+            "credits": 4,
+            "description": "In-depth study of advanced algorithms and their applications. Topics include algorithm design techniques, graph algorithms, dynamic programming, linear programming, randomized algorithms, and NP-completeness."
+        },
+        {
+            "course_code": "CSCI 426",
+            "course_name": "Computer Security",
+            "credits": 4,
+            "description": "Introduction to computer security concepts and techniques. Topics include access control, authentication, security models, network security, viruses and other malicious code, cryptography, and security protocols."
+        },
+        {
+            "course_code": "CSCI 465",
+            "course_name": "Parallel and Distributed Computing",
+            "credits": 4,
+            "description": "Introduction to parallel and distributed computing and their applications. Topics include parallel algorithms, distributed algorithms, synchronization, message passing, and parallel programming paradigms."
+        },
+        {
+            "course_code": "CSCI 470",
+            "course_name": "Software Engineering",
+            "credits": 4,
+            "description": "Introduction to software engineering concepts and techniques. Topics include software development processes, requirements engineering, software design and architecture, testing, and project management."
+        },
+        {
+            "course_code": "CSCI 480",
+            "course_name": "Computer Game Design",
+            "credits": 4,
+            "description": "Introduction to computer game design and development. Topics include game mechanics, game engines, level design, user interface design, artificial intelligence, and multiplayer game development."
+        }
+    ],
+    "Electrical Engineering": [
+        {
+            "course_code": "EE101",
+            "course_name": "Introduction to Electrical Engineering",
+            "credits": 4,
+            "description": "An introduction to electrical engineering, including basic circuit analysis, digital logic, and electronics. Emphasis is placed on problem solving and design."
+        },
+        {
+            "course_code": "EE201",
+            "course_name": "Circuit Analysis",
+            "credits": 4,
+            "description": "Analysis of linear circuits using Ohm's law, Kirchhoff's laws, and circuit theorems. Includes network theorems, AC analysis, and frequency response."
+        },
+        {
+            "course_code": "EE301",
+            "course_name": "Electronics",
+            "credits": 4,
+            "description": "Introduction to electronic devices and circuits. Topics include diodes, transistors, and amplifiers. Analysis and design of basic circuits are also covered."
+        },
+        {
+            "course_code": "EE401",
+            "course_name": "Digital Signal Processing",
+            "credits": 4,
+            "description": "Introduction to digital signal processing. Topics include sampling, quantization, filtering, and the discrete Fourier transform. Applications to audio and image processing are also covered."
+        },
+        {
+            "course_code": "EE501",
+            "course_name": "Control Systems",
+            "credits": 4,
+            "description": "An introduction to control systems, including modeling, analysis, and design. Topics include Laplace transforms, frequency response, and feedback control."
+        },
+        {
+            "course_code": "EE601",
+            "course_name": "Power Systems",
+            "credits": 4,
+            "description": "Introduction to electric power systems, including generation, transmission, and distribution. Topics include power system analysis, stability, and control."
+        },
+        {
+            "course_code": "EE701",
+            "course_name": "Electric Machines",
+            "credits": 4,
+            "description": "An introduction to electric machines, including DC and AC motors and generators. Topics include machine principles, analysis, and design."
+        },
+        {
+            "course_code": "EE801",
+            "course_name": "Renewable Energy Systems",
+            "credits": 4,
+            "description": "Introduction to renewable energy systems, including solar, wind, and hydroelectric power. Topics include energy conversion, system design, and integration with the power grid."
+        },
+        {
+            "course_code": "EE901",
+            "course_name": "Advanced Topics in Electrical Engineering",
+            "credits": 4,
+            "description": "An in-depth study of advanced topics in electrical engineering. Specific topics vary by semester."
+        },
+        {
+            "course_code": "EE902",
+            "course_name": "Advanced Topics in Power Systems",
+            "credits": 4,
+            "description": "An in-depth study of advanced topics in power systems. Specific topics vary by semester."
+        },
+        {
+            "course_code": "EE903",
+            "course_name": "Advanced Topics in Control Systems",
+            "credits": 4,
+            "description": "An in-depth study of advanced topics in control systems. Specific topics vary by semester."
+        },
+        {
+            "course_code": "EE904",
+            "course_name": "Advanced Topics in Digital Signal Processing",
+            "credits": 4,
+            "description": "An in-depth study of advanced topics in digital signal processing. Specific topics vary by semester."
+        },
+        {
+            "course_code": "EE905",
+            "course_name": "Advanced Topics in Electronics",
+            "credits": 4,
+            "description": "An in-depth study of advanced topics in electronics. Specific topics vary by semester."
+        }
+    ],
+    "Mechanical engineerng": [
+        {
+            "course_code": "ME101",
+            "course_name": "Engineering Mechanics",
+            "credits": 4,
+            "description": "Introduction to engineering mechanics, statics and dynamics of particles and rigid bodies"
+        },
+        {
+            "course_code": "ME201",
+            "course_name": "Mechanics of Materials",
+            "credits": 4,
+            "description": "Deformation and stress analysis of members subjected to axial loads, torsion, bending and combined loads"
+        },
+        {
+            "course_code": "ME301",
+            "course_name": "Thermodynamics",
+            "credits": 4,
+            "description": "Basic concepts and principles of thermodynamics, first and second laws, entropy, applications to engineering systems"
+        },
+        {
+            "course_code": "ME401",
+            "course_name": "Fluid Mechanics",
+            "credits": 4,
+            "description": "Fluid statics, fluid dynamics, conservation of mass, energy and momentum, applications to engineering systems"
+        },
+        {
+            "course_code": "ME501",
+            "course_name": "Heat Transfer",
+            "credits": 4,
+            "description": "Modes of heat transfer, steady and unsteady state conduction, convection, radiation, heat exchangers"
+        },
+        {
+            "course_code": "ME601",
+            "course_name": "Materials Science",
+            "credits": 4,
+            "description": "Atomic structure, crystallography, defects in solids, mechanical properties of materials"
+        },
+        {
+            "course_code": "ME701",
+            "course_name": "Manufacturing Processes",
+            "credits": 4,
+            "description": "Fundamentals of manufacturing processes, casting, welding, forming and machining"
+        },
+        {
+            "course_code": "ME801",
+            "course_name": "Control Systems",
+            "credits": 4,
+            "description": "Modeling and analysis of dynamic systems, feedback control, stability, transient and steady state response"
+        },
+        {
+            "course_code": "ME901",
+            "course_name": "Mechanical Design",
+            "credits": 4,
+            "description": "Design of mechanical components, stress analysis, fatigue, fracture mechanics"
+        },
+        {
+            "course_code": "ME1001",
+            "course_name": "Robotics",
+            "credits": 4,
+            "description": "Introduction to robotics, robot kinematics, dynamics, and control"
+        },
+        {
+            "course_code": "ME1101",
+            "course_name": "Finite Element Analysis",
+            "credits": 4,
+            "description": "Introduction to finite element method, modeling and analysis of solids, structures and heat transfer problems"
+        },
+        {
+            "course_code": "ME1201",
+            "course_name": "Mechatronics",
+            "credits": 4,
+            "description": "Integration of mechanical, electrical, and computer systems, sensors, actuators, and control systems"
+        },
+        {
+            "course_code": "ME1301",
+            "course_name": "Power Generation and Distribution",
+            "credits": 4,
+            "description": "Generation of electricity, power plant systems, transmission and distribution of electrical power"
+        },
+        {
+            "course_code": "ME1401",
+            "course_name": "Automotive Engineering",
+            "credits": 4,
+            "description": "Design and analysis of automotive systems, powertrains, suspension, brakes, and chassis"
+        },
+        {
+            "course_code": "ME 016",
+            "course_name": "Introduction to Robotics",
+            "credits": 4,
+            "description": "Introduction to principles and applications of robotics, kinematics, dynamics, sensors, actuators, and control systems."
+        },
+        {
+            "course_code": "ME 017",
+            "course_name": "Computational Fluid Dynamics",
+            "credits": 4,
+            "description": "Introduction to numerical methods for solving fluid mechanics problems, including turbulence, heat transfer, and multiphase flows."
+        },
+        {
+            "course_code": "ME 018",
+            "course_name": "Smart Materials and Structures",
+            "credits": 4,
+            "description": "Introduction to materials with unique properties, such as shape memory alloys, piezoelectric materials, and magnetostrictive materials, and their applications in sensors, actuators, and smart structures."
+        },
+        {
+            "course_code": "ME 019",
+            "course_name": "Advanced Manufacturing Processes",
+            "credits": 4,
+            "description": "Overview of advanced manufacturing processes, such as laser machining, ultrasonic machining, electrochemical machining, and additive manufacturing."
+        },
+        {
+            "course_code": "ME 020",
+            "course_name": "Energy Systems and Sustainability",
+            "credits": 4,
+            "description": "Introduction to renewable and non-renewable energy sources, energy conversion and storage systems, energy policies, and sustainable development."
+        },
+        {
+            "course_code": "ME 021",
+            "course_name": "Microscale and Nanoscale Engineering",
+            "credits": 4,
+            "description": "Introduction to microfabrication and nanofabrication techniques, MEMS/NEMS devices, and their applications in biomedical, optical, and communication systems."
+        },
+        {
+            "course_code": "ME 022",
+            "course_name": "Nonlinear Dynamics and Chaos",
+            "credits": 4,
+            "description": "Introduction to nonlinear systems, chaos theory, and their applications in mechanical systems, including vibrations, bifurcations, and synchronization."
+        },
+        {
+            "course_code": "ME 023",
+            "course_name": "Microfluidics and BioMEMS",
+            "credits": 4,
+            "description": "Introduction to microfluidics, microfabrication, and bioMEMS devices, and their applications in biological and medical systems."
+        },
+        {
+            "course_code": "ME 024",
+            "course_name": "Structural Health Monitoring",
+            "credits": 4,
+            "description": "Introduction to structural health monitoring techniques, such as acoustic emission, guided waves, and ultrasonics, and their applications in aerospace, civil, and mechanical systems."
+        },
+        {
+            "course_code": "ME 025",
+            "course_name": "Advanced Topics in Heat Transfer",
+            "credits": 4,
+            "description": "Advanced topics in heat transfer, including conduction, convection, radiation, and mass transfer, and their applications in energy and environmental systems."
+        },
+        {
+            "course_code": "ME 026",
+            "course_name": "Advanced Topics in Mechanics of Materials",
+            "credits": 4,
+            "description": "Advanced topics in mechanics of materials, including stress concentration, fracture mechanics, fatigue, and creep, and their applications in design and failure analysis."
+        }
+    ],
+    "Biology": [
+        {
+            "course_code": "BIOL101",
+            "course_name": "Introduction to Biology",
+            "credits": 4,
+            "description": "An introduction to the study of living organisms, including the basic principles of cell biology, genetics, and evolution"
+        },
+        {
+            "course_code": "BIOL201",
+            "course_name": "Anatomy and Physiology",
+            "credits": 4,
+            "description": "A study of the structure and function of the human body, including the major organ systems and their interactions"
+        },
+        {
+            "course_code": "BIOL301",
+            "course_name": "Ecology",
+            "credits": 4,
+            "description": "An examination of the interactions between organisms and their environment, including the study of ecosystems, biomes, and population dynamics"
+        },
+        {
+            "course_code": "BIOL401",
+            "course_name": "Genetics",
+            "credits": 4,
+            "description": "The study of inheritance and variation in organisms, including the molecular basis of inheritance and genetic engineering"
+        },
+        {
+            "course_code": "BIOL501",
+            "course_name": "Microbiology",
+            "credits": 4,
+            "description": "An introduction to the study of microorganisms, including bacteria, viruses, and fungi, and their roles in health and disease"
+        },
+        {
+            "course_code": "BIOL601",
+            "course_name": "Biochemistry",
+            "credits": 4,
+            "description": "A study of the chemical processes and reactions that occur in living organisms, including the structure and function of proteins, nucleic acids, and carbohydrates"
+        },
+        {
+            "course_code": "BIOL701",
+            "course_name": "Cell Biology",
+            "credits": 4,
+            "description": "An examination of the structure and function of cells, including the molecular mechanisms of cell division, signaling, and differentiation"
+        },
+        {
+            "course_code": "BIOL801",
+            "course_name": "Immunology",
+            "credits": 4,
+            "description": "An introduction to the study of the immune system, including the molecular basis of immunity, immune responses to pathogens, and the role of the immune system in disease"
+        },
+        {
+            "course_code": "BIOL901",
+            "course_name": "Neuroscience",
+            "credits": 4,
+            "description": "An overview of the structure and function of the nervous system, including the study of neural development, sensory systems, and cognitive processes"
+        },
+        {
+            "course_code": "BIOL1001",
+            "course_name": "Evolution",
+            "credits": 4,
+            "description": "An examination of the processes and mechanisms of biological evolution, including the history of life on Earth, patterns of biodiversity, and the origin of species"
+        },
+        {
+            "course_code": "BIOL1101",
+            "course_name": "Marine Biology",
+            "credits": 4,
+            "description": "A study of the diversity and ecology of marine organisms, including the adaptations of marine life to the challenges of living in the ocean"
+        },
+        {
+            "course_code": "BIOL1201",
+            "course_name": "Plant Biology",
+            "credits": 4,
+            "description": "An examination of the structure, function, and evolution of plants, including the study of plant growth and development, reproduction, and response to environmental stresses"
+        }
+    ],
+    "Chemistry": [
+        {
+            "course_code": "CHEM101",
+            "course_name": "General Chemistry I",
+            "credits": 4,
+            "description": "Introduction to the fundamental principles of chemistry including atomic structure, chemical bonding, stoichiometry, thermochemistry, gases, and solutions."
+        },
+        {
+            "course_code": "CHEM102",
+            "course_name": "General Chemistry II",
+            "credits": 4,
+            "description": "Continuation of General Chemistry I with topics including chemical equilibrium, acid-base chemistry, solubility, kinetics, thermodynamics, and electrochemistry."
+        },
+        {
+            "course_code": "CHEM201",
+            "course_name": "Organic Chemistry I",
+            "credits": 4,
+            "description": "Introduction to the structure, properties, and reactions of organic molecules, including nomenclature, stereochemistry, and functional group chemistry."
+        },
+        {
+            "course_code": "CHEM202",
+            "course_name": "Organic Chemistry II",
+            "credits": 4,
+            "description": "Continuation of Organic Chemistry I with topics including reaction mechanisms, synthesis, spectroscopy, and the chemistry of carbonyl compounds, amines, and carboxylic acids."
+        },
+        {
+            "course_code": "CHEM301",
+            "course_name": "Physical Chemistry I",
+            "credits": 4,
+            "description": "Introduction to the principles of thermodynamics, kinetics, and quantum mechanics as applied to chemical systems, with a focus on gas-phase and solution-phase phenomena."
+        },
+        {
+            "course_code": "CHEM302",
+            "course_name": "Physical Chemistry II",
+            "credits": 4,
+            "description": "Continuation of Physical Chemistry I with topics including chemical kinetics, statistical thermodynamics, electrochemistry, and molecular spectroscopy."
+        },
+        {
+            "course_code": "CHEM401",
+            "course_name": "Inorganic Chemistry",
+            "credits": 4,
+            "description": "Survey of the structure, bonding, and reactivity of inorganic compounds, with emphasis on main-group and transition-metal chemistry."
+        },
+        {
+            "course_code": "CHEM402",
+            "course_name": "Biochemistry",
+            "credits": 4,
+            "description": "Introduction to the chemistry of biological molecules including proteins, nucleic acids, carbohydrates, and lipids, with an emphasis on their structures and functions in living systems."
+        },
+        {
+            "course_code": "CHEM403",
+            "course_name": "Analytical Chemistry",
+            "credits": 4,
+            "description": "Introduction to the theory and practice of analytical chemistry, with topics including statistical analysis, gravimetric and volumetric analysis, electrochemistry, chromatography, and spectroscopy."
+        },
+        {
+            "course_code": "CHEM404",
+            "course_name": "Environmental Chemistry",
+            "credits": 4,
+            "description": "Survey of the chemical processes that occur in natural and engineered systems, with an emphasis on the impact of human activities on the environment and the chemistry of pollutants and their remediation."
+        },
+        {
+            "course_code": "CHEM501",
+            "course_name": "Advanced Organic Chemistry",
+            "credits": 4,
+            "description": "Advanced topics in organic chemistry, including reaction mechanisms, stereochemistry, synthesis, and the chemistry of natural products."
+        }
+    ],
+    "Physics": [
+        {
+            "course_code": "PHYS101",
+            "course_name": "Introduction to Mechanics",
+            "credits": 4,
+            "description": "An introduction to the principles of mechanics, including kinematics, dynamics, and statics."
+        },
+        {
+            "course_code": "PHYS102",
+            "course_name": "Introduction to Electromagnetism and Waves",
+            "credits": 4,
+            "description": "An introduction to the principles of electromagnetism, including electrostatics, magnetostatics, and electromagnetic waves."
+        },
+        {
+            "course_code": "PHYS201",
+            "course_name": "Classical Mechanics",
+            "credits": 4,
+            "description": "A study of the principles of classical mechanics, including Newton's laws of motion, the conservation laws, and the kinematics and dynamics of particles and rigid bodies."
+        },
+        {
+            "course_code": "PHYS202",
+            "course_name": "Electricity and Magnetism",
+            "credits": 4,
+            "description": "A study of the principles of electricity and magnetism, including electrostatics, magnetostatics, and electromagnetic waves."
+        },
+        {
+            "course_code": "PHYS301",
+            "course_name": "Thermal Physics",
+            "credits": 4,
+            "description": "A study of the principles of thermodynamics and statistical mechanics, including the laws of thermodynamics, the kinetic theory of gases, and the statistical basis of thermodynamics."
+        },
+        {
+            "course_code": "PHYS302",
+            "course_name": "Modern Physics",
+            "credits": 4,
+            "description": "A study of the principles of modern physics, including special relativity, quantum mechanics, atomic physics, and nuclear physics."
+        },
+        {
+            "course_code": "PHYS401",
+            "course_name": "Quantum Mechanics",
+            "credits": 4,
+            "description": "A study of the principles of quantum mechanics, including the Schrodinger equation, the uncertainty principle, and the quantum theory of the hydrogen atom."
+        },
+        {
+            "course_code": "PHYS402",
+            "course_name": "Electromagnetic Theory",
+            "credits": 4,
+            "description": "A study of the principles of electromagnetic theory, including Maxwell's equations, electromagnetic waves, and the electromagnetic properties of matter."
+        },
+        {
+            "course_code": "PHYS501",
+            "course_name": "Statistical Mechanics",
+            "credits": 4,
+            "description": "A study of the principles of statistical mechanics, including the statistical basis of thermodynamics, the kinetic theory of gases, and the statistical basis of thermodynamics."
+        },
+        {
+            "course_code": "PHYS502",
+            "course_name": "Condensed Matter Physics",
+            "credits": 4,
+            "description": "A study of the principles of condensed matter physics, including the properties of solids, liquids, and amorphous materials."
+        },
+        {
+            "course_code": "PHYS601",
+            "course_name": "Particle Physics",
+            "credits": 4,
+            "description": "A study of the principles of particle physics, including the properties of elementary particles and the forces that govern their interactions."
+        },
+        {
+            "course_code": "PHYS602",
+            "course_name": "Astrophysics",
+            "credits": 4,
+            "description": "A study of the principles of astrophysics, including the properties of stars, galaxies, and the universe as a whole."
+        },
+        {
+            "course_code": "PHYS701",
+            "course_name": "General Relativity",
+            "credits": 4,
+            "description": "A study of the principles of general relativity, including the equivalence principle, the Schwarzschild metric, and the Einstein field equations."
+        },
+        {
+            "course_code": "PHYS702",
+            "course_name": "Cosmology",
+            "credits": 4,
+            "description": "A study of the principles of cosmology, including the Big Bang theory, the expansion of the universe, and the cosmic microwave background."
+        },
+        {
+            "course_code": "PHYS801",
+            "course_name": "Nuclear Physics",
+            "credits": 4,
+            "description": "A study of the principles of nuclear physics, including nuclear structure, nuclear reactions, and the properties of nuclei."
+        }
+    ],
+    "Pyschology": [
+        {
+            "course_code": "PSYCH 101",
+            "course_name": "Introduction to Psychology",
+            "credits": 3,
+            "description": "An introduction to the scientific study of human behavior and mental processes, including the study of perception, learning, memory, cognition, motivation, emotion, personality, social behavior, and psychological disorders."
+        },
+        {
+            "course_code": "PSYCH 210",
+            "course_name": "Developmental Psychology",
+            "credits": 3,
+            "description": "A study of the psychological development of the individual from conception through old age, including the study of physical, cognitive, social, and emotional development."
+        },
+        {
+            "course_code": "PSYCH 220",
+            "course_name": "Social Psychology",
+            "credits": 3,
+            "description": "A study of the influence of social factors on individual behavior, including the study of social perception, social cognition, attitudes, conformity, persuasion, group behavior, aggression, and interpersonal attraction."
+        },
+        {
+            "course_code": "PSYCH 230",
+            "course_name": "Abnormal Psychology",
+            "credits": 3,
+            "description": "A study of the nature and causes of psychological disorders, including the study of anxiety disorders, mood disorders, schizophrenia, personality disorders, and organic mental disorders."
+        },
+        {
+            "course_code": "PSYCH 240",
+            "course_name": "Cognitive Psychology",
+            "credits": 3,
+            "description": "A study of the mental processes involved in perception, learning, memory, and reasoning."
+        },
+        {
+            "course_code": "PSYCH 250",
+            "course_name": "Personality Psychology",
+            "credits": 3,
+            "description": "A study of the nature of personality, including the study of personality traits, personality development, and personality assessment."
+        },
+        {
+            "course_code": "PSYCH 260",
+            "course_name": "Psychology of Learning",
+            "credits": 3,
+            "description": "A study of the principles of learning, including classical conditioning, operant conditioning, and observational learning."
+        },
+        {
+            "course_code": "PSYCH 270",
+            "course_name": "Biological Psychology",
+            "credits": 3,
+            "description": "A study of the biological basis of behavior, including the study of the nervous system, sensation and perception, motivation and emotion, and the effects of drugs on behavior."
+        },
+        {
+            "course_code": "PSYCH 280",
+            "course_name": "Sensation and Perception",
+            "credits": 3,
+            "description": "A study of the sensory and perceptual processes, including the study of vision, hearing, taste, smell, and touch."
+        },
+        {
+            "course_code": "PSYCH 310",
+            "course_name": "Research Methods in Psychology",
+            "credits": 3,
+            "description": "A study of the methods used in psychological research, including the study of experimental design, data analysis, and the interpretation of research results."
+        },
+        {
+            "course_code": "PSYCH 330",
+            "course_name": "Cross-Cultural Psychology",
+            "credits": 3,
+            "description": "A study of the influence of culture on human behavior, including the study of cultural norms, cultural values, and cultural beliefs."
+        },
+        {
+            "course_code": "PSYCH 340",
+            "course_name": "Psychology and the Law",
+            "credits": 3,
+            "description": "A study of the application of psychological principles to the legal system, including the study of eyewitness testimony, jury decision making, and the insanity defense."
+        },
+        {
+            "course_code": "PSYCH 350",
+            "course_name": "Human Neuropsychology",
+            "credits": 3,
+            "description": "A study of the relationship between brain function and behavior, including the study of the effects of brain damage on behavior."
+        },
+        {
+            "course_code": "PSYCH 360",
+            "course_name": "Psychology of Emotion",
+            "credits": 3,
+            "description": "A study of the nature of emotion, including the study of the physiological, cognitive, and behavioral aspects of emotion."
+        }
+    ],
+    "Mathematics": [
+        {
+            "course_code": "MATH101",
+            "course_name": "Calculus I",
+            "credits": 4,
+            "description": "A study of the principles of calculus, including the study of limits, derivatives, and integrals."
+        },
+        {
+            "course_code": "MATH102",
+            "course_name": "Calculus II",
+            "credits": 4,
+            "description": "A study of the principles of calculus, including the study of limits, derivatives, and integrals."
+        },
+        {
+            "course_code": "MATH201",
+            "course_name": "Multivariable Calculus",
+            "credits": 4,
+            "description": "A study of the principles of calculus, including the study of limits, derivatives, and integrals."
+        },
+        {
+            "course_code": "MATH202",
+            "course_name": "Differential Equations",
+            "credits": 4,
+            "description": "A study of the principles of calculus, including the study of limits, derivatives, and integrals."
+        },
+        {
+            "course_code": "MATH301",
+            "course_name": "Abstract Algebra",
+            "credits": 3,
+            "description": "A study of the principles of abstract algebra, including the study of groups, rings, and fields."
+        },
+        {
+            "course_code": "MATH302",
+            "course_name": "Real Analysis I",
+            "credits": 3,
+            "description": "A study of the principles of real analysis, including the study of limits, continuity, and differentiability."
+        },
+        {
+            "course_code": "MATH303",
+            "course_name": "Real Analysis II",
+            "credits": 3,
+            "description": "A study of the principles of real analysis, including the study of limits, continuity, and differentiability."
+        },
+        {
+            "course_code": "MATH401",
+            "course_name": "Complex Analysis",
+            "credits": 3,
+            "description": "A study of the principles of complex analysis, including the study of complex numbers, complex functions, and complex integration."
+        },
+        {
+            "course_code": "MATH402",
+            "course_name": "Topology",
+            "credits": 3,
+            "description": "A study of the principles of topology, including the study of topological spaces, topological properties, and topological structures."
+        },
+        {
+            "course_code": "MATH403",
+            "course_name": "Number Theory",
+            "credits": 3,
+            "description": "A study of the principles of number theory, including the study of prime numbers, congruences, and quadratic reciprocity."
+        },
+        {
+            "course_code": "MATH501",
+            "course_name": "Probability Theory",
+            "credits": 3,
+            "description": "A study of the principles of probability theory, including the study of random variables, probability distributions, and statistical inference."
+        },
+        {
+            "course_code": "MATH502",
+            "course_name": "Mathematical Statistics",
+            "credits": 3,
+            "description": "A study of the principles of mathematical statistics, including the study of statistical inference, hypothesis testing, and regression analysis."
+        },
+        {
+            "course_code": "MATH503",
+            "course_name": "Stochastic Processes",
+            "credits": 3,
+            "description": "A study of the principles of stochastic processes, including the study of Markov chains, Poisson processes, and Brownian motion."
+        },
+        {
+            "course_code": "MATH601",
+            "course_name": "Partial Differential Equations",
+            "credits": 3,
+            "description": "A study of the principles of partial differential equations, including the study of boundary value problems, Fourier series, and Laplace transforms."
+        },
+        {
+            "course_code": "MATH602",
+            "course_name": "Numerical Analysis",
+            "credits": 3,
+            "description": "A study of the principles of numerical analysis, including the study of numerical methods, numerical approximation, and numerical algorithms."
+        },
+        {
+            "course_code": "MATH603",
+            "course_name": "Mathematical Modeling",
+            "credits": 3,
+            "description": "A study of the principles of mathematical modeling, including the study of mathematical models, mathematical optimization, and mathematical simulation."
+        },
+        {
+            "course_code": "MATH701",
+            "course_name": "Algebraic Geometry",
+            "credits": 3,
+            "description": "A study of the principles of algebraic geometry, including the study of algebraic varieties, algebraic curves, and algebraic surfaces."
+        },
+        {
+            "course_code": "MATH702",
+            "course_name": "Differential Geometry",
+            "credits": 3,
+            "description": "A study of the principles of differential geometry, including the study of manifolds, Riemannian geometry, and symplectic geometry."
+        },
+        {
+            "course_code": "MATH703",
+            "course_name": "Lie Groups and Lie Algebras",
+            "credits": 3,
+            "description": "A study of the principles of Lie groups and Lie algebras, including the study of Lie groups, Lie algebras, and Lie group representations."
+        },
+        {
+            "course_code": "MATH801",
+            "course_name": "Combinatorics",
+            "credits": 3,
+            "description": "A study of the principles of combinatorics, including the study of enumeration, graph theory, and combinatorial optimization."
+        }
+    ],
+    "Statistics": [
+        {
+            "course_code": "STAT 101",
+            "course_name": "Introduction to Statistics",
+            "credits": 3,
+            "description": "A study of the principles of statistics, including the study of descriptive statistics, probability, and statistical inference."
+        },
+        {
+            "course_code": "STAT 200",
+            "course_name": "Intermediate Statistics",
+            "credits": 3,
+            "description": "A study of the principles of statistics, including the study of descriptive statistics, probability, and statistical inference."
+        },
+        {
+            "course_code": "STAT 300",
+            "course_name": "Advanced Statistics",
+            "credits": 3,
+            "description": "A study of the principles of statistics, including the study of descriptive statistics, probability, and statistical inference."
+        },
+        {
+            "course_code": "STAT 401",
+            "course_name": "Regression Analysis",
+            "credits": 3,
+            "description": "A study of the principles of regression analysis, including the study of linear regression, multiple regression, and logistic regression."
+        },
+        {
+            "course_code": "STAT 405",
+            "course_name": "Statistical Inference",
+            "credits": 3,
+            "description": "A study of the principles of statistical inference, including the study of hypothesis testing, confidence intervals, and analysis of variance."
+        },
+        {
+            "course_code": "STAT 410",
+            "course_name": "Applied Time Series Analysis",
+            "credits": 3,
+            "description": "A study of the principles of time series analysis, including the study of time series models, time series forecasting, and time series regression."
+        },
+        {
+            "course_code": "STAT 415",
+            "course_name": "Probability Theory",
+            "credits": 3,
+            "description": "A study of the principles of probability theory, including the study of random variables, probability distributions, and statistical inference."
+        },
+        {
+            "course_code": "STAT 420",
+            "course_name": "Applied Multivariate Analysis",
+            "credits": 3,
+            "description": "A study of the principles of multivariate analysis, including the study of multivariate regression, multivariate analysis of variance, and principal components analysis."
+        },
+        {
+            "course_code": "STAT 425",
+            "course_name": "Bayesian Statistics",
+            "credits": 3,
+            "description": "A study of the principles of Bayesian statistics, including the study of Bayesian inference, Bayesian decision theory, and Bayesian regression."
+        },
+        {
+            "course_code": "STAT 430",
+            "course_name": "Nonparametric Statistics",
+            "credits": 3,
+            "description": "A study of the principles of nonparametric statistics, including the study of nonparametric inference, nonparametric regression, and nonparametric analysis of variance."
+        },
+        {
+            "course_code": "STAT 435",
+            "course_name": "Experimental Design",
+            "credits": 3,
+            "description": "A study of the principles of experimental design, including the study of factorial design, fractional factorial design, and response surface design."
+        },
+        {
+            "course_code": "STAT 440",
+            "course_name": "Statistical Learning",
+            "credits": 3,
+            "description": "A study of the principles of statistical learning, including the study of supervised learning, unsupervised learning, and reinforcement learning."
+        },
+        {
+            "course_code": "STAT 450",
+            "course_name": "Sampling Theory",
+            "credits": 3,
+            "description": "A study of the principles of sampling theory, including the study of simple random sampling, stratified random sampling, and cluster sampling."
+        },
+        {
+            "course_code": "STAT 455",
+            "course_name": "Applied Categorical Data Analysis",
+            "credits": 3,
+            "description": "A study of the principles of categorical data analysis, including the study of contingency tables, logistic regression, and loglinear models."
+        },
+        {
+            "course_code": "STAT 460",
+            "course_name": "Survival Analysis",
+            "credits": 3,
+            "description": "A study of the principles of survival analysis, including the study of survival models, survival regression, and survival trees."
+        },
+        {
+            "course_code": "STAT 465",
+            "course_name": "Time Series Analysis",
+            "credits": 3,
+            "description": "A study of the principles of time series analysis, including the study of time series models, time series forecasting, and time series regression."
+        },
+        {
+            "course_code": "STAT 470",
+            "course_name": "Statistical Computing",
+            "credits": 3,
+            "description": "A study of the principles of statistical computing, including the study of numerical analysis, optimization, and simulation."
+        },
+        {
+            "course_code": "STAT 475",
+            "course_name": "Sampling and Survey Design",
+            "credits": 3,
+            "description": "A study of the principles of sampling and survey design, including the study of simple random sampling, stratified random sampling, and cluster sampling."
+        },
+        {
+            "course_code": "STAT 480",
+            "course_name": "Data Mining",
+            "credits": 3,
+            "description": "A study of the principles of data mining, including the study of data preprocessing, data mining algorithms, and data mining applications."
+        },
+        {
+            "course_code": "STAT 485",
+            "course_name": "Big Data Analytics",
+            "credits": 3,
+            "description": "A study of the principles of big data analytics, including the study of data preprocessing, data mining algorithms, and data mining applications."
+        },
+        {
+            "course_code": "STAT 490",
+            "course_name": "Special Topics in Statistics",
+            "credits": 3,
+            "description": "A study of selected topics in statistics, including the study of advanced topics in statistics."
+        },
+        {
+            "course_code": "STAT 495",
+            "course_name": "Capstone Project in Statistics",
+            "credits": 3,
+            "description": "A study of the principles of statistics, including the study of statistical inference, statistical modeling, and statistical computing."
+        },
+        {
+            "course_code": "STAT 499",
+            "course_name": "Independent Study in Statistics",
+            "credits": 3,
+            "description": "A study of selected topics in statistics, including the study of advanced topics in statistics."
+        }
+    ],
+    "Economics": [
+        {
+            "course_code": "ECON101",
+            "course_name": "Principles of Microeconomics",
+            "credits": 3,
+            "description": "An introduction to the basic principles of microeconomics, including supply and demand, market equilibrium, consumer and producer theory, and market structures."
+        },
+        {
+            "course_code": "ECON102",
+            "course_name": "Principles of Macroeconomics",
+            "credits": 3,
+            "description": "An introduction to the basic principles of macroeconomics, including national income accounting, inflation, unemployment, economic growth, money and banking, and monetary and fiscal policies."
+        },
+        {
+            "course_code": "ECON201",
+            "course_name": "Intermediate Microeconomics",
+            "credits": 3,
+            "description": "A deeper analysis of consumer and producer behavior, market equilibrium, and welfare economics. Also includes game theory, externalities, public goods, and market failure."
+        },
+        {
+            "course_code": "ECON202",
+            "course_name": "Intermediate Macroeconomics",
+            "credits": 3,
+            "description": "A deeper analysis of economic growth, business cycles, money and banking, and macroeconomic policy. Also covers international macroeconomics and open economy macroeconomics."
+        },
+        {
+            "course_code": "ECON301",
+            "course_name": "Econometrics",
+            "credits": 3,
+            "description": "An introduction to statistical methods used in economic analysis, including regression analysis, hypothesis testing, and model selection. Also covers time series analysis and panel data analysis."
+        },
+        {
+            "course_code": "ECON302",
+            "course_name": "Applied Econometrics",
+            "credits": 3,
+            "description": "A practical application of econometric methods to economic data. Topics include program evaluation, causal inference, and forecasting."
+        },
+        {
+            "course_code": "ECON401",
+            "course_name": "Labor Economics",
+            "credits": 3,
+            "description": "An analysis of labor markets and labor market outcomes, including wage determination, human capital investment, discrimination, and labor market institutions."
+        },
+        {
+            "course_code": "ECON402",
+            "course_name": "Public Economics",
+            "credits": 3,
+            "description": "An analysis of government policies and their effects on economic outcomes, including taxation, public goods, externalities, and social insurance programs."
+        },
+        {
+            "course_code": "ECON403",
+            "course_name": "International Trade",
+            "credits": 3,
+            "description": "An analysis of international trade patterns, the gains from trade, and the effects of trade policies such as tariffs and quotas. Also covers the role of multinational corporations and trade agreements."
+        },
+        {
+            "course_code": "ECON404",
+            "course_name": "International Finance",
+            "credits": 3,
+            "description": "An analysis of international financial markets and the determinants of exchange rates. Also covers the balance of payments, international capital flows, and the effects of macroeconomic policies on the international economy."
+        },
+        {
+            "course_code": "ECON405",
+            "course_name": "Development Economics",
+            "credits": 3,
+            "description": "An analysis of economic development and growth in low-income countries, including poverty, inequality, education, health, and institutions. Also covers the role of international aid and development policies."
+        }
+    ],
+    "Finance": [
+        {
+            "course_code": "FIN 301",
+            "course_name": "Financial Management",
+            "credits": 3,
+            "description": "Introduction to financial management, financial statement analysis, time value of money, risk and return, capital budgeting, cost of capital, and capital structure."
+        },
+        {
+            "course_code": "FIN 302",
+            "course_name": "Investment Analysis",
+            "credits": 3,
+            "description": "Analysis of investment alternatives, portfolio theory and management, security valuation, and capital market theory."
+        },
+        {
+            "course_code": "FIN 303",
+            "course_name": "Derivatives",
+            "credits": 3,
+            "description": "Introduction to financial derivatives, including options, futures, and swaps. Analysis of risk management, hedging, and arbitrage strategies using derivatives."
+        },
+        {
+            "course_code": "FIN 304",
+            "course_name": "International Finance",
+            "credits": 3,
+            "description": "Overview of international financial markets, including foreign exchange markets, international money and capital markets, and international financial institutions. Analysis of international investment and financing decisions, international risk management, and international financial regulations."
+        },
+        {
+            "course_code": "FIN 305",
+            "course_name": "Financial Institutions and Markets",
+            "credits": 3,
+            "description": "Overview of financial institutions and markets, including commercial banks, investment banks, mutual funds, insurance companies, and pension funds. Analysis of financial intermediation, market efficiency, and the role of financial institutions in the economy."
+        },
+        {
+            "course_code": "FIN 306",
+            "course_name": "Behavioral Finance",
+            "credits": 3,
+            "description": "Introduction to behavioral finance, including cognitive and emotional biases, decision-making heuristics, and prospect theory. Analysis of the implications of behavioral finance for investment decisions, financial markets, and corporate finance."
+        }
+    ],
+    "Marketing": [
+        {
+            "course_code": "MKTG101",
+            "course_name": "Principles of Marketing",
+            "credits": 3,
+            "description": "An introduction to the basic principles of marketing, including product, price, promotion, and distribution. Also covers marketing research, consumer behavior, and marketing strategy."
+        },
+        {
+            "course_code": "MKTG201",
+            "course_name": "Consumer Behavior",
+            "credits": 3,
+            "description": "An analysis of consumer behavior, including consumer decision-making, consumer attitudes, and consumer research. Also covers the role of culture, social class, and reference groups in consumer behavior."
+        },
+        {
+            "course_code": "MKTG301",
+            "course_name": "Marketing Research",
+            "credits": 3,
+            "description": "An introduction to marketing research, including research design, data collection, and data analysis. Also covers the use of marketing research in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG401",
+            "course_name": "Digital Marketing",
+            "credits": 3,
+            "description": "An introduction to digital marketing, including social media marketing, search engine optimization, and online advertising. Also covers the use of digital marketing in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG501",
+            "course_name": "Marketing Analytics",
+            "credits": 3,
+            "description": "An introduction to marketing analytics, including data analysis, data visualization, and data-driven decision-making. Also covers the use of marketing analytics in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG601",
+            "course_name": "Product Management",
+            "credits": 3,
+            "description": "An introduction to product management, including product development, product launch, and product life cycle management. Also covers the use of product management in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG701",
+            "course_name": "Integrated Marketing Communications",
+            "credits": 3,
+            "description": "An introduction to integrated marketing communications, including advertising, public relations, and sales promotion. Also covers the use of integrated marketing communications in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG801",
+            "course_name": "Brand Management",
+            "credits": 3,
+            "description": "An introduction to brand management, including brand positioning, brand equity, and brand extension. Also covers the use of brand management in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG901",
+            "course_name": "Retailing",
+            "credits": 3,
+            "description": "An introduction to retailing, including retail strategy, retail location, and retail management. Also covers the use of retailing in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG1001",
+            "course_name": "Global Marketing",
+            "credits": 3,
+            "description": "An introduction to global marketing, including international marketing, multinational marketing, and global marketing strategy. Also covers the use of global marketing in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG1101",
+            "course_name": "Marketing Strategy",
+            "credits": 3,
+            "description": "An introduction to marketing strategy, including marketing planning, marketing implementation, and marketing control. Also covers the use of marketing strategy in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG1201",
+            "course_name": "Service Marketing",
+            "credits": 3,
+            "description": "An introduction to service marketing, including service quality, service design, and service delivery. Also covers the use of service marketing in marketing strategy and decision-making."
+        },
+        {
+            "course_code": "MKTG1301",
+            "course_name": "Social Media Marketing",
+            "credits": 3,
+            "description": "An introduction to social media marketing, including social media strategy, social media analytics, and social media advertising. Also covers the use of social media marketing in marketing strategy and decision-making."
+        }
+    ],
+    "Management": [
+        {
+            "course_code": "MGMT 101",
+            "course_name": "Introduction to Management",
+            "credits": 3,
+            "description": "Introduction to the principles and practices of management, including planning, organizing, leading, and controlling."
+        },
+        {
+            "course_code": "MGMT 201",
+            "course_name": "Organizational Behavior",
+            "credits": 3,
+            "description": "Analysis of individual and group behavior within organizations, including motivation, communication, leadership, and group dynamics."
+        },
+        {
+            "course_code": "MGMT 301",
+            "course_name": "Operations Management",
+            "credits": 3,
+            "description": "Introduction to the design, operation, and improvement of production systems, including supply chain management, quality control, and inventory management."
+        },
+        {
+            "course_code": "MGMT 401",
+            "course_name": "Strategic Management",
+            "credits": 3,
+            "description": "Introduction to the strategic planning process, including analysis of the internal and external environment, formulation of strategies, and implementation of plans."
+        },
+        {
+            "course_code": "MGMT 501",
+            "course_name": "Human Resource Management",
+            "credits": 3,
+            "description": "Introduction to the management of human resources, including recruitment, selection, training, performance appraisal, and compensation."
+        },
+        {
+            "course_code": "MGMT 601",
+            "course_name": "International Management",
+            "credits": 3,
+            "description": "Introduction to the management of international businesses, including the cultural, legal, and economic issues involved in global operations."
+        },
+        {
+            "course_code": "MGMT 701",
+            "course_name": "Entrepreneurship",
+            "credits": 3,
+            "description": "Introduction to the process of starting and managing a new business, including identifying opportunities, developing a business plan, and raising capital."
+        },
+        {
+            "course_code": "MGMT 801",
+            "course_name": "Leadership",
+            "credits": 3,
+            "description": "Introduction to the theories and practices of leadership, including situational leadership, transformational leadership, and ethical leadership."
+        },
+        {
+            "course_code": "MGMT 901",
+            "course_name": "Management Information Systems",
+            "credits": 3,
+            "description": "Introduction to the use of information technology in managing organizations, including database management, decision support systems, and e-commerce."
+        }
+    ],
+    "Political Science": [
+        {
+            "course_code": "POLI-101",
+            "course_name": "Introduction to Political Science",
+            "credits": 3,
+            "description": "An introduction to the study of politics, including political theory, comparative politics, and international relations."
+        },
+        {
+            "course_code": "POLI-201",
+            "course_name": "Comparative Politics",
+            "credits": 3,
+            "description": "An introduction to comparative politics, including political systems, political culture, and political economy."
+        },
+        {
+            "course_code": "POLI-301",
+            "course_name": "International Relations",
+            "credits": 3,
+            "description": "An introduction to international relations, including international security, international political economy, and international organizations."
+        },
+        {
+            "course_code": "POLI-401",
+            "course_name": "Political Theory",
+            "credits": 3,
+            "description": "An introduction to political theory, including liberalism, conservatism, and socialism."
+        },
+        {
+            "course_code": "POLI-501",
+            "course_name": "American Government and Politics",
+            "credits": 3,
+            "description": "An introduction to American government and politics, including the Constitution, Congress, and the Presidency."
+        },
+        {
+            "course_code": "POLI-601",
+            "course_name": "Public Policy",
+            "credits": 3,
+            "description": "An introduction to public policy, including policy analysis, policy implementation, and policy evaluation."
+        },
+        {
+            "course_code": "POLI-701",
+            "course_name": "Political Communication",
+            "credits": 3,
+            "description": "An introduction to political communication, including political advertising, political campaigns, and political journalism."
+        },
+        {
+            "course_code": "POLI-801",
+            "course_name": "Elections and Voting Behavior",
+            "credits": 3,
+            "description": "An introduction to elections and voting behavior, including voting behavior, electoral systems, and electoral reform."
+        },
+        {
+            "course_code": "POLI-901",
+            "course_name": "Political Psychology",
+            "credits": 3,
+            "description": "An introduction to political psychology, including political socialization, political attitudes, and political participation."
+        },
+        {
+            "course_code": "POLI-1001",
+            "course_name": "Environmental Politics",
+            "credits": 3,
+            "description": "An introduction to environmental politics, including environmental policy, environmental law, and environmental ethics."
+        },
+        {
+            "course_code": "POLI-1101",
+            "course_name": "Middle Eastern Politics",
+            "credits": 3,
+            "description": "An introduction to Middle Eastern politics, including the Arab-Israeli conflict, the Iranian Revolution, and the Arab Spring."
+        },
+        {
+            "course_code": "POLI-1201",
+            "course_name": "Latin American Politics",
+            "credits": 3,
+            "description": "An introduction to Latin American politics, including the Cuban Revolution, the Mexican drug war, and the Venezuelan crisis."
+        }
+    ],
+    "History": [
+        {
+            "course_code": "HIST101",
+            "course_name": "Introduction to World History",
+            "credits": 3,
+            "description": "An introduction to world history from ancient civilizations to the modern era, emphasizing the interactions between different regions and cultures."
+        },
+        {
+            "course_code": "HIST201",
+            "course_name": "United States History to 1877",
+            "credits": 3,
+            "description": "A survey of United States history from pre-contact through the Civil War era, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST202",
+            "course_name": "United States History since 1877",
+            "credits": 3,
+            "description": "A survey of United States history from the end of the Civil War era to the present, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST301",
+            "course_name": "Ancient Mediterranean World",
+            "credits": 3,
+            "description": "A study of the ancient civilizations of the Mediterranean world, including the Greeks, Romans, and their contemporaries, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST302",
+            "course_name": "Medieval Europe",
+            "credits": 3,
+            "description": "A study of European history from the fall of Rome to the Renaissance, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST401",
+            "course_name": "Modern Europe",
+            "credits": 3,
+            "description": "A study of European history from the Renaissance to the present, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST402",
+            "course_name": "History of Science and Technology",
+            "credits": 3,
+            "description": "An examination of the history of science and technology from ancient times to the present, with an emphasis on the interaction between science, technology, and society."
+        },
+        {
+            "course_code": "HIST501",
+            "course_name": "East Asian History",
+            "credits": 3,
+            "description": "A survey of the history of East Asia, including China, Japan, and Korea, from ancient times to the present, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST502",
+            "course_name": "Latin American History",
+            "credits": 3,
+            "description": "A survey of the history of Latin America from pre-contact to the present, with an emphasis on political, social, economic, and cultural developments."
+        },
+        {
+            "course_code": "HIST601",
+            "course_name": "African History",
+            "credits": 3,
+            "description": "A survey of the history of Africa from ancient times to the present, with an emphasis on political, social, economic, and cultural developments."
+        }
+    ],
+    "English": [
+        {
+            "course_code": "ENG101",
+            "course_name": "Introduction to Literature",
+            "credits": 3,
+            "description": "This course is an introduction to literature, including poetry, drama, and fiction, with an emphasis on critical reading and analysis."
+        },
+        {
+            "course_code": "ENG102",
+            "course_name": "Composition and Rhetoric",
+            "credits": 3,
+            "description": "This course focuses on the development of effective writing skills through the study of rhetorical principles, including analysis of audience, purpose, and context."
+        },
+        {
+            "course_code": "ENG201",
+            "course_name": "British Literature I",
+            "credits": 3,
+            "description": "This course is a survey of British literature from the Middle Ages to the 18th century, including works by Chaucer, Shakespeare, and Milton."
+        },
+        {
+            "course_code": "ENG202",
+            "course_name": "British Literature II",
+            "credits": 3,
+            "description": "This course is a survey of British literature from the Romantic period to the present day, including works by Wordsworth, Keats, Woolf, and others."
+        },
+        {
+            "course_code": "ENG301",
+            "course_name": "American Literature I",
+            "credits": 3,
+            "description": "This course is a survey of American literature from the colonial period to the Civil War, including works by Poe, Hawthorne, and Whitman."
+        },
+        {
+            "course_code": "ENG302",
+            "course_name": "American Literature II",
+            "credits": 3,
+            "description": "This course is a survey of American literature from the late 19th century to the present day, including works by Twain, Fitzgerald, Morrison, and others."
+        },
+        {
+            "course_code": "ENG401",
+            "course_name": "Shakespeare",
+            "credits": 3,
+            "description": "This course is an in-depth study of the plays of William Shakespeare, with an emphasis on critical analysis and interpretation."
+        },
+        {
+            "course_code": "ENG402",
+            "course_name": "Creative Writing",
+            "credits": 3,
+            "description": "This course is an introduction to the craft of creative writing, including poetry, fiction, and non-fiction, with an emphasis on workshop-style critique and revision."
+        },
+        {
+            "course_code": "ENG501",
+            "course_name": "Literary Theory and Criticism",
+            "credits": 3,
+            "description": "This course explores the major theories and methods of literary criticism, including formalism, structuralism, post-structuralism, and feminism."
+        },
+        {
+            "course_code": "ENG502",
+            "course_name": "Contemporary Literature",
+            "credits": 3,
+            "description": "This course is a study of contemporary literature, including works by authors from diverse backgrounds and perspectives."
+        },
+        {
+            "course_code": "ENG601",
+            "course_name": "World Literature I",
+            "credits": 3,
+            "description": "This course is a survey of literature from around the world, including works by authors from Asia, Africa, and Europe."
+        },
+        {
+            "course_code": "ENG602",
+            "course_name": "World Literature II",
+            "credits": 3,
+            "description": "This course is a survey of literature from around the world, including works by authors from Latin America, the Middle East, and beyond."
+        }
+    ],
+    "Philosophy": [
+        {
+            "course_code": "PHIL101",
+            "course_name": "Introduction to Philosophy",
+            "credits": 3,
+            "description": "An introduction to the methods, issues, and concepts of philosophy, including metaphysics, epistemology, ethics, and logic."
+        },
+        {
+            "course_code": "PHIL201",
+            "course_name": "Ancient Philosophy",
+            "credits": 3,
+            "description": "An examination of ancient Greek and Roman philosophical traditions, including the works of Plato, Aristotle, and the Stoics."
+        },
+        {
+            "course_code": "PHIL202",
+            "course_name": "Medieval Philosophy",
+            "credits": 3,
+            "description": "An exploration of the major philosophical traditions of the Middle Ages, including Scholasticism and the works of Thomas Aquinas."
+        },
+        {
+            "course_code": "PHIL301",
+            "course_name": "Modern Philosophy",
+            "credits": 3,
+            "description": "A study of the major philosophical movements of the modern era, including empiricism, rationalism, and existentialism."
+        },
+        {
+            "course_code": "PHIL302",
+            "course_name": "Contemporary Philosophy",
+            "credits": 3,
+            "description": "An examination of recent developments in philosophy, including postmodernism, feminism, and multiculturalism."
+        },
+        {
+            "course_code": "PHIL401",
+            "course_name": "Ethics",
+            "credits": 3,
+            "description": "An investigation of ethical theories and principles, including virtue ethics, consequentialism, and deontology."
+        },
+        {
+            "course_code": "PHIL402",
+            "course_name": "Philosophy of Science",
+            "credits": 3,
+            "description": "An analysis of the philosophical foundations of scientific knowledge and inquiry, including the nature of scientific explanation and the role of scientific theories."
+        },
+        {
+            "course_code": "PHIL501",
+            "course_name": "Epistemology",
+            "credits": 3,
+            "description": "A study of the nature, sources, and limits of knowledge, including skepticism, empiricism, and rationalism."
+        },
+        {
+            "course_code": "PHIL502",
+            "course_name": "Philosophy of Religion",
+            "credits": 3,
+            "description": "An examination of the philosophical issues surrounding religion, including the existence of God, the nature of religious experience, and the problem of evil."
+        },
+        {
+            "course_code": "PHIL601",
+            "course_name": "Political Philosophy",
+            "credits": 3,
+            "description": "An analysis of the philosophical foundations of political thought and practice, including social contract theory, democracy, and justice."
+        },
+        {
+            "course_code": "PHIL602",
+            "course_name": "Philosophy of Mind",
+            "credits": 3,
+            "description": "A study of the nature of consciousness, mental processes, and the relationship between the mind and the body."
+        }
+    ],
+    "Sociology": [
+        {
+            "course_code": "SOC101",
+            "course_name": "Introduction to Sociology",
+            "credits": 3,
+            "description": "This course provides an introduction to the basic concepts and principles of sociology, including culture, socialization, social structure, inequality, and social change."
+        },
+        {
+            "course_code": "SOC201",
+            "course_name": "Social Theory",
+            "credits": 3,
+            "description": "This course provides an overview of the major theoretical approaches in sociology, including functionalism, conflict theory, symbolic interactionism, and feminism."
+        },
+        {
+            "course_code": "SOC301",
+            "course_name": "Research Methods in Sociology",
+            "credits": 3,
+            "description": "This course covers the methods and techniques used in sociological research, including surveys, interviews, participant observation, and content analysis."
+        },
+        {
+            "course_code": "SOC401",
+            "course_name": "Social Inequality",
+            "credits": 3,
+            "description": "This course examines the causes and consequences of social inequality, including stratification by race, gender, class, and other dimensions of difference."
+        },
+        {
+            "course_code": "SOC501",
+            "course_name": "Globalization and Society",
+            "credits": 3,
+            "description": "This course examines the social and cultural dimensions of globalization, including the impact of global economic, political, and cultural forces on local communities and identities."
+        },
+        {
+            "course_code": "SOC601",
+            "course_name": "Gender and Society",
+            "credits": 3,
+            "description": "This course examines the social construction of gender and the ways in which gender influences social interaction, inequality, and identity."
+        },
+        {
+            "course_code": "SOC701",
+            "course_name": "Race and Ethnic Relations",
+            "credits": 3,
+            "description": "This course examines the social and historical roots of race and ethnic relations, including the causes and consequences of prejudice, discrimination, and inequality."
+        },
+        {
+            "course_code": "SOC801",
+            "course_name": "Environmental Sociology",
+            "credits": 3,
+            "description": "This course examines the social and cultural dimensions of environmental problems, including the impact of human activity on natural systems and the ways in which environmental issues are shaped by social and political forces."
+        },
+        {
+            "course_code": "SOC901",
+            "course_name": "Social Movements",
+            "credits": 3,
+            "description": "This course examines the dynamics of social movements, including the strategies and tactics used by activists to effect social and political change."
+        },
+        {
+            "course_code": "SOC1001",
+            "course_name": "Medical Sociology",
+            "credits": 3,
+            "description": "This course examines the social and cultural dimensions of health and illness, including the social construction of disease, the organization of health care systems, and the social determinants of health."
+        }
+    ],
+    "Art History": [
+        {
+            "course_code": "ARH101",
+            "course_name": "Introduction to Art History",
+            "credits": 3,
+            "description": "This course provides a survey of the major art movements from prehistory to contemporary times. Students will learn about the formal and contextual elements of art and their relevance in different cultural contexts."
+        },
+        {
+            "course_code": "ARH201",
+            "course_name": "Ancient Art",
+            "credits": 3,
+            "description": "This course explores the art and architecture of ancient civilizations, including Mesopotamia, Egypt, Greece, and Rome. Students will learn about the symbolism and function of art in these societies."
+        },
+        {
+            "course_code": "ARH301",
+            "course_name": "Medieval Art",
+            "credits": 3,
+            "description": "This course examines the art and architecture of the Middle Ages, including the Romanesque and Gothic periods. Students will learn about the role of religion in shaping art during this time."
+        },
+        {
+            "course_code": "ARH401",
+            "course_name": "Renaissance Art",
+            "credits": 3,
+            "description": "This course studies the art and architecture of the Renaissance in Italy and Northern Europe. Students will learn about the humanist ideals and the revival of classical antiquity that characterized this period."
+        },
+        {
+            "course_code": "ARH501",
+            "course_name": "Baroque Art",
+            "credits": 3,
+            "description": "This course explores the art and architecture of the Baroque period in Europe and the Americas. Students will learn about the dramatic style, grandeur, and theatricality that defined this era."
+        },
+        {
+            "course_code": "ARH601",
+            "course_name": "Modern Art",
+            "credits": 3,
+            "description": "This course examines the art movements of the late 19th and 20th centuries, including Impressionism, Expressionism, Cubism, Surrealism, and Abstract Expressionism. Students will learn about the social, political, and cultural contexts of modern art."
+        },
+        {
+            "course_code": "ARH701",
+            "course_name": "Contemporary Art",
+            "credits": 3,
+            "description": "This course studies the art movements of the post-World War II period to the present, including Pop Art, Minimalism, Conceptual Art, and Installation Art. Students will learn about the relationship between contemporary art and society."
+        },
+        {
+            "course_code": "ARH801",
+            "course_name": "Art Criticism and Theory",
+            "credits": 3,
+            "description": "This course provides an overview of the major approaches to art criticism and theory, including formalism, Marxism, feminism, postmodernism, and psychoanalysis. Students will learn about the critical frameworks that shape the interpretation and analysis of art."
+        },
+        {
+            "course_code": "ARH901",
+            "course_name": "Art Conservation and Restoration",
+            "credits": 3,
+            "description": "This course introduces students to the principles and practices of art conservation and restoration. Students will learn about the methods used to preserve, repair, and restore art objects, as well as the ethical considerations involved in these processes."
+        }
+    ],
+    "Drama": [
+        {
+            "course_code": "DRAMA101",
+            "course_name": "Introduction to Acting",
+            "credits": 3,
+            "description": "This course is an introduction to the fundamentals of acting, including vocal and physical techniques, script analysis, and character development. Students will explore various methods and techniques used in contemporary theater, television, and film."
+        },
+        {
+            "course_code": "DRAMA201",
+            "course_name": "Theater History",
+            "credits": 3,
+            "description": "This course provides an overview of the history of theater from ancient Greece to the present day. Students will study the evolution of theater as an art form, focusing on major movements, playwrights, and theatrical styles."
+        },
+        {
+            "course_code": "DRAMA301",
+            "course_name": "Stage Design",
+            "credits": 3,
+            "description": "This course introduces students to the principles and techniques of stage design, including set design, lighting, and sound. Students will explore the creative process of designing for live performance and gain hands-on experience with various design tools and software."
+        },
+        {
+            "course_code": "DRAMA401",
+            "course_name": "Shakespearean Performance",
+            "credits": 3,
+            "description": "This course focuses on the performance of Shakespearean plays, with an emphasis on language, text, and interpretation. Students will work on scenes and monologues from a variety of Shakespearean plays and gain an understanding of the historical and cultural context in which these works were written."
+        },
+        {
+            "course_code": "DRAMA501",
+            "course_name": "Directing for the Stage",
+            "credits": 3,
+            "description": "This course is an introduction to the art of directing for the theater, including script analysis, casting, rehearsal techniques, and blocking. Students will explore the role of the director in shaping a production and develop their own directorial skills through practical exercises and projects."
+        },
+        {
+            "course_code": "DRAMA601",
+            "course_name": "Contemporary Theater",
+            "credits": 3,
+            "description": "This course examines the major trends and movements in contemporary theater, including avant-garde, experimental, and political theater. Students will explore the works of contemporary playwrights and gain an understanding of the current state of theater as an art form."
+        },
+        {
+            "course_code": "DRAMA701",
+            "course_name": "The Business of Theater",
+            "credits": 3,
+            "description": "This course provides an overview of the business side of the theater industry, including funding, producing, marketing, and management. Students will gain an understanding of the various roles and responsibilities involved in producing a successful theatrical production."
+        },
+        {
+            "course_code": "DRAMA801",
+            "course_name": "Musical Theater Performance",
+            "credits": 3,
+            "description": "This course focuses on the performance of musical theater, including singing, dancing, and acting. Students will work on scenes and songs from a variety of musicals and gain an understanding of the unique challenges and opportunities presented by this art form."
+        }
+    ],
+    "Film": [
+        {
+            "course_code": "FILM101",
+            "course_name": "Introduction to Film Studies",
+            "credits": 3,
+            "description": "This course is an introduction to the study of film, including film history, film theory, and film analysis. Students will learn how to analyze films, and will be introduced to the key concepts and terminology used in film studies."
+        },
+        {
+            "course_code": "FILM201",
+            "course_name": "History of World Cinema",
+            "credits": 3,
+            "description": "This course provides an overview of the history of cinema around the world. Students will study the major movements and trends in cinema, and will learn how film has developed as an art form."
+        },
+        {
+            "course_code": "FILM301",
+            "course_name": "Screenwriting",
+            "credits": 3,
+            "description": "This course focuses on the art of screenwriting, including character development, dialogue, and plot structure. Students will learn how to write a screenplay, and will receive feedback on their work."
+        },
+        {
+            "course_code": "FILM401",
+            "course_name": "Film Production",
+            "credits": 4,
+            "description": "This course is an introduction to the process of making a film, from pre-production to post-production. Students will learn how to write a script, cast actors, and work with a crew to shoot and edit a film."
+        },
+        {
+            "course_code": "FILM501",
+            "course_name": "Film Theory",
+            "credits": 3,
+            "description": "This course provides an in-depth examination of film theory, including the major schools of thought in film studies and the key debates and controversies in the field. Students will read and discuss seminal works in film theory."
+        },
+        {
+            "course_code": "FILM601",
+            "course_name": "Film Criticism",
+            "credits": 3,
+            "description": "This course focuses on the art of film criticism, including the techniques and strategies used by film critics to analyze and evaluate films. Students will read and write film reviews, and will learn how to develop their own critical voice."
+        }
+    ],
+    "Music": [
+        {
+            "course_code": "MUSIC101",
+            "course_name": "Introduction to Music Theory",
+            "credits": 3,
+            "description": "This course provides an introduction to the basic principles of music theory, including rhythm, melody, harmony, and form. Students will learn to read and write music notation, analyze musical structures, and develop their aural skills through exercises and listening assignments."
+        },
+        {
+            "course_code": "MUSIC102",
+            "course_name": "Music History I: Antiquity to Baroque",
+            "credits": 3,
+            "description": "This course surveys the development of Western music from ancient times through the Baroque period. Topics include the music of ancient Greece and Rome, medieval chant and polyphony, Renaissance vocal and instrumental music, and the emergence of opera and other Baroque genres."
+        },
+        {
+            "course_code": "MUSIC103",
+            "course_name": "Music History II: Classical and Romantic",
+            "credits": 3,
+            "description": "This course surveys the development of Western music from the Classical era through the Romantic period. Topics include the music of Haydn, Mozart, and Beethoven, the rise of the symphony and the concerto, the emergence of the virtuoso performer, and the music of Schubert, Berlioz, Wagner, and Brahms."
+        },
+        {
+            "course_code": "MUSIC104",
+            "course_name": "World Music",
+            "credits": 3,
+            "description": "This course provides an introduction to the musical traditions of cultures around the world. Topics include music of Africa, Asia, the Middle East, Latin America, and indigenous cultures of the Americas and Australia. Students will explore the social, cultural, and historical contexts of these musical practices."
+        },
+        {
+            "course_code": "MUSIC105",
+            "course_name": "Jazz History",
+            "credits": 3,
+            "description": "This course traces the history of jazz from its origins in the early 20th century to the present day. Topics include the music of New Orleans, the rise of swing and big band jazz, bebop and its successors, the fusion era, and contemporary jazz styles. Students will explore the cultural, social, and political contexts of jazz."
+        },
+        {
+            "course_code": "MUSIC106",
+            "course_name": "Music and Technology",
+            "credits": 3,
+            "description": "This course explores the intersection of music and technology, from the development of musical instruments to the use of computers and digital audio workstations in composition and production. Topics include acoustics, MIDI, sampling, synthesis, and music software applications."
+        },
+        {
+            "course_code": "MUSIC107",
+            "course_name": "Music and Society",
+            "credits": 3,
+            "description": "This course examines the role of music in society, both historically and in contemporary culture. Topics include music as a form of expression and communication, the relationship between music and politics, the impact of technology on musical production and distribution, and the social and cultural implications of musical style and genre."
+        },
+        {
+            "course_code": "MUSIC108",
+            "course_name": "Music Performance",
+            "credits": 3,
+            "description": "This course provides practical training in music performance, with an emphasis on developing technical proficiency, interpretive skills, and stage presence. Students will have opportunities to perform in a variety of musical styles and contexts, including solo and ensemble performance."
+        }
+    ],
+    "Architecture": [
+        {
+            "course_code": "ARC101",
+            "course_name": "Introduction to Architecture",
+            "credits": 3,
+            "description": "This course provides an overview of the fundamental principles and elements of architecture, including design theory, history, and current practices. Students will learn how to analyze and evaluate buildings, and develop an understanding of the creative and technical aspects of architecture."
+        },
+        {
+            "course_code": "ARC201",
+            "course_name": "Architectural Design Studio I",
+            "credits": 4,
+            "description": "This studio course focuses on the design of small-scale architectural projects, including residential and commercial buildings. Students will learn to develop design concepts, create schematic drawings, and produce 3D models of their designs using computer-aided design software."
+        },
+        {
+            "course_code": "ARC301",
+            "course_name": "Architectural Design Studio II",
+            "credits": 4,
+            "description": "In this advanced studio course, students will design more complex buildings and explore the integration of various building systems, such as mechanical, electrical, and structural. Emphasis will be placed on sustainability and energy efficiency in building design."
+        },
+        {
+            "course_code": "ARC401",
+            "course_name": "Architectural History",
+            "credits": 3,
+            "description": "This course provides an overview of the history of architecture, including the development of architectural styles and movements from ancient times to the present day. Students will learn to analyze and interpret architectural works within their historical, social, and cultural contexts."
+        },
+        {
+            "course_code": "ARC501",
+            "course_name": "Building Technology",
+            "credits": 3,
+            "description": "This course focuses on the technical aspects of building design and construction, including materials and methods, building codes and regulations, and environmental and sustainability issues. Students will learn to design and specify building systems and assemblies, and to evaluate building performance."
+        },
+        {
+            "course_code": "ARC601",
+            "course_name": "Architectural Professional Practice",
+            "credits": 3,
+            "description": "This course provides an overview of the professional practice of architecture, including legal and ethical issues, business management, project management, and communication skills. Students will learn to prepare contracts, proposals, and project documents, and to communicate effectively with clients and stakeholders."
+        },
+        {
+            "course_code": "ARC701",
+            "course_name": "Architectural Design Studio III",
+            "credits": 4,
+            "description": "This advanced studio course focuses on the design of large-scale and complex architectural projects, such as institutional and civic buildings. Emphasis will be placed on the integration of building systems, sustainability, and social and cultural contexts."
+        },
+        {
+            "course_code": "ARC801",
+            "course_name": "Digital Tools for Architecture",
+            "credits": 3,
+            "description": "This course focuses on the use of digital tools in architectural design and representation, including computer-aided design software, digital modeling, and visualization techniques. Students will learn to create digital models, renderings, and animations of architectural designs."
+        },
+        {
+            "course_code": "ARC901",
+            "course_name": "Architectural Thesis",
+            "credits": 6,
+            "description": "This course is the culmination of the architecture program and requires students to develop a comprehensive design project that demonstrates their mastery of the principles and techniques of architecture. Students will conduct research, develop design proposals, and present their work in oral and written formats."
+        }
+    ],
+    "Environmental Studies": [
+        {
+            "course_code": "ES 101",
+            "course_name": "Introduction to Environmental Studies",
+            "credits": "3",
+            "description": "An introduction to the study of the environment, including the natural and social sciences, and humanities perspectives. The course covers the environmental issues and challenges we face and the approaches to address them."
+        },
+        {
+            "course_code": "ES 201",
+            "course_name": "Environmental Science",
+            "credits": "3",
+            "description": "This course covers the fundamental principles of environmental science, including the structure and function of ecosystems, the cycling of matter and energy, and human impacts on the environment. Students will learn about the scientific methods and tools used to study environmental problems."
+        },
+        {
+            "course_code": "ES 301",
+            "course_name": "Sustainability and the Built Environment",
+            "credits": "3",
+            "description": "This course explores the relationship between sustainability and the built environment. Topics include green building design, sustainable transportation, and sustainable urban planning. Students will learn about the social, economic, and environmental aspects of sustainability in the built environment."
+        },
+        {
+            "course_code": "ES 401",
+            "course_name": "Environmental Policy and Law",
+            "credits": "3",
+            "description": "This course covers the policy and legal frameworks that govern environmental protection and management. Topics include international agreements, federal and state regulations, and the role of courts in environmental law. Students will learn about the political and social factors that shape environmental policy."
+        },
+        {
+            "course_code": "ES 501",
+            "course_name": "Climate Change",
+            "credits": "3",
+            "description": "This course covers the science, impacts, and responses to climate change. Students will learn about the causes of climate change, the potential impacts on natural and human systems, and the policies and strategies to mitigate and adapt to the effects of climate change."
+        },
+        {
+            "course_code": "ES 601",
+            "course_name": "Environmental Ethics",
+            "credits": "3",
+            "description": "This course explores the ethical issues surrounding the environment and our interactions with it. Students will learn about the different ethical frameworks used to analyze environmental issues, including anthropocentrism, biocentrism, and ecocentrism. The course will cover topics such as environmental justice, sustainable development, and animal rights."
+        },
+        {
+            "course_code": "ES 701",
+            "course_name": "Environmental Health",
+            "credits": "3",
+            "description": "This course covers the relationship between the environment and human health. Topics include exposure to environmental pollutants, occupational hazards, and the impacts of climate change on human health. Students will learn about the scientific methods used to assess and manage environmental health risks."
+        },
+        {
+            "course_code": "ES 801",
+            "course_name": "Environmental Economics",
+            "credits": "3",
+            "description": "This course covers the economic principles and tools used to analyze environmental problems. Topics include market-based approaches to environmental regulation, cost-benefit analysis, and environmental valuation. Students will learn about the role of economic incentives and the limitations of the market in addressing environmental challenges."
+        },
+        {
+            "course_code": "ES 901",
+            "course_name": "Biodiversity and Conservation",
+            "credits": "3",
+            "description": "This course covers the science and practice of biodiversity conservation. Topics include the drivers of biodiversity loss, the importance of ecosystem services, and the tools and strategies used to conserve biodiversity."
+        }
+    ],
+    "Journalism": [
+        {
+            "course_code": "JOURN101",
+            "course_name": "Introduction to Journalism",
+            "credits": 3,
+            "description": "An introductory course that covers the basic principles and practices of journalism. Topics include news writing, reporting, interviewing, and ethics."
+        },
+        {
+            "course_code": "JOURN201",
+            "course_name": "News Writing and Reporting",
+            "credits": 3,
+            "description": "A course that focuses on news writing and reporting, including researching, interviewing, and writing news stories for various platforms, such as print, online, and broadcast."
+        },
+        {
+            "course_code": "JOURN301",
+            "course_name": "Investigative Journalism",
+            "credits": 3,
+            "description": "A course that covers the skills and techniques required for investigative journalism, including researching, interviewing, and analyzing data to uncover and report on stories of public interest."
+        },
+        {
+            "course_code": "JOURN401",
+            "course_name": "Multimedia Journalism",
+            "credits": 3,
+            "description": "A course that explores the use of multimedia tools, such as video, audio, and graphics, in journalism. Students will learn how to produce multimedia stories for various platforms."
+        },
+        {
+            "course_code": "JOURN501",
+            "course_name": "Digital Journalism",
+            "credits": 3,
+            "description": "A course that covers the principles and practices of digital journalism, including writing for the web, using social media, and producing online multimedia content."
+        },
+        {
+            "course_code": "JOURN601",
+            "course_name": "Broadcast Journalism",
+            "credits": 3,
+            "description": "A course that focuses on the principles and practices of broadcast journalism, including news gathering, writing, and reporting for television and radio."
+        },
+        {
+            "course_code": "JOURN701",
+            "course_name": "Journalism Ethics and Law",
+            "credits": 3,
+            "description": "A course that covers the legal and ethical issues facing journalists, including freedom of speech, libel, and privacy. Students will examine case studies and apply ethical principles to real-world scenarios."
+        },
+        {
+            "course_code": "JOURN801",
+            "course_name": "International Journalism",
+            "credits": 3,
+            "description": "A course that explores the principles and practices of international journalism, including reporting on global issues and cross-cultural communication."
+        },
+        {
+            "course_code": "JOURN901",
+            "course_name": "Data Journalism",
+            "credits": 3,
+            "description": "A course that covers the use of data and technology in journalism. Students will learn how to collect, analyze, and visualize data to report on stories."
+        },
+        {
+            "course_code": "JOURN1001",
+            "course_name": "Sports Journalism",
+            "credits": 3,
+            "description": "A course that focuses on sports reporting, including writing game stories, feature articles, and columns. Students will also learn about the business side of sports journalism."
+        }
+    ],
+    "Education": [
+        {
+            "course_code": "EDU101",
+            "course_name": "Introduction to Education",
+            "credits": "3",
+            "description": "This course introduces students to the field of education, including its history, theories, and practices. Topics covered include educational philosophy, learning and teaching styles, and the social and political context of education."
+        },
+        {
+            "course_code": "EDU201",
+            "course_name": "Child Development",
+            "credits": "3",
+            "description": "This course examines the physical, cognitive, and socio-emotional development of children from infancy through adolescence. Students will learn about developmental theories and research, and explore how these theories can be applied in educational settings."
+        },
+        {
+            "course_code": "EDU301",
+            "course_name": "Curriculum Design and Instructional Strategies",
+            "credits": "3",
+            "description": "This course focuses on the design and development of effective curriculum and instructional strategies. Students will learn about educational objectives, assessment tools, and best practices in curriculum design and instruction."
+        },
+        {
+            "course_code": "EDU401",
+            "course_name": "Special Education",
+            "credits": "3",
+            "description": "This course explores the education of students with disabilities, including legal and ethical issues, assessment and diagnosis, and instructional strategies for students with a range of disabilities."
+        },
+        {
+            "course_code": "EDU501",
+            "course_name": "Educational Technology",
+            "credits": "3",
+            "description": "This course explores the use of technology in education, including hardware and software, instructional design, and assessment tools. Students will learn how to effectively integrate technology into their teaching practice."
+        },
+        {
+            "course_code": "EDU601",
+            "course_name": "Educational Leadership",
+            "credits": "3",
+            "description": "This course focuses on leadership and management in educational settings. Students will learn about leadership styles, organizational behavior, and strategic planning in education."
+        },
+        {
+            "course_code": "EDU701",
+            "course_name": "Multicultural Education",
+            "credits": "3",
+            "description": "This course explores issues related to diversity and multiculturalism in education, including cultural awareness, cultural sensitivity, and the development of inclusive classrooms and educational environments."
+        },
+        {
+            "course_code": "EDU801",
+            "course_name": "Educational Research Methods",
+            "credits": "3",
+            "description": "This course introduces students to research methods used in the field of education. Topics covered include quantitative and qualitative research methods, data collection and analysis, and research ethics."
+        },
+        {
+            "course_code": "EDU901",
+            "course_name": "Assessment and Evaluation",
+            "credits": "3",
+            "description": "This course focuses on assessment and evaluation methods used in education. Students will learn about different types of assessments, including formative and summative assessments, and explore how to effectively use assessment data to inform instruction."
+        },
+        {
+            "course_code": "EDU1001",
+            "course_name": "Educational Policy and Reform",
+            "credits": "3",
+            "description": "This course examines educational policy and reform efforts at the local, state, and national level. Students will learn about the political and social forces that shape education policy, and explore current debates in the field."
+        }
+    ],
+    "Nursing": [
+        {
+            "course_code": "NURS 101",
+            "course_name": "Introduction to Nursing Practice",
+            "credits": 3,
+            "description": "This course provides an overview of the nursing profession and the basic knowledge and skills needed to provide safe and effective care to patients. Students will learn about the roles and responsibilities of nurses, ethical and legal issues in nursing, communication and documentation, and the nursing process."
+        },
+        {
+            "course_code": "NURS 201",
+            "course_name": "Health Assessment and Promotion",
+            "credits": 3,
+            "description": "This course focuses on the physical, mental, and social assessment of patients across the lifespan. Students will learn about the various assessment techniques used in nursing, including interviewing, physical examination, and diagnostic tests. They will also learn about health promotion and disease prevention strategies."
+        },
+        {
+            "course_code": "NURS 301",
+            "course_name": "Pathophysiology and Pharmacology",
+            "credits": 4,
+            "description": "This course covers the basic concepts of pathophysiology and pharmacology. Students will learn about the etiology, signs and symptoms, and treatments of common diseases and disorders. They will also learn about the mechanisms of action, side effects, and interactions of drugs commonly used in nursing practice."
+        },
+        {
+            "course_code": "NURS 401",
+            "course_name": "Medical-Surgical Nursing",
+            "credits": 5,
+            "description": "This course focuses on the care of adult patients with acute and chronic medical-surgical conditions. Students will learn about the assessment, diagnosis, planning, implementation, and evaluation of nursing care for patients with respiratory, cardiovascular, gastrointestinal, renal, and endocrine disorders. They will also learn about pain management, wound care, and infection control."
+        },
+        {
+            "course_code": "NURS 501",
+            "course_name": "Nursing Leadership and Management",
+            "credits": 3,
+            "description": "This course covers the principles of leadership and management in nursing. Students will learn about the different leadership styles, communication and conflict resolution skills, and the process of delegating tasks. They will also learn about the legal and ethical issues related to nursing management, quality improvement, and patient safety."
+        }
+    ],
+    "Public Health": [
+        {
+            "course_code": "PH 101",
+            "course_name": "Introduction to Public Health",
+            "credits": 3,
+            "description": "An introduction to the basic principles and concepts of public health, including an overview of the history, organization, and functions of public health systems. Topics include the determinants of health, epidemiology, environmental health, health promotion, disease prevention, and health policy and management."
+        },
+        {
+            "course_code": "PH 201",
+            "course_name": "Epidemiology",
+            "credits": 3,
+            "description": "An introduction to the principles and methods of epidemiology, including the study of the distribution and determinants of health and disease in human populations. Topics include the measurement of health status, risk factors for disease, study design and analysis, and the interpretation and application of epidemiologic data in public health practice."
+        },
+        {
+            "course_code": "PH 301",
+            "course_name": "Environmental Health",
+            "credits": 3,
+            "description": "An examination of the relationship between human health and the environment, including the assessment and control of environmental hazards. Topics include air and water pollution, toxicology, occupational health and safety, and the impact of climate change on public health."
+        },
+        {
+            "course_code": "PH 401",
+            "course_name": "Health Policy and Management",
+            "credits": 3,
+            "description": "An analysis of the policy and management issues that influence the organization and delivery of health services. Topics include the structure and financing of health care systems, health care quality and safety, health care reform, and the role of government and other stakeholders in health policy and management."
+        },
+        {
+            "course_code": "PH 501",
+            "course_name": "Global Health",
+            "credits": 3,
+            "description": "An exploration of the major public health issues facing the world's population, including infectious diseases, non-communicable diseases, and environmental and social determinants of health. Topics include the role of international organizations, global health governance, and strategies for addressing global health challenges."
+        },
+        {
+            "course_code": "PH 601",
+            "course_name": "Biostatistics",
+            "credits": 3,
+            "description": "An introduction to the principles and methods of statistical analysis in public health research, including the use of probability theory, hypothesis testing, and regression analysis. Topics include the design and analysis of clinical trials, sample size determination, and the interpretation and reporting of statistical findings."
+        },
+        {
+            "course_code": "PH 701",
+            "course_name": "Community Health",
+            "credits": 3,
+            "description": "An examination of the factors that influence the health of communities, including social, economic, and environmental determinants. Topics include community-based participatory research, community health assessment, program planning and evaluation, and the development of community-based interventions to promote health and prevent disease."
+        },
+        {
+            "course_code": "PH 801",
+            "course_name": "Infectious Disease Epidemiology",
+            "credits": 3,
+            "description": "An in-depth analysis of the epidemiology of infectious diseases, including the biology of infectious agents, the modes of transmission, and the control and prevention of infectious disease outbreaks. Topics include the history of infectious diseases, the global burden of infectious diseases, and the role of vaccination and other interventions in infectious disease control."
+        }
+    ],
+    "Law": [
+        {
+            "course_code": "LAW 101",
+            "course_name": "Introduction to Law",
+            "credits": 3,
+            "description": "This course provides an overview of the legal system and introduces students to key legal concepts and principles. Topics include sources of law, legal institutions, legal reasoning and analysis, and the role of lawyers in society."
+        },
+        {
+            "course_code": "LAW 201",
+            "course_name": "Contracts",
+            "credits": 3,
+            "description": "This course covers the law of contracts, including formation, performance, and enforcement. Students will learn about contract formation, defenses to contract formation, interpretation of contracts, performance and breach, remedies for breach of contract, and more."
+        },
+        {
+            "course_code": "LAW 301",
+            "course_name": "Torts",
+            "credits": 3,
+            "description": "This course covers the law of torts, including negligence, intentional torts, and strict liability. Students will learn about the elements of each tort, defenses to tort liability, damages, and more."
+        },
+        {
+            "course_code": "LAW 401",
+            "course_name": "Criminal Law",
+            "credits": 3,
+            "description": "This course covers the basics of criminal law, including the elements of various crimes, defenses to criminal charges, and sentencing. Topics may include murder, assault, theft, and more."
+        },
+        {
+            "course_code": "LAW 501",
+            "course_name": "Constitutional Law",
+            "credits": 3,
+            "description": "This course covers the U.S. Constitution and its interpretation by the courts. Students will learn about the structure of the federal government, individual rights, and the role of the courts in interpreting and enforcing the Constitution."
+        },
+        {
+            "course_code": "LAW 601",
+            "course_name": "Property Law",
+            "credits": 3,
+            "description": "This course covers the law of property, including the acquisition, use, and transfer of real and personal property. Topics may include estates and trusts, landlord-tenant law, and more."
+        },
+        {
+            "course_code": "LAW 701",
+            "course_name": "Evidence",
+            "credits": 3,
+            "description": "This course covers the law of evidence, including the rules governing the admissibility of evidence in court. Topics may include hearsay, character evidence, expert testimony, and more."
+        },
+        {
+            "course_code": "LAW 801",
+            "course_name": "Administrative Law",
+            "credits": 3,
+            "description": "This course covers the law of administrative agencies, including their structure, powers, and procedures. Topics may include the delegation of powers, the rulemaking process, and the role of the courts in reviewing agency decisions."
+        },
+        {
+            "course_code": "LAW 901",
+            "course_name": "International Law",
+            "credits": 3,
+            "description": "This course covers the basics of international law, including its sources, its relationship to domestic law, and its role in global governance. Topics may include human rights, international trade, and the law of armed conflict."
+        }
+    ]
+}
