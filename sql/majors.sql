@@ -1,243 +1,243 @@
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("0", "0", "Computer Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("1", "0", "Information Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("2", "0", "Information Technology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("3", "0", "Software Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("4", "1", "Electrical Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("5", "2", "Aerospace Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("6", "2", "Mechanical Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("7", "2", "Mining Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("8", "2", "Structural Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("9", "3", "Animal Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("10", "3", "Biochemistry");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("11", "3", "Biology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("12", "3", "Biomedical Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("13", "3", "Genetics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("14", "3", "Microbiology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("15", "3", "Neuroscience");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("16", "3", "Pharmaceutical Sciences");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("17", "3", "Pharmacology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("18", "4", "Chemical Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("19", "4", "Chemistry");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("20", "4", "Organic Chemistry");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("21", "5", "Applied Physics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("22", "5", "Engineering Physics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("23", "5", "Physics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("24", "6", "Psychology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("25", "7", "Applied Mathematics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("26", "7", "Mathematics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("27", "8", "Statistics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("28", "9", "Agricultural Economics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("29", "9", "Economics");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("30", "9", "International Business");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("31", "9", "Sustainability");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("32", "9", "Taxation");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("33", "10", "Finance");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("34", "11", "Marketing");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("35", "12", "Business Administration");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("36", "12", "Hospitality Management");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("37", "12", "Human Resources");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("38", "12", "Industrial Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("39", "12", "Management");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("40", "12", "Supply Chain Management");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("41", "12", "Systems Engineering");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("42", "13", "International Studies");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("43", "13", "Political Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("44", "14", "Classical Studies");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("45", "14", "History");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("46", "14", "Religious Studies");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("47", "15", "English");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("48", "15", "Writing");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("49", "16", "Philosophy");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("50", "17", "Anthropology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("51", "17", "Sociology");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("52", "17", "Women's Studies");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("53", "18", "Art History");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("54", "19", "Theater");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("55", "20", "Film Studies");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("56", "20", "Digital Media");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("57", "20", "Video Game Design");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("58", "21", "Music");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("59", "22", "Architecture");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("60", "22", "Landscape Architecture");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("61", "22", "Urban Planning");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("62", "23", "Agricultural Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("63", "23", "Earth Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("64", "23", "Environmental Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("65", "23", "Natural Resource Management");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("66", "23", "Oceanography");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("67", "23", "Wildlife Management");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("68", "24", "Communication");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("69", "24", "Journalism");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("70", "24", "Library Science");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("71", "25", "Early Childhood Education");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("72", "25", "Education");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("73", "25", "Teaching English as a Second Language");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("74", "26", "Dental Hygiene");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("75", "26", "Nursing");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("76", "26", "Occupational Therapy");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("77", "26", "Respiratory Therapy");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("78", "27", "Public Health");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("79", "28", "Criminal Justice");
+VALUES (0, 0, Computer Engineering);
 
 INSERT INTO majors (major_id, dept_id, major_name)
-VALUES ("80", "28", "Law");
+VALUES (0, 0, Computer Engineering);
 

@@ -56,7 +56,7 @@ You can now use this database in your application by connecting to the `lms` dat
 
 ## Web app
 
-We have also create Flask web app for this database. You can run a flask server by running the following command:
+We have also created Flask web app for this database. You can run a flask server by running the following command:
 ```
 pip3 install -r python/requirements.txt
 flask run

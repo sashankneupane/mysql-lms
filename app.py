@@ -53,9 +53,17 @@ def query():
         error_message = "Error executing query: " + str(e)
         return render_template('result.html', result=error_message)
 
+@app.route('/results')
+def results_page():
+    referrer = request.referrer
+    if referrer and referrer != request.url_root:
+        return redirect(url_for('index'))
+    else:
+        return render_template('results.html')
+
 @app.errorhandler(404)
 def page_not_found(e):
-    return redirect(url_for('index'))
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run()

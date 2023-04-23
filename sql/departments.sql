@@ -1,87 +1,87 @@
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("0", "Computer Science");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("1", "Electrical Engineering");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("2", "Mechanical Engineering");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("3", "Biology");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("4", "Chemistry");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("5", "Physics");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("6", "Psychology");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("7", "Mathematics");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("8", "Statistics");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("9", "Economics");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("10", "Finance");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("11", "Marketing");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("12", "Management");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("13", "Political Science");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("14", "History");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("15", "English");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("16", "Philosophy");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("17", "Sociology");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("18", "Art History");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("19", "Drama");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("20", "Film");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("21", "Music");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("22", "Architecture");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("23", "Environmental Studies");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("24", "Journalism");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("25", "Education");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("26", "Nursing");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("27", "Public Health");
+VALUES (0, Computer Science);
 
 INSERT INTO departments (dept_id, dept_name)
-VALUES ("28", "Law");
+VALUES (0, Computer Science);
 
