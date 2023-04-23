@@ -6,18 +6,13 @@ This is a MySQL database for learning management systems. It includes tables for
 
 ## About the Data
 
-The files `generate_1.py`, `generate_2.py`, and `generate_3.py` are used to generate the data for this database. All the data is stored in the `./data` folder as csv files. 
+The file `generateData.py` is used to generate the data for this database. All the data is stored in the `./data` folder as csv files.
 
 - `users.csv` is generated using the `faker` library.
 - `courses.json` and `departments_and_majors.json` is generated using ChatGPT.
+- all other csv files are generated using these two files.
+- data generation happens automatically when you populate the tables by running the `populateTables.py` script.
 
-
-If you want to generate data for yourself, you can run the `generate` python scripts in the `./python/generate` folder.
-- `generate_1.py` file generates data for the `users`, `students`, `professors`, `admins`, `majors`, and `departments` tables. 
-- `generate_2.py` file generates data for the `courses`, `enrollments`, `grades`, and `assignments` tables. 
-- `generate_3.py` file generates data for the `enrollments`, `grades`, and `assignments` tables.
-
-However, `generate_2.py` only works when the tables generated from `generate_1.py` are populated. Similarly, the `generate_3.py` file only works when the tables generated from `generate_1.py` and `generate_2.py` are populated. Therefore, you should run the `generate` python scripts in order while populating the tables.
 
 ## Requirements
 
@@ -32,10 +27,9 @@ To install this database, follow these steps:
 3. Login to MySQL: `mysql -u <username> -p`.
 4. Run the SQL file: `SOURCE ./sql/createFullDB.sql`. This will populate the database with the data from the csv files.
 5. If you only want to create database and tables, run: `SOURCE ./sql/createDB.sql`.
+6. This will create a databased named `lms` and all the tables with exisiting data in the sql files generated from the csv files. If you want to generate new data, you can use the python scripts as described below.
 
-## You can also run the python scripts to create the database and tables.
-
-To install this database using python scripts, follow these steps:
+## To create the database and tables using python scripts, follow these steps:
 
 1. Clone/download this repository: `git clone https://github.com/sashankneupane7/mysql-lms.git`.
 2. Navigate to the repository directory: `cd mysql-lms`.
@@ -43,11 +37,10 @@ To install this database using python scripts, follow these steps:
 3. Install the required packages: `pip3 install -r python/requirements.txt`
 3. Run following commands:
 ```
-python3 createDB.py
-python3 createTables.py
-python3 populateTables.py
+python3 python/createDB.py
+python3 python/createTables.py
+python3 python/populateTables.py
 ```
-
 
 ## Usage
 
@@ -61,5 +54,4 @@ We have also created Flask web app for this database. You can run a flask server
 pip3 install -r python/requirements.txt
 flask run
 ```
-The web app is available at `http://127.0.0.1:5000`.
-
+The web app will be available at `http://127.0.0.1:5000`.

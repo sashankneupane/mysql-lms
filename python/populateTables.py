@@ -32,8 +32,8 @@ if '__main__' == __name__:
     # generates and populates departments and majors
     generator.generate("Departments")
     insertqueries = {
-        "departments": 'INSERT INTO departments (dept_id, dept_name)\nVALUES (%(dept_id)s, %(dept_name)s);',
-        "majors": 'INSERT INTO majors (major_id, dept_id, major_name)\nVALUES (%(major_id)s, %(dept_id)s, %(major_name)s);'
+        "departments": 'INSERT INTO departments (dept_id, dept_name)\nVALUES (%(dept_id)s, "%(dept_name)s");',
+    "majors": 'INSERT INTO majors (major_id, dept_id, major_name)\nVALUES (%(major_id)s, %(dept_id)s, "%(major_name)s");'
     }
     for file, query in insertqueries.items():
         populateTable(query, file)
@@ -41,7 +41,7 @@ if '__main__' == __name__:
     # generates and populates users, students, professors, and admins
     generator.generate("Users")
     insertqueries = {
-        "users": 'INSERT INTO users (user_id, firstname, lastname, username, password, email)\nVALUES (%(user_id)s, %(firstname)s, %(lastname)s, %(username)s, %(password)s, %(email)s);',
+        "users": 'INSERT INTO users (user_id, firstname, lastname, username, password, email)\nVALUES (%(user_id)s, "%(firstname)s", "%(lastname)s", "%(username)s", "%(password)s", "%(email)s");',
         "students": 'INSERT INTO students (user_id, major_id)\nVALUES (%(user_id)s, %(major_id)s);',
         "professors": 'INSERT INTO professors (user_id, dept_id)\nVALUES (%(user_id)s, %(dept_id)s);',
         "admins": 'INSERT INTO admins (user_id)\nVALUES (%(user_id)s);'
@@ -51,7 +51,7 @@ if '__main__' == __name__:
     
     # generates and populates courses
     generator.generate("Courses")
-    insertquery = 'INSERT INTO courses (course_id, course_code, course_name, professor_id, dept_id, credit_hours, course_description)\nVALUES (%(course_id)s, %(course_code)s, %(course_name)s, %(professor_id)s, %(dept_id)s, %(credit_hours)s, %(course_description)s);'
+    insertquery = 'INSERT INTO courses (course_id, course_code, course_name, professor_id, dept_id, credit_hours, course_description)\nVALUES (%(course_id)s, "%(course_code)s", "%(course_name)s", %(professor_id)s, %(dept_id)s, %(credit_hours)s, "%(course_description)s");'
     populateTable(insertquery, "courses")
 
     # generates and populates enrollments

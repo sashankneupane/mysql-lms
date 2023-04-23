@@ -1,1068 +1,939 @@
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (29, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (30, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (31, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (32, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (52, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (100, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (105, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (113, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (123, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (154, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (156, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (161, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (163, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (212, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (223, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (242, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (248, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (257, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (268, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (272, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (290, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (293, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (297, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (314, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (355, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (375, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (387, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (390, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (403, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (425, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (449, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (452, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (507, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (513, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (545, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (570, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (573, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (579, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (597, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (626, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (647, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (649, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (657, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (660, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (662, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (669, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (674, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (700, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (715, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (728, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (731, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (751, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (768, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (791, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (798, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (805, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (834, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (837, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (857, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (865, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (899, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (909, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (932, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (951, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (952, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (958, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (961, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (964, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (966, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (974, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1086, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1100, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1134, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1146, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1179, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1185, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1188, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1218, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1228, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1245, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1262, 19);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1265, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1291, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1355, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1365, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1372, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1380, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1383, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1399, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1408, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1418, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1440, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1459, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1461, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1528, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1531, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1561, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1566, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1568, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1572, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1575, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1586, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1607, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1615, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1617, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1635, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1636, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1640, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1642, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1649, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1685, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1704, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1725, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1731, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1751, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1752, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1754, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1766, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1793, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1832, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1851, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1854, 20);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1875, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1885, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1910, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1924, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1938, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1956, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1978, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1980, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1981, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (1989, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2001, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2006, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2051, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2110, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2115, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2116, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2137, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2149, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2174, 19);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2178, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2215, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2242, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2246, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2286, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2298, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2308, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2317, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2326, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2347, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2362, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2372, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2395, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2405, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2424, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2444, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2508, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2515, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2548, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2557, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2565, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2569, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2574, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2578, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2580, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2586, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2593, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2595, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2601, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2610, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2611, 19);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2618, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2629, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2649, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2657, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2665, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2675, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2694, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2781, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2789, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2832, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2850, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2878, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2886, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2915, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2918, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2959, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2973, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2979, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2994, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (2997, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3011, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3022, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3052, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3057, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3063, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3071, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3090, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3114, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3125, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3132, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3143, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3150, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3193, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3200, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3219, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3225, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3228, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3310, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3315, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3324, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3397, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3450, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3460, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3481, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3482, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3508, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3547, 28);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3549, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3551, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3569, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3585, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3588, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3594, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3636, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3644, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3658, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3686, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3707, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3729, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3732, 27);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3746, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3748, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3752, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3760, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3772, 26);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3778, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3787, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3797, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3811, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3820, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3823, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3838, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3849, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3850, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3905, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3909, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3932, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3933, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3948, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3959, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3963, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3980, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3989, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (3996, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4007, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4039, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4047, 25);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4066, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4083, 23);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4122, 19);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4152, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4172, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4179, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4184, 0);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4196, 24);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4199, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4201, 13);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4210, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4228, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4255, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4294, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4295, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4312, 11);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4323, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4331, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4335, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4337, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4366, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4389, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4391, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4430, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4445, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4450, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4470, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4472, 18);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4475, 3);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4486, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4556, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4567, 17);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4570, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4595, 2);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4684, 15);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4704, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4712, 4);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4729, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4737, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4766, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4767, 22);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4784, 6);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4792, 7);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4798, 10);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4825, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4840, 21);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4851, 5);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4865, 8);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4894, 1);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4904, 12);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4948, 9);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4960, 14);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4971, 16);
 
 INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
-
-INSERT INTO professors (user_id, dept_id)
-VALUES (2, 11);
+VALUES (4996, 4);
 
