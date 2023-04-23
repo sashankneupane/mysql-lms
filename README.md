@@ -1,5 +1,5 @@
 # Learning Management System Database
-By Sashank Neupane and Ayazhan Gabitsky
+By Sashank Neupane and Ayazhan Gabitskyzy
 
 
 This is a MySQL database for a learning management system. It includes tables for `users` (with roles), `students`, `professors`, `admins`, `majors`, `departments`, `courses`, `enrollments`, `grades`, and `assignments`.

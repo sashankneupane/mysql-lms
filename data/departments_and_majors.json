@@ -1,0 +1,141 @@
+{
+    "Computer Science": [
+        "Computer Engineering",
+        "Information Science",
+        "Information Technology",
+        "Software Engineering"
+    ],
+    "Electrical Engineering": [
+        "Electrical Engineering"
+    ],
+    "Mechanical Engineering": [
+        "Aerospace Engineering",
+        "Mechanical Engineering",
+        "Mining Engineering",
+        "Structural Engineering"
+    ],
+    "Biology": [
+        "Animal Science",
+        "Biochemistry",
+        "Biology",
+        "Biomedical Engineering",
+        "Genetics",
+        "Microbiology",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Pharmacology"
+    ],
+    "Chemistry": [
+        "Chemical Engineering",
+        "Chemistry",
+        "Organic Chemistry"
+    ],
+    "Physics": [
+        "Applied Physics",
+        "Engineering Physics",
+        "Physics"
+    ],
+    "Psychology": [
+        "Psychology"
+    ],
+    "Mathematics": [
+        "Applied Mathematics",
+        "Mathematics"
+    ],
+    "Statistics": [
+        "Statistics"
+    ],
+    "Economics": [
+        "Agricultural Economics",
+        "Economics",
+        "International Business",
+        "Sustainability",
+        "Taxation"
+    ],
+    "Finance": [
+        "Finance"
+    ],
+    "Marketing": [
+        "Marketing"
+    ],
+    "Management": [
+        "Business Administration",
+        "Hospitality Management",
+        "Human Resources",
+        "Industrial Engineering",
+        "Management",
+        "Supply Chain Management",
+        "Systems Engineering"
+    ],
+    "Political Science": [
+        "International Studies",
+        "Political Science"
+    ],
+    "History": [
+        "Classical Studies",
+        "History",
+        "Religious Studies"
+    ],
+    "English": [
+        "English",
+        "Writing"
+    ],
+    "Philosophy": [
+        "Philosophy"
+    ],
+    "Sociology": [
+        "Anthropology",
+        "Sociology",
+        "Women's Studies"
+    ],
+    "Art History": [
+        "Art History"
+    ],
+    "Drama": [
+        "Theater"
+    ],
+    "Film": [
+        "Film Studies",
+        "Digital Media",
+        "Video Game Design"
+    ],
+    "Music": [
+        "Music"
+    ],
+    "Architecture": [
+        "Architecture",
+        "Landscape Architecture",
+        "Urban Planning"
+    ],
+    "Environmental Studies": [
+        "Agricultural Science",
+        "Earth Science",
+        "Environmental Science",
+        "Natural Resource Management",
+        "Oceanography",
+        "Wildlife Management"
+    ],
+    "Journalism": [
+        "Communication",
+        "Journalism",
+        "Library Science"
+    ],
+    "Education": [
+        "Early Childhood Education",
+        "Education",
+        "Teaching English as a Second Language"
+    ],
+    "Nursing": [
+        "Dental Hygiene",
+        "Nursing",
+        "Occupational Therapy",
+        "Respiratory Therapy"
+    ],
+    "Public Health": [
+        "Public Health"
+    ],
+    "Law": [
+        "Criminal Justice",
+        "Law"
+    ]
+}

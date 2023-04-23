@@ -1,0 +1,82 @@
+major_id,dept_id,major_name
+0,0,Computer Engineering
+1,0,Information Science
+2,0,Information Technology
+3,0,Software Engineering
+4,1,Electrical Engineering
+5,2,Aerospace Engineering
+6,2,Mechanical Engineering
+7,2,Mining Engineering
+8,2,Structural Engineering
+9,3,Animal Science
+10,3,Biochemistry
+11,3,Biology
+12,3,Biomedical Engineering
+13,3,Genetics
+14,3,Microbiology
+15,3,Neuroscience
+16,3,Pharmaceutical Sciences
+17,3,Pharmacology
+18,4,Chemical Engineering
+19,4,Chemistry
+20,4,Organic Chemistry
+21,5,Applied Physics
+22,5,Engineering Physics
+23,5,Physics
+24,6,Psychology
+25,7,Applied Mathematics
+26,7,Mathematics
+27,8,Statistics
+28,9,Agricultural Economics
+29,9,Economics
+30,9,International Business
+31,9,Sustainability
+32,9,Taxation
+33,10,Finance
+34,11,Marketing
+35,12,Business Administration
+36,12,Hospitality Management
+37,12,Human Resources
+38,12,Industrial Engineering
+39,12,Management
+40,12,Supply Chain Management
+41,12,Systems Engineering
+42,13,International Studies
+43,13,Political Science
+44,14,Classical Studies
+45,14,History
+46,14,Religious Studies
+47,15,English
+48,15,Writing
+49,16,Philosophy
+50,17,Anthropology
+51,17,Sociology
+52,17,Women's Studies
+53,18,Art History
+54,19,Theater
+55,20,Film Studies
+56,20,Digital Media
+57,20,Video Game Design
+58,21,Music
+59,22,Architecture
+60,22,Landscape Architecture
+61,22,Urban Planning
+62,23,Agricultural Science
+63,23,Earth Science
+64,23,Environmental Science
+65,23,Natural Resource Management
+66,23,Oceanography
+67,23,Wildlife Management
+68,24,Communication
+69,24,Journalism
+70,24,Library Science
+71,25,Early Childhood Education
+72,25,Education
+73,25,Teaching English as a Second Language
+74,26,Dental Hygiene
+75,26,Nursing
+76,26,Occupational Therapy
+77,26,Respiratory Therapy
+78,27,Public Health
+79,28,Criminal Justice
+80,28,Law
