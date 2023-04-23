@@ -1,25 +1,15 @@
+import yaml
 import mysql.connector
 
-# Get username and password from the user
-# username = input("Enter your MySQL username: ")
-# password = getpass.getpass("Enter your MySQL password: ")
+# Read the config file
+with open("config.yaml", "r") as file:
+    config = yaml.safe_load(file)
 
-# my username and password
-username = 'root'
-password = 'password'
-
-# Create a connection to the MySQL server
-mydb = mysql.connector.connect(
-  host="localhost",
-  user=username,
-  password=password,
-  database="lms"
-)
+# Connect to the database
+mydb = mysql.connector.connect(**config["lms"])
 
 # Create a cursor object
 mycursor = mydb.cursor()
-
-
 
 # Create the tables in the database
 create_users_table = '''

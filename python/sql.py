@@ -1,13 +1,14 @@
+# this file writes sql files in ./sql/ directory that can be used to populate the database
 import mysql.connector
 import csv
+import yaml
+
+# read config file
+with open("./config.yaml", mode="r") as file:
+    config = yaml.safe_load(file)
 
 # connect to database
-mydb = mysql.connector.connect(
-    host="localhost",
-    username = "root",
-    password = "password",
-    database = "lms"
-)
+mydb = mysql.connector.connect(**config["lms"])
 
 # create a cursor
 mycursor = mydb.cursor()
@@ -90,5 +91,3 @@ with open("./sql/enrollments.sql", mode="w") as populatesql:
             populatesql.write(query + "\n\n")
 
 mydb.commit()
-
-

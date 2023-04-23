@@ -1,0 +1,10 @@
+mysql:
+  host: localhost
+  user: root
+  password: password
+
+lms:
+  host: localhost
+  user: root
+  password: password
+  database: lms
