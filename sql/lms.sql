@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS courses (
     professor_id INT NOT NULL,
     dept_id INT NOT NULL,
     FOREIGN KEY (professor_id) REFERENCES professors(user_id),
-    FOREIGN KEY (dept_id) REFERENCES departments(id)
+    FOREIGN KEY (dept_id) REFERENCES departments(dept_id)
 );
 
 
@@ -85,18 +85,25 @@ CREATE TABLE IF NOT EXISTS enrollments (
     student_id INT,
     course_id INT,
     status ENUM('enrolled', 'dropped'),
-    FOREIGN KEY (student_id) REFERENCES students(id),
-    FOREIGN KEY (course_id) REFERENCES courses(id)
+    FOREIGN KEY (student_id) REFERENCES students(user_id),
+    FOREIGN KEY (course_id) REFERENCES courses(course_id)
 );
 
 
 CREATE TABLE IF NOT EXISTS grades (
-    id INT PRIMARY KEY,
+    grade_id INT PRIMARY KEY,
     student_id INT NOT NULL,
     course_id INT NOT NULL,
     assignment_id INT NOT NULL,
     grade FLOAT NOT NULL,
-    FOREIGN KEY (student_id) REFERENCES students(id),
-    FOREIGN KEY (course_id) REFERENCES courses(id),
-    FOREIGN KEY (assignment_id) REFERENCES assignments(id)
+    FOREIGN KEY (student_id) REFERENCES students(user_id),
+    FOREIGN KEY (course_id) REFERENCES courses(course_id),
+    FOREIGN KEY (assignment_id) REFERENCES assignments(assignment_id)
 );
+
+SOURCE ./sql/users.sql;
+SOURCE ./sql/departments.sql;
+SOURCE ./sql/majors.sql;
+SOURCE ./sql/students.sql;
+SOURCE ./sql/professors.sql;
+SOURCE ./sql/admins.sql;
