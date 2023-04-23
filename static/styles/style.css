@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  min-height: 100%;
   margin: 0;
   padding: 0;
 }
@@ -8,41 +9,55 @@ body {
   background-color: #4CAF50;
   color: white;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
-}
-
-.content {
-  padding: 20px;
 }
 
 form {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
 }
 
-input[type=text], select {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
+label {
+  font-size: 1.2rem;
+  margin-right: 10px;
 }
 
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
+.input-container {
+  display: flex;
+  flex: 1;
+}
+
+input[type="text"] {
+  flex: 1;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  font-size: 1.2rem;
+  background-color: transparent;
+}
+
+input[type="submit"] {
+  background-color: #007a5a;
+  color: #fff;
+  font-size: 1.2rem;
   border: none;
   border-radius: 4px;
+  padding: 10px 20px;
   cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
 }
 
-input[type=submit]:hover {
-  background-color: #4CAF60;
-  text-decoration: none;
+input[type="submit"]:hover {
+  background-color: #005d43;
 }
 
 table {
@@ -78,6 +93,17 @@ th, td {
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+.error-container {
+  background-color: #ffe4e4;
+  max-width: ;
+  color: #ff4d4d;
+  padding: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 1px solid #ff4d4d;
+}
+
 
 a {
   display: inline-block;

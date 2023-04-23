@@ -4,62 +4,53 @@ import yaml
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
-    return render_template('index.html')
+    html_result = ""
+    query = ""
 
-@app.route('/query', methods=['POST'])
-def query():
-    # get the query from the form on the web page
-    query = request.form['query']
-    
-    try:
-        # connect to the database
-        with open("./config.yaml", mode="r") as file:
-            config = yaml.safe_load(file)
-        
-        mydb = mysql.connector.connect(**config["lms"])
+    if request.method == 'POST':
+        # get the query from the form on the web page
+        query = request.form['query']
 
-        # execute the query
-        cursor = mydb.cursor()
-        cursor.execute(query)
-        result = cursor.fetchall()
+        try:
+            # connect to the database
+            with open("./config.yaml", mode="r") as file:
+                config = yaml.safe_load(file)
 
-        # close the database connection
-        mydb.close()
+            mydb = mysql.connector.connect(**config["lms"])
 
-        # Get the column names
-        column_names = [i[0] for i in cursor.description]
+            # execute the query
+            cursor = mydb.cursor()
+            cursor.execute(query)
+            result = cursor.fetchall()
 
-        # Format the result as HTML
-        html_result = '<table>'
-        html_result += '<tr>'
-        for name in column_names:
-            html_result += '<th>' + name + '</th>'
-        html_result += '</tr>'
+            # close the database connection
+            mydb.close()
 
-        for row in result:
+            # Get the column names
+            column_names = [i[0] for i in cursor.description]
+
+            # Format the result as HTML
+            html_result += '<table>'
             html_result += '<tr>'
-            for col in row:
-                html_result += '<td>' + str(col) + '</td>'
+            for name in column_names:
+                html_result += '<th>' + name + '</th>'
             html_result += '</tr>'
 
-        html_result += '</table>'
+            for row in result:
+                html_result += '<tr>'
+                for col in row:
+                    html_result += '<td>' + str(col) + '</td>'
+                html_result += '</tr>'
 
-        # send the result back to the web page for display
-        return render_template('result.html', result=html_result)
+            html_result += '</table>'
 
-    except Exception as e:
-        error_message = "Error executing query: " + str(e)
-        return render_template('result.html', result=error_message)
+        except Exception as e:
+            html_result = "Error executing query: " + str(e)
+            return render_template('index.html', error=html_result, last_query = query)
 
-@app.route('/results')
-def results_page():
-    referrer = request.referrer
-    if referrer and referrer != request.url_root:
-        return redirect(url_for('index'))
-    else:
-        return render_template('results.html')
+    return render_template('index.html', result=html_result, last_query = query)
 
 @app.errorhandler(404)
 def page_not_found(e):
