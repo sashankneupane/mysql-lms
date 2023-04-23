@@ -27,20 +27,20 @@ To use this database, you'll only need `MySQL` installed on your computer. You c
 ## Installation
 
 To install this database, follow these steps:
-1. Clone\download this repository: `git clone https://github.com/sashankneupane7/mysql-lms.git`.
+1. Clone/download this repository: `git clone https://github.com/sashankneupane7/mysql-lms.git`.
 2. Navigate to the repository directory: `cd mysql-lms`.
 3. Login to MySQL: `mysql -u <username> -p`.
 4. Run the SQL file: `SOURCE ./sql/createFullDB.sql`. This will populate the database with the data from the csv files.
 5. If you only want to create database and tables, run: `SOURCE ./sql/createDB.sql`.
 
-## You can also use the python script to create the database and tables.
+## You can also run the python scripts to create the database and tables.
 
 To install this database using python scripts, follow these steps:
 
-1. Clone\download this repository: `git clone https://github.com/sashankneupane7/mysql-lms.git`.
+1. Clone/download this repository: `git clone https://github.com/sashankneupane7/mysql-lms.git`.
 2. Navigate to the repository directory: `cd mysql-lms`.
 3. Update `username` and `password` in the `config.yaml` file.
-3. Install the required packages: `pip3 install -r requirements.txt`
+3. Install the required packages: `pip3 install -r python/requirements.txt`
 3. Run following commands:
 ```
 python3 createDB.py
@@ -54,4 +54,12 @@ python3 populateTables.py
 You can now use this database in your application by connecting to the `lms` database and querying the appropriate tables.
 
 
+## Web app
+
+We have also create Flask web app for this database. You can run a flask server by running the following command:
+```
+pip3 install -r python/requirements.txt
+flask run
+```
+The web app is available at `http://127.0.0.1:5000`.
 
