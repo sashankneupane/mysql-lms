@@ -53,12 +53,6 @@ FROM courses c
 JOIN enrollments e ON e.course_id = c.course_id
 GROUP BY c.course_id;
 
-SELECT u.firstname AS `First Name`, u.lastname AS `Last Name`, u.email AS `Email Address`
-FROM students s
-JOIN users u ON u.user_id = s.user_id
-JOIN enrollments e ON e.student_id = s.user_id
-JOIN courses c ON c.course_id = e.course_id
-WHERE c.course_name = "'Data Management and Analysis'";
 
 SELECT m.major_name AS `Major`, COUNT(s.user_id) AS `Number of Students`
 FROM majors m
