@@ -14,7 +14,7 @@
         },
         {
             "course_code": "CS303",
-            "course_name": "Database Systems",
+            "course_name": "Database Management and Analysis",
             "credits": 4,
             "description": "An introduction to database management systems and the underlying theory and design principles. Topics include relational database theory, SQL, transaction processing, and database design. Students will gain hands-on experience designing and implementing databases."
         },
