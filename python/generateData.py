@@ -4,8 +4,13 @@ from faker import Faker
 import random
 import json
 
+# Set the seed value
+Faker.seed(1234)
+
 # Create a Faker object
 fake = Faker()
+
+
 
 class generateData:
 

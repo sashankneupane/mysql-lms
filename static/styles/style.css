@@ -143,10 +143,10 @@ h1 {
   text-align: center;
 }
 
-a:hover {
+/* a:hover {
   background: #4CAF25;
   text-decoration: none;
-}
+} */
 
 .back-link {
   position: absolute;

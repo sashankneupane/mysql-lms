@@ -1,8 +1,13 @@
-SELECT u.firstname, u.lastname, u.email
+SELECT u.firstname AS `First Name`, u.lastname AS `Last Name`, u.email AS `Email Address`
 FROM users u
 WHERE u.user_id NOT IN (
     SELECT s.user_id FROM students s
 );
+
+SELECT course_code AS `Course Code`, course_name AS `Course` 
+FROM departments d 
+JOIN courses c ON d.dept_id = c.dept_id
+WHERE d.dept_name = "Management";
 
 SELECT u.firstname, u.lastname, u.email
 FROM professors p
@@ -39,12 +44,12 @@ FROM courses c
 JOIN enrollments e ON e.course_id = c.course_id
 GROUP BY c.course_id;
 
-SELECT u.firstname, u.lastname, u.email
+SELECT u.firstname AS `First Name`, u.lastname AS `Last Name`, u.email AS `Email Address`
 FROM students s
 JOIN users u ON u.user_id = s.user_id
 JOIN enrollments e ON e.student_id = s.user_id
 JOIN courses c ON c.course_id = e.course_id
-WHERE c.course_name = 'Database Systems';
+WHERE c.course_name = "'Data Management and Analysis'";
 
 SELECT m.major_name AS `Major`, COUNT(s.user_id) AS `Number of Students`
 FROM majors m
@@ -58,4 +63,44 @@ WHERE course_id IN (
     SELECT course_id FROM enrollments
     GROUP BY course_id
     HAVING COUNT(student_id) >= 50
+);
+
+SELECT u.user_id AS `ID`, u.firstname AS `First Name`, u.lastname AS `Last Name`
+FROM users u
+JOIN students s ON u.user_id = s.user_id
+JOIN enrollments e ON e.student_id = s.user_id
+JOIN courses c ON e.course_id = c.course_id
+WHERE c.course_name = "'Number Theory'";
+
+SELECT major_name AS `Major`, COUNT(major_name) AS `Number of students`
+FROM  students NATURAL JOIN majors 
+GROUP BY major_name 
+HAVING COUNT(major_name) = (
+   SELECT MAX(stud_num) 
+   FROM  (SELECT COUNT(major_name) AS stud_num 
+   FROM students NATURAL JOIN majors 
+   GROUP BY major_name)  
+AS stud);
+
+SELECT dept_name AS `Department`, COUNT(dept_name) As `Number of Professors`
+FROM professors 
+NATURAL JOIN departments 
+GROUP BY dept_name 
+HAVING COUNT(dept_name)= (
+    SELECT MAX(profnum) FROM (
+        SELECT COUNT(dept_name) AS profnum 
+        FROM professors NATURAL JOIN departments 
+        GROUP BY dept_name));
+
+
+SELECT c.course_name AS `Course`, COUNT(c.course_name) AS `Number of Students` 
+FROM enrollments e 
+JOIN courses c ON e.course_id = c.course_id
+GROUP BY c.course_name 
+HAVING COUNT(c.course_name) = (
+    SELECT MAX(stud_num) 
+    FROM (SELECT COUNT(c1.course_name) AS stud_num 
+          FROM enrollments e1 
+          JOIN courses c1 ON e1.course_id = c1.course_id
+          GROUP BY c1.course_name) as max_stud_num
 );
