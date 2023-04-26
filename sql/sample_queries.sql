@@ -24,9 +24,9 @@ JOIN users u ON u.user_id = p.user_id
 JOIN departments d ON d.dept_id = p.dept_id
 WHERE d.dept_name = 'Computer Science';
 
-SELECT c.course_code, c.course_name
+SELECT c.course_code AS `Course Code`, c.course_name AS `Course Name`
 FROM courses c
-WHERE c.professor_id = (
+WHERE c.professor_id IN (
     SELECT u.user_id
     FROM professors p
     JOIN users u 
@@ -34,7 +34,7 @@ WHERE c.professor_id = (
     WHERE u.lastname = 'Smith'
 );
 
-SELECT c.course_name, COUNT(e.student_id) AS num_students
+SELECT c.course_name AS `Course Name`, COUNT(e.student_id) AS `Enrollments`
 FROM courses c
 JOIN enrollments e ON e.course_id = c.course_id
 GROUP BY c.course_id;
