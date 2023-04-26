@@ -13,7 +13,10 @@
     <div class="content">
       <form action="/" method="post">
         <div class="input-container">
-          <textarea id="query" name="query" placeholder="Enter SQL Query here">{{ last_query }}</textarea>
+          <textarea id="query" 
+                    name="query"
+                    oninput = "this.style.height = ''; this.style.height = (this.scrollHeight-20) + 'px';"
+                    placeholder="Enter SQL Query here">{{ last_query }}</textarea>
           <input type="submit" value="Submit">
         </div>
       </form>
@@ -41,6 +44,14 @@
         <p><a href="https://github.com/sashankneupane7/mysql-lms" target = "_blank">View on GitHub</a></p>
       </div>
     </div>
+
+    <script>
+      // Get the textarea element
+      const textarea = document.getElementById("query");
+      // Set the height of the textarea based on its content
+      textarea.style.height = "";
+      textarea.style.height = (textarea.scrollHeight - 20) + "px";
+    </script>
     
   </body>
 

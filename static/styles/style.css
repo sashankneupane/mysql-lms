@@ -9,8 +9,8 @@ body {
   background-color: #4CAF50;
   color: white;
   text-align: center;
-  padding: 10px;
-  font-size: 30px;
+  padding: 5px;
+  font-size: 25px;
 }
 
 .query-header{
@@ -56,10 +56,9 @@ textarea{
   border-bottom: 1px solid #ccc;
   padding: 10px;
   font-size: 1.2rem;
-  height: fit-content;
   background-color: transparent;
   resize: None;
-  overflow-x: auto;
+  overflow: fit-content;
 }
 
 input[type="submit"] {
@@ -70,6 +69,7 @@ input[type="submit"] {
   border-radius: 4px;
   padding: 10px 20px;
   cursor: pointer;
+  height: 60px;
   transition: background-color 0.2s ease-in-out;
 }
 
@@ -124,7 +124,7 @@ tr:nth-child(even) {
 
 a {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 20px 20px;
   background-color:  #4CAF50;;
   color: #fff;
   text-decoration: none;

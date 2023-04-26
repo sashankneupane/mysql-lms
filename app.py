@@ -8,11 +8,12 @@ app = Flask(__name__)
 def index():
     html_result = ""
     query = ""
-    with_br_query = "hello\nworld"
+    with_br_query = ""
+    num_rows = 1
 
     if request.method == 'POST':
         # get the query from the form on the web page
-        with_br_query = request.form['query']
+        with_br_query = request.form['query'].strip()
         with_br_query = with_br_query.replace('<br>', '\n')
         query = with_br_query.replace('\n', ' ')
 
@@ -64,6 +65,7 @@ def sample_queries():
         queries = sql.split(';')
         queries = [q.strip() + ';' for q in queries]
         queries = [q.replace('\n', '<br>') for q in queries]
+        queries = [q for q in queries if q != ';']
     return render_template('sample_queries.html', queries=queries)
 
 if __name__ == '__main__':
@@ -73,4 +75,4 @@ def page_not_found(e):
     return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=5000)
