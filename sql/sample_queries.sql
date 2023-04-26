@@ -4,6 +4,18 @@ WHERE u.user_id NOT IN (
     SELECT s.user_id FROM students s
 );
 
+SELECT c.course_name
+FROM users u 
+JOIN professors p ON u.user_id = p.user_id
+JOIN courses c ON p.user_id = c.professor_id
+WHERE u.firstname = "Ruben" AND u.lastname = "Burton";
+
+SELECT d.dept_name
+FROM departments d 
+JOIN professors p ON d.dept_id = p.dept_id
+JOIN users u ON u.user_id = p.user_id
+WHERE u.firstname = "Ruben" AND u.lastname = "Burton";
+
 SELECT course_code AS `Course Code`, course_name AS `Course` 
 FROM departments d 
 JOIN courses c ON d.dept_id = c.dept_id
@@ -90,8 +102,8 @@ HAVING COUNT(dept_name)= (
     SELECT MAX(profnum) FROM (
         SELECT COUNT(dept_name) AS profnum 
         FROM professors NATURAL JOIN departments 
-        GROUP BY dept_name));
-
+        GROUP BY dept_name) AS subquery
+);
 
 SELECT c.course_name AS `Course`, COUNT(c.course_name) AS `Number of Students` 
 FROM enrollments e 
