@@ -4,7 +4,6 @@
     <title>SQL Query Tool</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style2.css') }}">
   </head>
 
   <body>
@@ -14,9 +13,11 @@
     <div class="content">
       <form action="/" method="post">
         <div class="input-container">
-          <input type="text" id="query" name="query" placeholder="Enter SQL Query here" value = "{{ last_query }}">
+          <textarea id="query" name="query" placeholder="Enter SQL Query here">{{ last_query }}</textarea>
           <input type="submit" value="Submit">
         </div>
+      </form>
+    </div>
       </form>
       {% if result %}
       <div class="result-container">
@@ -31,9 +32,16 @@
       {% endif %}
 
     </div>
-    <div>
-      <p><a href="https://github.com/sashankneupane7/mysql-lms" target = "_blank">View on GitHub</a></p>
+    <div class = "footer-container">
+      <!-- Add link to sample queries page -->
+      <div>
+        <p><a href="./sample_queries.html">Sample Queries</a></p>
+      </div>
+      <div>
+        <p><a href="https://github.com/sashankneupane7/mysql-lms" target = "_blank">View on GitHub</a></p>
+      </div>
     </div>
+    
   </body>
 
 </html>

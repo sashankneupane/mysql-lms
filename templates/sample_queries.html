@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SQL Query Tool</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style.css') }}">
+  </head>
+
+  <body>
+
+    <!-- <div class="header">
+        <h1>Learning Management System</h1>
+    </div> -->
+
+    <div class="content">
+        <table>
+          <tr>
+            <th>Sample Queries</th>
+            <th>Action</th>
+          </tr>
+          {% for query in queries %}
+          <tr>
+            <td>{{ query|safe }}</td>
+            <td>
+              <form action="/" method="post">
+                <input type="hidden" name="query" value="{{ query }}">
+                <input type="submit" value="Execute">
+              </form>
+            </td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+      
+    <div class = "footer-container">
+        <!-- Add link to sample queries page -->
+        <div>
+          <p><a href="./index.html">Query Page</a></p>
+        </div>
+        <div>
+          <p><a href="https://github.com/sashankneupane7/mysql-lms" target = "_blank">View on GitHub</a></p>
+        </div>
+      </div>
+
+  </body>
+</html>

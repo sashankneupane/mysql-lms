@@ -8,10 +8,13 @@ app = Flask(__name__)
 def index():
     html_result = ""
     query = ""
+    with_br_query = "hello\nworld"
 
     if request.method == 'POST':
         # get the query from the form on the web page
-        query = request.form['query']
+        with_br_query = request.form['query']
+        with_br_query = with_br_query.replace('<br>', '\n')
+        query = with_br_query.replace('\n', ' ')
 
         try:
             # connect to the database
@@ -48,10 +51,23 @@ def index():
 
         except Exception as e:
             html_result = "Error executing query: " + str(e)
-            return render_template('index.html', error=html_result, last_query = query)
+            return render_template('index.html', error=html_result, last_query = with_br_query)
 
-    return render_template('index.html', result=html_result, last_query = query)
+    return render_template('index.html', result=html_result, last_query = with_br_query)
 
+
+@app.route('/sample_queries.html', methods=['GET', 'POST'])
+def sample_queries():
+    queries = None
+    with open('./sql/sample_queries.sql', 'r') as f:
+        sql = f.read().strip()
+        queries = sql.split(';')
+        queries = [q.strip() + ';' for q in queries]
+        queries = [q.replace('\n', '<br>') for q in queries]
+    return render_template('sample_queries.html', queries=queries)
+
+if __name__ == '__main__':
+    app.run(debug=True)
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('index.html')
