@@ -11,7 +11,6 @@ Faker.seed(1234)
 fake = Faker()
 
 
-
 class generateData:
 
     def __init__(self, mycursor, rootfile = './data/'):
