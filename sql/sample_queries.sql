@@ -4,6 +4,13 @@ WHERE u.user_id NOT IN (
     SELECT s.user_id FROM students s
 );
 
+SELECT courses.course_name AS `Courses`
+FROM ((users 
+INNER JOIN students ON users.user_id=students.user_id) 
+INNER JOIN enrollments ON students.user_id=enrollments.student_id) 
+INNER JOIN courses ON enrollments.course_id=courses.course_id 
+WHERE users.firstname="Tammy" AND users.lastname="Alexander";
+
 SELECT c.course_name
 FROM users u 
 JOIN professors p ON u.user_id = p.user_id
@@ -40,16 +47,6 @@ FROM professors p
 JOIN users u ON u.user_id = p.user_id
 JOIN departments d ON d.dept_id = p.dept_id
 WHERE d.dept_name = 'Computer Science';
-
-SELECT c.course_code AS `Course Code`, c.course_name AS `Course Name`
-FROM courses c
-WHERE c.professor_id IN (
-    SELECT u.user_id
-    FROM professors p
-    JOIN users u 
-    ON u.user_id = p.user_id
-    WHERE u.lastname = 'Smith'
-);
 
 SELECT c.course_name AS `Course Name`, COUNT(e.student_id) AS `Enrollments`
 FROM courses c
