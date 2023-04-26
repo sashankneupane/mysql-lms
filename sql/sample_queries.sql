@@ -46,35 +46,16 @@ JOIN enrollments e ON e.student_id = s.user_id
 JOIN courses c ON c.course_id = e.course_id
 WHERE c.course_name = 'Database Systems';
 
-SELECT u.firstname, u.lastname, AVG(g.grade) AS avg_grade
-FROM students s
-JOIN users u ON u.user_id = s.user_id
-JOIN grades g ON g.student_id = s.user_id
-GROUP BY s.user_id;
-
-SELECT DISTINCT u.firstname, u.lastname, u.email
-FROM students s
-JOIN users u ON u.user_id = s.user_id
-JOIN grades g ON g.student_id = s.user_id
-WHERE g.grade < 70;
-
-SELECT m.major_name, COUNT(s.user_id) AS num_students
+SELECT m.major_name AS `Major`, COUNT(s.user_id) AS `Number of Students`
 FROM majors m
 JOIN students s ON s.major_id = m.major_id
-GROUP BY m.major_id;
+GROUP BY m.major_id
+ORDER BY COUNT(s.user_id) DESC;
 
-SELECT course_code, course_name
+SELECT course_code AS `Course Code`, course_name AS `Course Name`
 FROM courses
 WHERE course_id IN (
     SELECT course_id FROM enrollments
     GROUP BY course_id
-    HAVING COUNT(student_id) >= 3
-);
-
-SELECT firstname, lastname, email
-FROM users
-WHERE user_id IN (
-    SELECT user_id FROM admins
-    UNION
-    SELECT user_id FROM professors
+    HAVING COUNT(student_id) >= 50
 );
